@@ -20,7 +20,7 @@ development:
   database: SpotTheBin_development
   pool: 5
   username: SpotTheBin
-  password:
+  password: bin
 
   # Connect on a TCP socket. Omitted by default since the client uses a
   # domain socket that doesn't need configuration. Windows does not have
@@ -49,7 +49,7 @@ test:
   database: SpotTheBin_test
   pool: 5
   username: SpotTheBin
-  password:
+  password: bin
 
 production:
   adapter: postgresql
@@ -57,4 +57,4 @@ production:
   database: SpotTheBin_production
   pool: 5
   username: SpotTheBin
-  password:
+  password: bin
