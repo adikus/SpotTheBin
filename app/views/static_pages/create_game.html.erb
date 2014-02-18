@@ -1,11 +1,10 @@
 <center>
 	<h1>Create a new Game</h1>
 	<table><tbody><tr>
-		<td><%= image_tag("map.png", size:'500x500') %></td>
+		<td><%= image_tag("map.png", size:'500x500', id:'pointer_div', onclick:'point_it(event)') %></td>
 		<td>
 
 <form name="pointform" method="post">
-<div id="pointer_div" onclick="point_it(event)" style = "background-image:url('sun.jpg');width:500px;height:333px;">
 You pointed on x = <input type="text" name="form_x" size="4" /> - y = <input type="text" name="form_y" size="4" />
 </form>
 
