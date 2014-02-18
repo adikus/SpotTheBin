@@ -68,6 +68,20 @@
               <%= f.submit 'Create game', class: 'btn btn-primary btn-lg btn-block' %>
             </div>
           </div>
+          <h3>Categories:</h3>
+        <% Place.select("DISTINCT(CATEGORY)").each do |p| %>
+          <div class="form-group">
+            <div class="col-sm-9 col-sm-offset-3">
+              <%= check_box_tag p.category %> - <%= p.category %> <BR>
+            </div>
+          </div>
+        <% end %>
+        <!--
+          <div class="form-group">
+            <div class="col-sm-9 col-sm-offset-3">
+            </div>
+          </div>
+        -->
       <% end %>
     </div>
 </div>
