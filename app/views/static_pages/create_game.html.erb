@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <center>
 	<h1>Create a new Game</h1>
 	<table><tbody><tr>
@@ -13,3 +14,16 @@
 			<p>Y:<span id="y"></span></p>
 		</td>
 </center>
+=======
+<div class="text-center">
+  <h1>Create a new Game</h1>
+  <table><tbody><tr>
+    <td><%= image_tag("map.png", size:'500x500', id:'pointer_div', onclick:'point_it(event)') %></td>
+	<td>
+      <form name="pointform" method="post">
+      You pointed on x = <input type="text" name="form_x" size="4" /> - y = <input type="text" name="form_y" size="4" />
+      </form>
+    </td>
+  </tr></tbody></table>
+</div>
+>>>>>>> 11e20fd0116ba2008cec01e9c5e8fdd2bf55408a
