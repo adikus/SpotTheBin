@@ -1,5 +1,5 @@
 <%
-    places_json = @places.map{ |p| {x: p.fx, y: p.fy, name: p.name} }.to_json
+    places_json = @places.map{ |p| {x: p.fx, y: p.fy, name: p.name, category: p.category} }.to_json
 %>
 <script>
   places = <%= places_json.html_safe %>;
@@ -8,7 +8,7 @@
 <div class="page-header text-center">
   <h1>Create a Game</h1>
 </div>
-<div class="row">
+<div class="row-fluid">
     <div class="col-sm-6">
       <canvas id="pointer">
       Your browser does not support the HTML5 canvas tag.</canvas>
@@ -49,47 +49,31 @@
             </div>
           </div>
 
-          <div class="form-group">
-            <%= f.label :center_x, class: 'col-sm-3 control-label' %>
-            <div class="col-sm-9">
-              <%= f.text_field :center_x, class: 'form-control', readonly: true %>
-            </div>
-          </div>
-
-          <div class="form-group">
-            <%= f.label :center_y, class: 'col-sm-3 control-label' %>
-            <div class="col-sm-9">
-              <%= f.text_field :center_y, class: 'form-control', readonly: true %>
-            </div>
-          </div>
+          <%= f.hidden_field :center_x %>
+          <%= f.hidden_field :center_y %>
 
           <div class="form-group">
             <%= f.label :radius, class: 'col-sm-3 control-label' %>
             <div class="col-sm-9">
-              <%= f.text_field :radius, class: 'form-control' %>
-            </div>
-          </div><br>
- <h3>Categories:</h3>
-        <% Place.select("DISTINCT(CATEGORY)").each do |p| %>
-          <div class="form-group">
-            <div class="col-sm-9 col-sm-offset-3">
-              <%= check_box_tag p.category %> - <%= p.category %> <BR>
+              <%= f.text_field :radius, value: params[:game].nil? ? 1 : params[:game][:radius], class: 'form-control' %>
             </div>
           </div>
-        <% end %>
-        <br><br>
+
+          <div class="form-group">
+            <%= label_tag :categories, 'Categories', class: 'col-sm-3 control-label' %>
+            <div class="col-sm-9">
+              <% @categories.each do |p| %>
+                  <%= check_box_tag "game[category][]", p.category, !@game.category.nil? && @game.category.include?(p.category), id: "game_category_#{p.category}" %>
+                  <%= label_tag "game_category_#{p.category}", p.category.capitalize %>
+              <% end %>
+            </div>
+          </div>
+
           <div class="form-group">
             <div class="col-sm-9 col-sm-offset-3">
               <%= f.submit 'Create game', class: 'btn btn-primary btn-lg btn-block' %>
             </div>
           </div>
-         
-        <!--
-          <div class="form-group">
-            <div class="col-sm-9 col-sm-offset-3">
-            </div>
-          </div>
-        -->
       <% end %>
     </div>
 </div>

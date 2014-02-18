@@ -4,7 +4,7 @@ class Place < ActiveRecord::Base
   SCALE = 0.3775
 
   def self.in_radius_of(game)
-    Place.all.select { |p| (game.radius*Place::SCALE*1000)**2 >= p.dist_sqr(game.center_x, game.center_y) }
+    Place.all.select { |p| (game.radius.to_i*Place::SCALE*1000)**2 >= p.dist_sqr(game.center_x.to_i, game.center_y.to_i) }
   end
 
   def fy
