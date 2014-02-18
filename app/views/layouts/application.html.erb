@@ -6,18 +6,10 @@
   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
   <%= csrf_meta_tags %>
 
-<script language="JavaScript">
-function point_it(event){
-    pos_x = event.offsetX?(event.offsetX):event.pageX-document.getElementById("pointer_div").offsetLeft;
-    pos_y = event.offsetY?(event.offsetY):event.pageY-document.getElementById("pointer_div").offsetTop;
-    document.pointform.form_x.value = pos_x;
-    document.pointform.form_y.value = pos_y;
-}
-</script>
-
 
 </head>
 <body>
+
 <nav class="navbar navbar-default" role="navigation">
   <div class="container">
     <!-- Brand and toggle get grouped for better mobile display -->
@@ -34,7 +26,7 @@ function point_it(event){
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-        <li class="active"><%= link_to 'What is Spot the Bin', what_is_path %></li>
+        <li><%= link_to 'What is Spot the Bin', what_is_path %></li>
         <li><%= link_to 'How to play', how_to_path %></li>
         <li><%= link_to 'CREATE GAME', create_game_path %></li>
       </ul>

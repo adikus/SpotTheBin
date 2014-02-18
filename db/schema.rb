@@ -13,9 +13,6 @@
 
 ActiveRecord::Schema.define(version: 20140218123639) do
 
-  # These are extensions that must be enabled in order to support this database
-  enable_extension "plpgsql"
-
   create_table "places", force: true do |t|
     t.string "name"
     t.float  "x"
