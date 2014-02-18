@@ -1,11 +1,11 @@
-<div class="text-center">
-  <h1>Create a new Game</h1>
-  <table><tbody><tr>
-    <td><%= image_tag("map.png", size:'500x500', id:'pointer_div', onclick:'point_it(event)') %></td>
-	<td>
-      <form name="pointform" method="post">
-      You pointed on x = <input type="text" name="form_x" size="4" /> - y = <input type="text" name="form_y" size="4" />
-      </form>
-    </td>
-  </tr></tbody></table>
+<h1 class="text-center">Create a new Game</h1>
+
+<div class="row">
+    <div class="col-sm-6">
+      <%= image_tag("map.png", size:'500x500', id:'pointer') %>
+    </div>
+    <div class="col-sm-6">
+      <p>X:<span id="x"></span></p>
+      <p>Y:<span id="y"></span></p>
+    </div>
 </div>
