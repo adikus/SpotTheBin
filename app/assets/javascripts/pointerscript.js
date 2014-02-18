@@ -23,6 +23,17 @@ $(window).load(function(){
 
 function drawMap(){
 	canvas.ctx.drawImage(canvas.img,0,0,canvas.img.width, canvas.img.height,0,0,canvas.width,canvas.height);
+    for(var i in places){
+        var place = places[i];
+        canvas.ctx.beginPath();
+        canvas.ctx.arc(place.x*canvas.scale, place.y*canvas.scale, 3, 0, Math.PI*2, true);
+        canvas.ctx.lineWidth=1;
+        canvas.ctx.strokeStyle = '#000000';
+        canvas.ctx.fillStyle = '#FF0000';
+        canvas.ctx.stroke();
+        canvas.ctx.fill();
+        canvas.ctx.closePath();
+    }
 }
 
 function drawer(){

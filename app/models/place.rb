@@ -7,12 +7,12 @@ class Place < ActiveRecord::Base
     Place.all.select { |p| (game.radius*Place::SCALE*1000)**2 >= p.dist_sqr(game.center_x, game.center_y) }
   end
 
-  def fx
-    y*(10**5)*0.0049 + x*(10**5)*0.0791
+  def fy
+    -42593.90208*y+2384150.649
   end
 
-  def fy
-    -y*(10**5)*0.0568 - x*(10**5)*1.0022
+  def fx
+    22520.79335*x+73792.44223
   end
 
   def dist_sqr(x,y)

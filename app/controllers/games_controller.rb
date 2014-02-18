@@ -1,5 +1,6 @@
 class GamesController < ApplicationController
   def new
+    @places = Place.all
     @game = Game.new
   end
 
