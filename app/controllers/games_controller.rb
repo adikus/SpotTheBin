@@ -2,7 +2,7 @@ class GamesController < ApplicationController
   def new
     @places = Place.all
     @game = Game.new
-    @categories = Place.select('DISTINCT(CATEGORY)')
+    @categories = Place.select('DISTINCT(category)')
   end
 
   def create
@@ -12,7 +12,7 @@ class GamesController < ApplicationController
       redirect_to root_url
     else
       @places = Place.all
-      @categories = Place.select('DISTINCT(CATEGORY)')
+      @categories = Place.select('DISTINCT(category)')
       render action: 'new'
     end
   end
