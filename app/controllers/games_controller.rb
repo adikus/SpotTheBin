@@ -8,7 +8,7 @@ class GamesController < ApplicationController
   def create
     @game = Game.new(game_params)
     if @game.save
-      @nodes = Place.in_radius_of @game
+      @nodes = Node.create_in_radius_of @game
       redirect_to root_url
     else
       @places = Place.all
