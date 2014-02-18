@@ -8,7 +8,7 @@ def is_number(s):
 
 lines = [line.strip() for line in open('Source.txt')]
 file = open("result", 'w')
-category = "Parks and gardens"
+category = "Housing Complexes"
 for line in lines :
 	line = line.replace("\"", "")
 	line = line.replace("\'", "")
