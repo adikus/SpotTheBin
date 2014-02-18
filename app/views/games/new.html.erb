@@ -1,3 +1,10 @@
+<%
+    places_json = @places.map{ |p| {x: p.fx, y: p.fy, name: p.name} }.to_json
+%>
+<script>
+  places = <%= places_json.html_safe %>;
+</script>
+
 <div class="page-header text-center">
   <h1>Create a Game</h1>
 </div>
