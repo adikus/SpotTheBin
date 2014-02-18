@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  place_id: 1
+  game_id: 1
+  player_id: 1
+  claimed_at: 2014-02-18 14:36:11
+
+two:
+  place_id: 1
+  game_id: 1
+  player_id: 1
+  claimed_at: 2014-02-18 14:36:11

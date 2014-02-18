@@ -5,6 +5,20 @@
       <%= image_tag("map.png", size:'500x500', id:'pointer') %>
     </div>
     <div class="col-sm-6">
+
+      
+    <% @game.errors.any? do %>
+      <div class="alert alert-danger">
+        <ul>
+          <% @game.errors.full_messages.each do |message| %>
+            <li><%= message %></li>
+          <% end %>
+        </ul>
+      </div>
+    <% end %>
+      
+
+
       <p>X:<span id="x"></span></p>
       <p>Y:<span id="y"></span></p>
 
