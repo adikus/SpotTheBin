@@ -10,8 +10,4 @@ class StaticPagesController < ApplicationController
   def what_is_spot_the_bin
 
   end
-
-  def create_game
-
-  end
 end

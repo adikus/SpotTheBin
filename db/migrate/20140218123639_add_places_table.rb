@@ -4,7 +4,7 @@ class AddPlacesTable < ActiveRecord::Migration
       t.string :name
       t.float  :x
       t.float  :y
-      t.string :category
+      t.string :categor
     end
   end
 end
