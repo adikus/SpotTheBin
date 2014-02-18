@@ -6,7 +6,7 @@ class GamesController < ApplicationController
   def create
     @game = Game.new(game_params)
     if @game.save
-      @nodes = Place.in_radius(@game)
+      @nodes = Place.in_radius_of @game
       redirect_to root_url
     else
       render action: 'new'

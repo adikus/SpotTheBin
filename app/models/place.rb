@@ -3,16 +3,16 @@ class Place < ActiveRecord::Base
 
   SCALE = 0.3775
 
-  def self.in_radius(game)
-    Place.all.select { |p| (game.radius*Place::SCALE)**2 >= p.dist_sqr(game.center_x, game.center_y) }
+  def self.in_radius_of(game)
+    Place.all.select { |p| (game.radius*Place::SCALE*1000)**2 >= p.dist_sqr(game.center_x, game.center_y) }
   end
 
   def fx
-    x*(10**4)*2.2721 + (10**4)*7.4448
+    y*(10**5)*0.0049 + x*(10**5)*0.0791
   end
 
   def fy
-    -y*(10**6)*0.043 + (10**6)*2.4078
+    -y*(10**5)*0.0568 - x*(10**5)*1.0022
   end
 
   def dist_sqr(x,y)
