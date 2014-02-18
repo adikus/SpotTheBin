@@ -63,8 +63,9 @@
             <%= label_tag :categories, 'Categories', class: 'col-sm-3 control-label' %>
             <div class="col-sm-9">
               <% @categories.each do |p| %>
-                  <%= check_box_tag "game[category][]", p.category, !@game.category.nil? && @game.category.include?(p.category), id: "game_category_#{p.category}" %>
-                  <%= label_tag "game_category_#{p.category}", p.category.capitalize %>
+                  <%= check_box_tag "game[category][]", p.category, !@game.category.nil? && @game.category.include?(p.category), id: "game_category_#{p.category}".gsub(" ", "_") %>
+                  <%= label_tag "game_category_#{p.category.gsub(" ", "_")}", p.category.capitalize %>
+                  <br>
               <% end %>
             </div>
           </div>

@@ -33,7 +33,7 @@ function drawMap(){
 	canvas.ctx.drawImage(canvas.img,0,0,canvas.img.width, canvas.img.height,0,0,canvas.width,canvas.height);
     for(var i in places){
         var place = places[i];
-        if($('#game_category_'+place.category).is(':checked')){
+        if($('#game_category_'+(place.category.replace(" ", "_"))).is(':checked')){
             canvas.ctx.beginPath();
             canvas.ctx.arc(place.x*canvas.scale, place.y*canvas.scale, 3, 0, Math.PI*2, true);
             canvas.ctx.lineWidth=1;
