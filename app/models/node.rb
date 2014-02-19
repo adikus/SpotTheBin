@@ -16,13 +16,9 @@ class Node < ActiveRecord::Base
     next_nodes = []
     connections.each do |c|
       if c.node_id1 == self.id
-        if (c.node2.player_id.blank?)
-          next_nodes << c.node2
-        end
+        next_nodes << c.node2
       else
-        if (c.node1.player_id.blank?)
-          next_nodes << c.node1
-        end
+        next_nodes << c.node1
       end
     end
     return next_nodes
