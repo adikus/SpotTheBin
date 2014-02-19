@@ -6,6 +6,7 @@ class Game < ActiveRecord::Base
   attr_accessor :category
 
   validates :name, :password, :start_time, presence: true
+  validates :name, :uniqueness => {:message => "Well damn. That name is already taken."}
   validates :center_x, :center_y, numericality: { only_integer: true }
   validates :radius, numericality: true
   has_many :nodes
