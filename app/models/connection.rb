@@ -3,6 +3,10 @@ class Connection < ActiveRecord::Base
   belongs_to :node1, foreign_key: :node_id1, class_name: 'Node'
   belongs_to :node2, foreign_key: :node_id2, class_name: 'Node'
 
+  def self.find_connected(node)
+    where 'node_id1 = :id OR node_id2 = :id', id: node.id
+  end
+
   def self.create_edges(nodes)
     #Generate Edges
     edges=[]
@@ -17,14 +21,17 @@ class Connection < ActiveRecord::Base
       end
     end
     #Order Edges
-    edges.sort {|x,y| x.length<=>y.length }
+    edges.sort! {|x,y| x.length<=>y.length }
 
     #Add Edges
     added=[]
+    i = 0
     edges.each do |edge|
       unless edge.is_in added
         added << edge
       end
+      i += 1
+      logger.debug "#{i} of #{edges.size} done"
     end
 
     added.each do |edge|

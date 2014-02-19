@@ -1,4 +1,9 @@
 class GamesController < ApplicationController
+
+  def show
+    @game = Game.find(params[:id])
+  end
+
   def new
     @places = Place.all
     @game = Game.new
@@ -9,7 +14,7 @@ class GamesController < ApplicationController
     @game = Game.new(game_params)
     if @game.save
       @nodes = Node.create_in_radius_of @game
-      redirect_to root_url
+      redirect_to @game
     else
       @places = Place.all
       @categories = Place.select('DISTINCT(category)')

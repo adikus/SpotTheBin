@@ -1,6 +1,8 @@
 canvas = {};
 
 $(window).load(function(){
+    if($("#pointer").length == 0)return;
+
 	canvas.img = $("#pointerimg")[0];
 	canvas.ctx = $("#pointer")[0].getContext("2d");
     canvas.$   = $('#pointer');

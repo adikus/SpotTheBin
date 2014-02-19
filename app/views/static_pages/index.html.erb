@@ -1,3 +1,11 @@
 <div class="page-header text-center">
   <h1>Welcome to Spot the Bin!</h1>
+
+  <h2>List of games</h2>
+  <div class="list-group">
+    <% @games.each do |game| %>
+        <%= link_to "#{game.name} #{game.nodes.count} nodes", game, class: 'list-group-item' %>
+    <% end %>
+  </div>
+
 </div>

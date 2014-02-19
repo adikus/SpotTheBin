@@ -15,10 +15,10 @@ gem 'uglifier', '>= 1.3.0'
 # Use CoffeeScript for .js.coffee assets and views
 gem 'coffee-rails', '~> 4.0.0'
 
-group :development do
+#group :development do
   gem 'better_errors', '0.9.0'
   gem 'binding_of_caller', '0.7.2'
-end
+#end
 
 # See https://github.com/sstephenson/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
