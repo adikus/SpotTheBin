@@ -3,6 +3,10 @@ class Connection < ActiveRecord::Base
   belongs_to :node1, foreign_key: :node_id1, class_name: 'Node'
   belongs_to :node2, foreign_key: :node_id2, class_name: 'Node'
 
+  def self.find_connected(node)
+    where 'node_id1 = :id OR node_id2 = :id', id: node.id
+  end
+
   def self.create_edges(nodes)
     #Generate Edges
     edges=[]
