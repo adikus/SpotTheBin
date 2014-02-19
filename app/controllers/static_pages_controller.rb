@@ -25,35 +25,45 @@ class StaticPagesController < ApplicationController
 			# player did not log into the game with right credentials
 		end
 
-		player = game.players.find_by(name: name)
+		time = Time.now.getutc
+		if (time - game.start_time) > 0
 
-		if (player.nil?)
-			Player.create(name: name, password: pass, game_id: game.id)
-			player=Player.find_by(name: name)
-			new_node = get_next_node(360,x,y,Node.all)
-			if (new_node.nil?)
+			player = game.players.find_by(name: name)
+
+			if (player.nil? and ((time - game.start_time) < 120))
+				Player.create(name: name, password: pass, game_id: game.id)
+				player=Player.find_by(name: name)
+				new_node = get_next_node(360,x,y,Node.all)
+				if (new_node.nil?)
+					return
+					# player cannot join - Map is full
+				end
+				set_owner(player,new_node)
 				return
-				# player cannot join - Map is full
+			else
+				return
+				# It is too late to register
 			end
-			set_owner(player,new_node)
-			return
-		end
 
-		if (player.password != pass)
-			return
-			# player did not log in with correct credentials
-		end
+			if (player.password != pass)
+				return
+				# player did not log in with correct credentials
+			end
 
-		current = player.nodes.where(game: game).order(claimed_at: :desc).first
-		possible = current.get_next_nodes
-		tolerance = 3
-		next_node = get_next_node(tolerance,x,y,possible)
-		if next_node.nil?
+			current = player.nodes.where(game: game).order(claimed_at: :desc).first
+			possible = current.get_next_nodes
+			tolerance = 3
+			next_node = get_next_node(tolerance,x,y,possible)
+			if next_node.nil?
+				return
+				# No node was in reach.
+			end
+			set_owner(player,next_node)
+			error
+		else
 			return
-			# No node was in reach.
+			# game has not started yet
 		end
-		set_owner(player,next_node)
-		error
 	end
 
 	def get_next_node(tolerance,x,y,possible)
