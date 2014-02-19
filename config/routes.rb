@@ -3,12 +3,8 @@ SpotTheBin::Application.routes.draw do
 
   get 'how_to' => 'static_pages#how_to_play'
   get 'what_is' => 'static_pages#what_is_spot_the_bin'
-<<<<<<< HEAD
   get 'send_data' => 'static_pages#send_data'
-  resource :games
-=======
   resources :games
->>>>>>> b994d089dacb7e2de3281952f01472b61a871d26
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
