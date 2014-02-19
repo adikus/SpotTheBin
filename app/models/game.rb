@@ -5,7 +5,7 @@ class Game < ActiveRecord::Base
   attr_accessor :radius
   attr_accessor :category
 
-  validates :name, :password, :start_time, presence: true
+  validates :name, :password, presence: true #:start_time
   validates :center_x, :center_y, numericality: { only_integer: true }
   validates :radius, numericality: true
   has_many :nodes
