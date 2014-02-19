@@ -11,6 +11,23 @@ class Node < ActiveRecord::Base
     Connection.create_edges(nodes)
   end
 
+  def get_next_nodes
+    connections = Connection.find_connections(self)
+    next_nodes = []
+    connections.each do |c|
+      if c.node_id1 == self.id
+        if (c.node2.player_id.blank?)
+          next_nodes << c.node2
+        end
+      else
+        if (c.node1.player_id.blank?)
+          next_nodes << c.node1
+        end
+      end
+    end
+    return next_nodes
+  end
+
   def fx
     place.fx
   end

@@ -25,7 +25,11 @@ $(window).load(function(){
         game.ctx.arc(node.x*game.scale, node.y*game.scale, 3, 0, Math.PI*2, true);
         game.ctx.lineWidth=1;
         game.ctx.strokeStyle = '#000000';
-        game.ctx.fillStyle = '#FF0000';
+        if(node.taken){
+            game.ctx.fillStyle = '#00FF00';
+        }else{
+            game.ctx.fillStyle = '#FF0000';
+        }
         game.ctx.stroke();
         game.ctx.fill();
         game.ctx.closePath();
