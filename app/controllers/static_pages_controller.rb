@@ -12,17 +12,17 @@ class StaticPagesController < ApplicationController
 	end
 
 	def send_data
+		@messages = []
 		gname = params[:sgname]
 		gpass = params[:sgpass]
 		name = params[:sname]
 		pass = params[:spass]
 		x = params[:sx].to_f
 		y = params[:sy].to_f
-
 		game = Game.find_by(name: gname)
 		if (game.nil? or (game.password != gpass))
+			@messages << "Player did not log into the game with right credentials."
 			return
-			# player did not log into the game with right credentials
 		end
 
 		time = Time.now.getutc
@@ -30,39 +30,44 @@ class StaticPagesController < ApplicationController
 
 			player = game.players.find_by(name: name)
 
-			if (player.nil? and ((time - game.start_time) < 120))
-				Player.create(name: name, password: pass, game_id: game.id)
-				player=Player.find_by(name: name)
-				new_node = get_next_node(360,x,y,Node.all)
-				if (new_node.nil?)
+			if (player.nil?)
+				if ((time - game.start_time) < 120)
+					Player.create(name: name, password: pass, game_id: game.id)
+					player=Player.find_by(name: name)
+					new_node = get_next_node(360,x,y,Node.all)
+					if (new_node.nil?)
+						@messages << "Player cannot join - Map is full."
+						return
+					end
+					set_owner(player,new_node)
+					@messages << "Player added."
 					return
-					# player cannot join - Map is full
+				else
+					@messages << "It is too late to register."
+					return
 				end
-				set_owner(player,new_node)
-				return
-			else
-				return
-				# It is too late to register
 			end
 
 			if (player.password != pass)
+				@messages << "Player did not log in with correct credentials."
 				return
-				# player did not log in with correct credentials
 			end
 
 			current = player.nodes.where(game: game).order(claimed_at: :desc).first
 			possible = current.get_next_nodes
-			tolerance = 3
+			tolerance = 30000
 			next_node = get_next_node(tolerance,x,y,possible)
 			if next_node.nil?
+				@messages << "No node was in reach."
 				return
-				# No node was in reach.
 			end
 			set_owner(player,next_node)
+			@messages << "Node taken."
+			return
 			error
 		else
+			@messages << "game has not started yet"
 			return
-			# game has not started yet
 		end
 	end
 

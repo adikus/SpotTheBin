@@ -2,14 +2,24 @@
   <h1>Send Data</h1>
 </div>
 <div class="row-fluid">
-	<%= @current_node %>
+
+	<% @messages.any? do %>
+      <div class="alert alert-danger">
+        <ul>
+          <% @messages.each do |message| %>
+            <li><%= message %></li>
+          <% end %>
+        </ul>
+      </div>
+    <% end %>
+
 	<form method="GET">
-	Game Name: <input type="text" name="sgname"><br>
-	Game Pass: <input type="password" name="sgpass"><br>
-	Player Name: <input type="text" name="sname"><br>
-	Player Pass: <input type="password" name="spass"><br>
-	X: <input type="text" name="sx"><br>
-	Y: <input type="text" name="sy"><br>
-	<input type="submit" value="SEND">
-</form>
+		Game Name: <input type="text" name="sgname"><br>
+		Game Pass: <input type="password" name="sgpass"><br>
+		Player Name: <input type="text" name="sname"><br>
+		Player Pass: <input type="password" name="spass"><br>
+		X: <input type="text" name="sx"><br>
+		Y: <input type="text" name="sy"><br>
+		<input type="submit" value="SEND">
+	</form>
 </div>
