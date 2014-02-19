@@ -10,5 +10,6 @@ class Game < ActiveRecord::Base
   validates :radius, numericality: true
   has_many :nodes
   has_many :players
+  has_many :connections, through: :nodes, source: :connections
 
 end

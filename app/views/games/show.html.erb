@@ -1,0 +1,13 @@
+<div class="page-header text-center">
+  <h1><%= @game.name %></h1>
+</div>
+
+<script type="text/javascript">
+  game = {
+      nodes: <%= @game.nodes.map{|n| {id: n.id, name: n.place.name, x: n.fx, y: n.fy} }.to_json.html_safe %>,
+      connections: <%= @game.connections.map{|c| { x1: c.node1.fx, y1: c.node1.fy, x2: c.node2.fx, y2: c.node2.fy } }.to_json.html_safe %>
+  };
+</script>
+
+<canvas id="game_map"></canvas>
+<%= image_tag("map.png", id:'pointerimg') %>

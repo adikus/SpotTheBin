@@ -17,14 +17,17 @@ class Connection < ActiveRecord::Base
       end
     end
     #Order Edges
-    edges.sort {|x,y| x.length<=>y.length }
+    edges.sort! {|x,y| x.length<=>y.length }
 
     #Add Edges
     added=[]
+    i = 0
     edges.each do |edge|
       unless edge.is_in added
         added << edge
       end
+      i += 1
+      logger.debug "#{i} of #{edges.size} done"
     end
 
     added.each do |edge|
