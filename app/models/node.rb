@@ -25,11 +25,11 @@ class Node < ActiveRecord::Base
   end
 
   def fx
-    place.fx
+    place.fx.to_i
   end
 
   def fy
-    place.fy
+    place.fy.to_i
   end
 
 end

@@ -34,7 +34,7 @@ class StaticPagesController < ApplicationController
 			if (player.nil?)
 				if ((time - game.start_time) < 5000000000)
 					Player.create(name: name, password: pass, game_id: game.id)
-					player=Player.find_by(name: name)
+					player=game.players.find_by(name: name)
 					new_node = get_next_node(360,x,y,Node.where(game_id: game.id))
 					if (new_node.nil?)
 						@messages << "Player cannot join - Map is full."
@@ -79,19 +79,37 @@ class StaticPagesController < ApplicationController
 
 	def generate_output (p, g, t)
 		if t == "S"
-			@o = "[][]" + t + "[][]"
-			@o = @o + @messages.join(";;;") + "\#\#\#"
-			@o = @o + get_string_node_info(p,g) + "\#\#\#"
-			@o = @o + get_string_node_circles(p,g) + "\#\#\#"
-			@o = @o + get_string_connection_colors(p,g) + "\#\#\#"
+			@o = "[[]]" + t + "[[]]"
+			@o = @o + @messages.join(";;;") + "[\#\#\#]"
+			@o = @o + "No errors [\#\#\#]"
+			@o = @o + get_string_node_info(p,g) + "[\#\#\#]"
+			@o = @o + get_string_node_circles(p,g) + "[\#\#\#]"
+			@o = @o + get_string_connection_colors(p,g)
+			@o = @o + "[[]]"
 		else
-			@o = "[][]" + t + "[][]" + @messages.join(";;;") + "[][]"
+			@o = "[[]]" + t + "[[]]" + @messages.join(";;;") + "[[]]"
 		end
 
 	end
 
 	def get_string_connection_colors(p,g)
-		
+		cons = g.connections
+		datas = []
+		cons.each do |c|
+			data = []
+			if (c.node1.player_id == c.node2.player_id and (not c.node1.player_id.blank?))
+				if c.node1.player_id == p.id
+					color = 1
+				else
+					color = 2
+				end
+			else
+				color = 0
+			end
+			data << c.node1.fx.to_s << c.node1.fy.to_s << c.node2.fx.to_s << c.node2.fy.to_s << color.to_s
+			datas << data.join("[&&&]")
+		end
+		return datas.join("[;;;]")
 	end
 
 	def get_string_node_circles(p,g)
@@ -110,9 +128,9 @@ class StaticPagesController < ApplicationController
 				end
 			end
 			data << node.fx.to_s << node.fy.to_s << color.to_s
-			datas << data.join("&&&")
+			datas << data.join("[&&&]")
 		end
-		return datas.join(";;;")
+		return datas.join("[;;;]")
 	end
 
 	def get_string_node_info(p,g)
@@ -130,9 +148,9 @@ class StaticPagesController < ApplicationController
 				end
 			end
 			data << n.fx.to_s << n.fy.to_s << color.to_s
-			datas << data.join("&&&")
+			datas << data.join("[&&&]")
 		end
-		return datas.join(";;;")
+		return datas.join("[;;;]")
 	end
 
 	def get_next_node(tolerance,x,y,possible)
