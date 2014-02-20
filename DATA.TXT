@@ -1,0 +1,628 @@
+Cemeteries and crematoria;;;BuccleuchChurchyard;;;55.94163;;;-3.183462
+Cemeteries and crematoria;;;CanongateChurchyard;;;55.951403;;;-3.179765
+Cemeteries and crematoria;;;ComelyBankCemetery;;;55.958445;;;-3.227928
+Cemeteries and crematoria;;;CorstorphineChurchyard;;;55.94203837275701;;;-3.2819080352783203
+Cemeteries and crematoria;;;DalryCemetery;;;55.940602;;;-3.224066
+Cemeteries and crematoria;;;EastPrestonStreetCemetery;;;55.93872154763692;;;-3.1761646270751953
+Cemeteries and crematoria;;;GrangeCemetery;;;55.934058284183166;;;-3.1902408599853516
+Cemeteries and crematoria;;;GreyfriarsChruchyard;;;55.947127;;;-3.191861
+Cemeteries and crematoria;;;JewishCemetery;;;55.937673;;;-3.181991
+Cemeteries and crematoria;;;NewCaltonBurialGround;;;55.953380729136036;;;-3.1765079498291016
+Cemeteries and crematoria;;;NewingtonCemetery;;;55.932773;;;-3.165515
+Cemeteries and crematoria;;;NorthLeithChurchyard;;;55.976023;;;-3.175263
+Cemeteries and crematoria;;;NorthMerchistonCemetery;;;55.936266;;;-3.228695
+Cemeteries and crematoria;;;OldCaltonBurialGround;;;55.953683;;;-3.187256
+Cemeteries and crematoria;;;RosebankCemetery;;;55.96779418327927;;;-3.184833526611328
+Cemeteries and crematoria;;;SaughtonCemetery;;;55.927962;;;-3.253704
+Cemeteries and crematoria;;;SouthLeithChurchyard;;;55.972205;;;-3.171338
+Cemeteries and crematoria;;;StCuthbertsChurchyard;;;55.949669;;;-3.206882
+Cemeteries and crematoria;;;WarristonCemetery;;;55.96798632640784;;;-3.1973648071289062
+Registered homecare providers;;;ActionGroup;;;55.961140638957005;;;-3.1665515899658203
+Registered homecare providers;;;;;;55.971228597800135;;;-3.1870222091674805
+Registered homecare providers;;;CareUK;;;55.930885021117376;;;-3.2535839080810547
+Registered homecare providers;;;CrossroadsCaringScotlandEdinburgh;;;55.938649439588616;;;-3.228778839111328
+Registered homecare providers;;;DeafAction;;;55.95748911046827;;;-3.189511299133301
+Registered homecare providers;;;Freespace;;;55.93843311463828;;;-3.243541717529297
+Registered homecare providers;;;HanoverHousingAssociationLimited;;;55.96488790210438;;;-3.1868934631347656
+Registered homecare providers;;;LeonardCheshireDisability;;;55.94576345361833;;;-3.2385635375976562
+Registered homecare providers;;;LinkLiving;;;55.926897226727874;;;-3.2497047632932663
+Registered homecare providers;;;MargarotForrest;;;55.95700862054742;;;-3.2485198974609375
+Registered homecare providers;;;MEARS;;;55.96126074917347;;;-3.1671524047851562
+Registered homecare providers;;;;;;55.93360154263285;;;-3.166980743408203
+Housing support organizations;;;AccessPoint;;;55.953914;;;-3.187842
+Housing support organizations;;;ActionGroup;;;55.961252;;;-3.166522
+Housing support organizations;;;Barnardos16+VisitingSupportService;;;55.94994;;;-3.190859
+Housing support organizations;;;BarnardosCareLeavers;;;55.94994;;;-3.190859
+Housing support organizations;;;BethanyChristianTrust;;;55.971477;;;-3.176956
+Housing support organizations;;;BlackwoodCare-CommunityWorker;;;55.956864472408114;;;-3.1685256958007812
+Housing support organizations;;;Physicaldisability;;;55.954871;;;-3.196712
+Housing support organizations;;;;;;55.947998330155315;;;-3.197622299194336
+Housing support organizations;;;TheCHAISubstanceMisuseSupportServicedeliversupporttopeoplewithsubstancemisuseproblemsresidentinSouthWestEdinburgh.;;;55.93011570608279;;;-3.255429267883301
+Housing support organizations;;;Changeworks;;;55.96983565523259;;;-3.1859922409057617
+Housing support organizations;;;CityYouthCafe;;;55.948427;;;-3.194031
+Housing support organizations;;;CityYouthCafe-DropinService;;;55.948427;;;-3.194031
+Housing support organizations;;;ComelyGreenService;;;55.92715850922621;;;-3.249635696411133
+Housing support organizations;;;ConnectedLearningandEmployability;;;55.96486388234225;;;-3.196249008178711
+Housing support organizations;;;CrossReachCunninghamHouse;;;55.9485;;;-3.188381
+Housing support organizations;;;CrossReachRankeillor;;;55.953855;;;-3.203231
+Housing support organizations;;;Physicalhealth;;;55.93415;;;-3.238573
+Housing support organizations;;;CyreniansHomelessnessPreventionService;;;55.961252;;;-3.166522
+Housing support organizations;;;Theholisticsupportgivessecurity;;;55.97432651439099;;;-3.1842756271362305
+Housing support organizations;;;DeafAction;;;55.95729691521565;;;-3.189554214477539
+Housing support organizations;;;DeanandCauvinTrust;;;55.950803;;;-3.212024
+Housing support organizations;;;DunedinHarbourHostel;;;55.97454263884914;;;-3.172602653503418
+Housing support organizations;;;EdinburghFurnitureInitiative;;;55.96529623577951;;;-3.196120262145996
+Housing support organizations;;;EdinburghHousingAdvicePartnership(EHAP);;;55.93028098989802;;;-3.2552307844161987
+Housing support organizations;;;EdinburghMentalHealthService;;;55.92711042285986;;;-3.2494640350341797
+Housing support organizations;;;EdinburghWomensAid;;;55.958305929645746;;;-3.2132434844970703
+Housing support organizations;;;EdinburghYoungPersonsService;;;55.927284735653956;;;-3.2493996620178223
+Housing support organizations;;;ESIST;;;55.96238976698833;;;-3.1901979446411133
+Housing support organizations;;;FourSquare;;;55.965307;;;-3.196265
+Housing support organizations;;;Freespace;;;55.941608;;;-3.225971
+Housing support organizations;;;Garvald;;;55.938176;;;-3.213167
+Housing support organizations;;;GatewaytoHomesandCommunities;;;55.971477;;;-3.176956
+Housing support organizations;;;GatewayVisitingSupport;;;55.971477;;;-3.176956
+Housing support organizations;;;Mentalhealth;;;55.951475;;;-3.178943
+Housing support organizations;;;GowrieCareMultipleNeeds;;;55.951475;;;-3.178943
+Housing support organizations;;;HealthinMind;;;55.94913974959227;;;-3.209960460662842
+Housing support organizations;;;HomeScotland;;;55.963079;;;-3.272498
+Housing support organizations;;;Mentalhealthproblem;;;55.94626511051918;;;-3.189226984977722
+Housing support organizations;;;KeyMoves;;;55.950815;;;-3.184032
+Housing support organizations;;;LetFirst;;;55.970796310646044;;;-3.1802845001220703
+Housing support organizations;;;OutoftheCold;;;55.9514345015822;;;-3.182988166809082
+Housing support organizations;;;Penumbra;;;55.961252;;;-3.166522
+Housing support organizations;;;PrestonfieldNeighbourhoodProject;;;55.93344228279986;;;-3.159215748310089
+Housing support organizations;;;ReachOut;;;55.962461830837;;;-3.1903696060180664
+Housing support organizations;;;RichmondFellowshipScotland;;;55.942374846393314;;;-3.225259780883789
+Housing support organizations;;;RockTrust;;;55.957321;;;-3.189564
+Housing support organizations;;;RunawaysActionProject;;;55.96222161748625;;;-3.1903696060180664
+Housing support organizations;;;Saheliya;;;55.965704565145934;;;-3.187708854675293
+Housing support organizations;;;SalvationArmy;;;55.946499415108676;;;-3.204176276922226
+Housing support organizations;;;ScottishVeterans;;;55.95222;;;-3.17706
+Housing support organizations;;;Supportforpeopleunder25yearsoldisthroughtheRockTrust–CrisisService.;;;55.94917504294649;;;-3.181719481945038
+Housing support organizations;;;Streetwork-TenancySupport;;;55.951530613881275;;;-3.1829023361206055
+Housing support organizations;;;Streetwork-WomensProject;;;55.962149553190294;;;-3.1903696060180664
+Housing support organizations;;;TurningPoint-Midpoint;;;55.973162;;;-3.16422
+Housing support organizations;;;YMCA;;;55.949673;;;-3.208226
+Care homes;;;ArkHousingAssociation;;;55.92997145781331;;;-3.2024717330932617
+Care homes;;;BelgraveLodgeNursingHome;;;55.942929;;;-3.2764
+Care homes;;;BellevilleLodgeNursingHome;;;55.936546;;;-3.173751
+Care homes;;;BieldHousingAssociation-CraighallCareHome;;;55.973328;;;-3.194702
+Care homes;;;BieldHousingAssociation-StockbridgeCareHome;;;55.95864;;;-3.209146
+Care homes;;;BraeburnHome;;;55.96276;;;-3.208618
+Care homes;;;CairdeasHouse;;;55.946916954388534;;;-3.2219552993774414
+Care homes;;;CameronParkNursingHome;;;55.932176;;;-3.154075
+Care homes;;;CamillaHouse;;;55.929608;;;-3.188778
+Care homes;;;ChamberlainNursingHome;;;55.934526;;;-3.208795
+Care homes;;;CherryholmeHouse;;;55.931531;;;-3.219154
+Care homes;;;ClaremontParkNursingHome;;;55.969722;;;-3.157355
+Care homes;;;ColintonCareHome;;;55.931224;;;-3.221993
+Care homes;;;EagleLodge;;;55.969552;;;-3.225707
+Care homes;;;EildonNursingHome;;;55.966193;;;-3.20222
+Care homes;;;Ferrylee-CityofEdinburghCouncil;;;55.976938;;;-3.180006
+Care homes;;;FordsRoad-CityofEdinburghCouncil;;;55.932977;;;-3.249693
+Care homes;;;ForthlandLodge;;;55.965265;;;-3.158344
+Care homes;;;ForwardVision;;;55.93033207748009;;;-3.2023000717163086
+Care homes;;;GarvaldNapierRoad;;;55.93508913803516;;;-3.218907594855409
+Care homes;;;GlencairnCareHome;;;55.93694284326413;;;-3.190798759460449
+Care homes;;;JubileeHouse;;;55.932126;;;-3.225319
+Care homes;;;LArcheCreelha;;;55.96606485218519;;;-3.168954849243164
+Care homes;;;LArcheTheSkein;;;55.96995573846373;;;-3.1536340713500977
+Care homes;;;LaverockHouseResidentialCare;;;55.978989;;;-3.202104
+Care homes;;;LennoxHouse;;;55.977937;;;-3.208642
+Care homes;;;LeonardCheshireAlemoorCrescent;;;55.964551624077814;;;-3.1571102142333984
+Care homes;;;LeonardCheshireArgyleStreet;;;55.97800046596516;;;-3.1814002990722656
+Care homes;;;LeonardCheshireBlackadderPlace;;;55.97571929527172;;;-3.2277488708496094
+Care homes;;;LeonardCheshireNewhavenRoad;;;55.975983437712614;;;-3.193073272705078
+Care homes;;;LeonardCheshireWardieburnRoad;;;55.978117722458634;;;-3.2255165578681044
+Care homes;;;LethamPark;;;55.973403;;;-3.19065
+Care homes;;;MarianHouse;;;55.929673;;;-3.189533
+Care homes;;;MarionvilleCourt-CityofEdinburghCouncil;;;55.959163;;;-3.157505
+Care homes;;;MorlichHouse;;;55.932544;;;-3.207484
+Care homes;;;MurrayfieldHouse;;;55.947901;;;-3.23914
+Care homes;;;NorthMerchistonCareHome;;;55.938099;;;-3.220988
+Care homes;;;Oaklands-CityofEdinburghCouncil;;;55.929925;;;-3.202473
+Care homes;;;Parkview-CityofEdinburghCouncil;;;55.932176;;;-3.154075
+Care homes;;;Porthaven-CityofEdinburghCouncil;;;55.971352;;;-3.169389
+Care homes;;;RichmondFellowshipNichollfield;;;55.97893690761494;;;-3.1882667541503906
+Care homes;;;RichmondFellowshipSt.ClairStreet;;;55.96481584277326;;;-3.168182373046875
+Care homes;;;Silverlea-CityofEdinburghCouncil;;;55.974086;;;-3.261979
+Care homes;;;SirJamesMcKayHouse;;;55.952062;;;-3.229152
+Care homes;;;StMargaretsCareHome;;;55.92973104283758;;;-3.168654441833496
+Care homes;;;St.JosephsHouse;;;55.94151;;;-3.206347
+Care homes;;;St.RaphaelsNursingHome;;;55.929202;;;-3.190799
+Care homes;;;StrachanHouse;;;55.954852;;;-3.265116
+Care homes;;;StruanLodgeNursingHome;;;55.942056;;;-3.25988
+Care homes;;;TheElms;;;55.932161;;;-3.200766
+Care homes;;;TorChristianNursingHome;;;55.945741;;;-3.245668
+Care homes;;;TrinityLodge;;;55.97338;;;-3.195857
+Care homes;;;VictoriaManorNursingHome;;;55.962351;;;-3.174804
+Museums and galleries;;;CityArtCentre;;;55.950879;;;-3.191408
+Museums and galleries;;;LauristonCastle;;;55.967873;;;-3.277828
+Museums and galleries;;;Orbyappointment;;;55.957758;;;-3.192653
+Museums and galleries;;;Sun;;;55.950435;;;-3.185504
+Museums and galleries;;;Sun;;;55.95148;;;-3.179538
+Museums and galleries;;;;;;55.954804;;;-3.184121
+Museums and galleries;;;Sun;;;55.951424;;;-3.179787
+Museums and galleries;;;Sun;;;55.95005;;;-3.202994
+Museums and galleries;;;Sun;;;55.949584;;;-3.193362
+Sports and recreational facilities;;;Tabletennis;;;55.972016;;;-3.230409
+Sports and recreational facilities;;;Sun;;;55.940858;;;-3.254942
+Sports and recreational facilities;;;Toilets;;;55.939682975454566;;;-3.2021713256835938
+Sports and recreational facilities;;;Weekend-Member£15.75NonMember£21;;;55.939201;;;-3.25524
+Sports and recreational facilities;;;Football;;;55.964817;;;-3.173433
+Sports and recreational facilities;;;Swimmingtimesforwomenonly;;;55.942665;;;-3.218126
+Sports and recreational facilities;;;Swimmingtimesforwomenonly;;;55.961714;;;-3.204484
+Sports and recreational facilities;;;Tennis;;;55.96391989417718;;;-3.2165894511854276
+Sports and recreational facilities;;;Sun;;;55.972304;;;-3.168408
+Sports and recreational facilities;;;Swimming;;;55.971598;;;-3.174684
+Sports and recreational facilities;;;Football;;;55.959184;;;-3.177111
+Sports and recreational facilities;;;MorganPlayingFields;;;55.93086098025374;;;-3.1554794311523438
+Sports and recreational facilities;;;Sun;;;55.965321;;;-3.190072
+Sports and recreational facilities;;;Football;;;55.956087;;;-3.26032
+Sports and recreational facilities;;;Football;;;55.943537;;;-3.245982
+Sports and recreational facilities;;;Monday-Sunday:9am-6pm;;;55.935613;;;-3.169769
+Sports and recreational facilities;;;Skateboarding;;;55.937721;;;-3.247924
+Sports and recreational facilities;;;Skateboarding;;;55.937721;;;-3.247924
+Sports and recreational facilities;;;Rugby;;;55.93383;;;-3.256828
+Sports and recreational facilities;;;Skateboardpark;;;55.927412;;;-3.283188
+Sports and recreational facilities;;;Weekend-Member£15.75NonMember£21;;;55.972338;;;-3.268571
+Sports and recreational facilities;;;Tennis;;;55.940549;;;-3.284855
+Sports and recreational facilities;;;Tennis;;;55.939945;;;-3.191865
+Sports and recreational facilities;;;UnionPark;;;55.936614;;;-3.278738
+Sports and recreational facilities;;;Football;;;55.974292;;;-3.18978
+Sports and recreational facilities;;;Swimmingtimesforadultsonly;;;55.935599;;;-3.198279
+Sports and recreational facilities;;;WestPiltonPark;;;55.969426;;;-3.245773
+Community centres;;;3MsYouthProject;;;55.934072;;;-3.210307
+Community centres;;;BroomhouseCLDBase;;;55.928173;;;-3.273914
+Community centres;;;BroughtonCLDBase;;;55.961205;;;-3.221822
+Community centres;;;CameronHouseCommunityCentre;;;55.930842;;;-3.159903
+Community centres;;;CarrickvaleCommunityCentre;;;55.931192;;;-3.264498
+Community centres;;;DuncanPlaceCommunityCentre;;;55.969651;;;-3.168442
+Community centres;;;Fet-LorYouthCentre;;;55.966293;;;-3.234534
+Community centres;;;FortCommunityCentre;;;55.976672;;;-3.185957
+Community centres;;;GorgieWarMemorialHall;;;55.9353;;;-3.242626
+Community centres;;;LeithCommunityCentre;;;55.971567;;;-3.171302
+Community centres;;;NelsonHallCommunityCentre;;;55.941752;;;-3.178888
+Community centres;;;RannochCommunityCentre;;;55.954875;;;-3.286818
+Community centres;;;RiddlesCourtCommunityCentre;;;55.949087;;;-3.193571
+Community centres;;;Royston/WardieburnCommunityCentre;;;55.977097;;;-3.230783
+Community centres;;;SouthBridgeResourceCentre;;;55.948098;;;-3.185278
+Community centres;;;SouthsideCommunityCentre;;;55.944032;;;-3.183809
+Community centres;;;StBridesCommunityCentre;;;55.942639;;;-3.220582
+Community centres;;;TheNumberShop;;;55.947958;;;-3.185728
+Community centres;;;TollcrossCommunityCentreALP;;;55.943327;;;-3.206346
+Community centres;;;WestCLDBase;;;55.932035;;;-3.287064
+Community centres;;;WestPiltonNeighbourhoodCentre;;;55.971661;;;-3.245215
+Tenant Organizations;;;BirniesCourtTenantsAssociation;;;55.972898;;;-3.263046
+Tenant Organizations;;;BroomhouseTenants&ResidentsAssociation;;;55.929927;;;-3.283223
+Tenant Organizations;;;CoatfieldLane&GilesStreetResidentsAssociation;;;55.961252;;;-3.166522
+Tenant Organizations;;;CreweExcludedResidents;;;55.9734;;;-3.239266
+Tenant Organizations;;;EasterDrylawResidentsAssociation;;;55.964751;;;-3.247721
+Tenant Organizations;;;EdinburghTenantsFederation;;;55.961252;;;-3.166522
+Tenant Organizations;;;GordonStreetandMandersonStreetResidentsAssociation;;;55.968709;;;-3.170399
+Tenant Organizations;;;GrantonRoystonandWardieburnResidentsAssociation;;;55.979452;;;-3.229764
+Tenant Organizations;;;Hamilton&CanonWyndResidentsAssociation;;;55.978224;;;-3.183635
+Tenant Organizations;;;;;;55.951871;;;-3.183471
+Tenant Organizations;;;MaidencraigCourtResidentsAssociation;;;55.957127;;;-3.245554
+Tenant Organizations;;;MuirhouseHighRiseActionGroup;;;55.972898;;;-3.263046
+Tenant Organizations;;;NewPleasanceResidentsAssociation;;;55.946482;;;-3.181353
+Tenant Organizations;;;PrestonfieldTenants&ResidentsAssociation;;;55.931546;;;-3.162731
+Tenant Organizations;;;RedbraesResidentsAssociation;;;55.968712;;;-3.188792
+Tenant Organizations;;;Restalrig4StreetsResidentsAssociation;;;55.964622;;;-3.153038
+Tenant Organizations;;;TenantsandResidentsinPilton;;;55.970171;;;-3.244002
+Tenant Organizations;;;WestfieldCourtResidentsAssociation;;;55.937194;;;-3.242256
+Neighbourhood offices;;;Fri;;;55.95078573732273;;;-3.1911849975585938
+Neighbourhood offices;;;Fri;;;55.97543113782453;;;-3.1800270080566406
+Neighbourhood offices;;;Fri;;;55.96990770521601;;;-3.248004913330078
+Neighbourhood offices;;;Fri;;;55.955831395034465;;;-3.2863283157348633
+Day services and lunch clubs;;;AlzheimerScotlandSaturdayCafe;;;55.94742160017106;;;-3.1823015213012695
+Day services and lunch clubs;;;AlzheimersScotland-EdinburghandWestLothianServices;;;55.97559922992961;;;-3.2439708709716797
+Day services and lunch clubs;;;AutismInitiatives-Number6OneStopShop;;;55.95354291034932;;;-3.202192783355713
+Day services and lunch clubs;;;BeaconClub;;;55.927278724880985;;;-3.2770156860351562
+Day services and lunch clubs;;;BroomhouseBefriendingService;;;55.92708637965433;;;-3.2770586013793945
+Day services and lunch clubs;;;BroomhouseCentre;;;55.92759128383819;;;-3.2772302627563477
+Day services and lunch clubs;;;CaltonWelfareService;;;55.9580897144821;;;-3.1719160079956055
+Day services and lunch clubs;;;CapabilityScotland-E2;;;55.946700675611346;;;-3.247532844543457
+Day services and lunch clubs;;;ColumcilleCentre;;;55.93126967290681;;;-3.2082653045654297
+Day services and lunch clubs;;;CorstorphineDementiaProject;;;55.93501982774137;;;-3.2776594161987305
+Day services and lunch clubs;;;CraighallCentre-CityofEdinburghCouncil;;;55.97382221929286;;;-3.193802833557129
+Day services and lunch clubs;;;Crossroads;;;55.93888979922763;;;-3.2279205322265625
+Day services and lunch clubs;;;DeafAction;;;55.957513134807755;;;-3.1895971298217773
+Day services and lunch clubs;;;DeanbankCentre-CityofEdinburghCouncil;;;55.928396712609434;;;-3.2014524936676025
+Day services and lunch clubs;;;DrumbraeandGrantonSupportService;;;55.955591140531055;;;-3.287186622619629
+Day services and lunch clubs;;;DrylawRainbowClub;;;55.966281022798576;;;-3.2500648498535156
+Day services and lunch clubs;;;EdinburghElderlyChineseSupport;;;55.94299971824836;;;-3.2033729553222656
+Day services and lunch clubs;;;EdinburghSynagogueLunchClub;;;55.93814467949191;;;-3.1744909286499023
+Day services and lunch clubs;;;EpilepsyScotland-LighthouseSupportService;;;55.95619177399379;;;-3.223586082458496
+Day services and lunch clubs;;;EpilepsyScotland-LighthouseYouthProject;;;55.95537491020308;;;-3.2234573364257812
+Day services and lunch clubs;;;EricLiddellCentre;;;55.93389001160688;;;-3.209681510925293
+Day services and lunch clubs;;;ForeverYoung;;;55.93126366275196;;;-3.264108896255493
+Day services and lunch clubs;;;GarvaldEdinburgh;;;55.93888979922763;;;-3.2131147384643555
+Day services and lunch clubs;;;HolyroodAbbey-WednesdayCentre;;;55.956600199425225;;;-3.1636762619018555
+Day services and lunch clubs;;;InclusionAlliance;;;55.96123672715999;;;-3.170156478881836
+Day services and lunch clubs;;;Lifecare-DeanClub;;;55.958137762400625;;;-3.212857246398926
+Day services and lunch clubs;;;Lifecare-Outreach;;;55.95820983416657;;;-3.2126426696777344
+Day services and lunch clubs;;;Lifecare-StBernardsClub;;;55.95825788193599;;;-3.212728500366211
+Day services and lunch clubs;;;LochendandNorthEastDistrict;;;55.95981940197441;;;-3.1568098068237305
+Day services and lunch clubs;;;MECOPP;;;55.9675780211191;;;-3.1746625900268555
+Day services and lunch clubs;;;Milan;;;55.963302565823334;;;-3.1645774841308594
+Day services and lunch clubs;;;MurrayfieldDementiaProject;;;55.946580520213196;;;-3.2409238815307617
+Day services and lunch clubs;;;NariKallyanShango(NKS);;;55.941004899739916;;;-3.207106590270996
+Day services and lunch clubs;;;NorthMerchiston;;;55.937952388201175;;;-3.222641944885254
+Day services and lunch clubs;;;NorthWestCarers;;;55.97119257405512;;;-3.254549503326416
+Day services and lunch clubs;;;Oaklands;;;55.92965891805398;;;-3.202042579650879
+Day services and lunch clubs;;;OpenDoor;;;55.92559567177729;;;-3.2095956802368164
+Day services and lunch clubs;;;PiltonEqualitiesProject(PEP);;;55.97203311936597;;;-3.2436060905456543
+Day services and lunch clubs;;;PlacesforPeople-PleasanceDayCentre;;;55.947181293475786;;;-3.1833314895629883
+Day services and lunch clubs;;;Portlee-CityofEdinburghCouncil;;;55.96332658655456;;;-3.1646203994750977
+Day services and lunch clubs;;;PrestonfieldNeighbourhoodProject;;;55.93324095339487;;;-3.159170150756836
+Day services and lunch clubs;;;RippleProject;;;55.96342266933043;;;-3.1537628173828125
+Day services and lunch clubs;;;RNIB;;;55.95823713230996;;;-3.1792547928125714
+Day services and lunch clubs;;;Silverlea;;;55.92965891805398;;;-3.202042579650879
+Day services and lunch clubs;;;VisualiseScotland;;;55.961308793155666;;;-3.1665515899658203
+Play areas;;;AdmiralityStreet;;;55.97615152741767;;;-3.1789112091064453
+Play areas;;;BalgreenPark;;;55.94174996445649;;;-3.2571029663085938
+Play areas;;;BaronyPlayarea;;;55.95852214360165;;;-3.190927505493164
+Play areas;;;BlackfordPond;;;55.925643760023185;;;-3.1939315795898438
+Play areas;;;Boswall/RoystonMainsGardens;;;55.976224;;;-3.231857
+Play areas;;;BroomhouseCentre;;;55.928528945583984;;;-3.278646469116211
+Play areas;;;BroomhouseGrove;;;55.928133;;;-3.278682
+Play areas;;;BroughtonRoad;;;55.96419132294944;;;-3.194103240966797
+Play areas;;;BrownStreet;;;55.94540297758118;;;-3.180112838745117
+Play areas;;;ClermistonPark;;;55.956984595894816;;;-3.2873153686523438
+Play areas;;;Seatingareaforteenagers;;;55.964045;;;-3.172564
+Play areas;;;DavidsonMainsPark;;;55.96395112033352;;;-3.278818130493164
+Play areas;;;Dumbiedykes;;;55.947694;;;-3.177803
+Play areas;;;EastPiltonPark;;;55.973702148062415;;;-3.2271480560302734
+Play areas;;;EasterDrylawPark;;;55.96270204269681;;;-3.243541717529297
+Play areas;;;FalconRoad/Park;;;55.92881745232585;;;-3.2053470611572266
+Play areas;;;GlendevonPark;;;55.939512;;;-3.253842
+Play areas;;;Gorgie/DalryCommunityPark;;;55.9407885879441;;;-3.2219982147216797
+Play areas;;;GrantonCrescent;;;55.979609210714784;;;-3.2244014739990234
+Play areas;;;GrantonMainsEast;;;55.976127514647395;;;-3.2420825958251953
+Play areas;;;HarrisonParkEast;;;55.93641402351125;;;-3.223886489868164
+Play areas;;;HarrisonParkWest;;;55.93420251723827;;;-3.226289749145508
+Play areas;;;Afencedcourtforballgamesincludingfootballandbasketball.;;;55.97298171285345;;;-3.17354679107666
+Play areas;;;Tenniscourts.;;;55.96270204269681;;;-3.2128143310546875
+Play areas;;;KeddieGardens;;;55.974518625080094;;;-3.181142807006836
+Play areas;;;KingGeorgeVPark(EyrePlace);;;55.96088240072939;;;-3.1970858573913574
+Play areas;;;LeithLinks;;;55.97095241489776;;;-3.165736198425293
+Play areas;;;LochendPark;;;55.96169314286637;;;-3.1604576110839844
+Play areas;;;MagnetPlayarea(EastMeadows);;;55.940812622647734;;;-3.184661865234375
+Play areas;;;Meadows(West);;;55.940888331720025;;;-3.199681520636659
+Play areas;;;MeggatelandWynd;;;55.926990206682966;;;-3.2371044158935547
+Play areas;;;MoatHouse;;;55.93364962094433;;;-3.2392072677612305
+Play areas;;;Basketballhoopsandgoalends;;;55.95961520678051;;;-3.175649642944336
+Play areas;;;Ballcourt;;;55.970460083964596;;;-3.2628965377807617
+Play areas;;;MuirhouseView;;;55.972802;;;-3.261953
+Play areas;;;MuriestonPark;;;55.940428065599875;;;-3.226504325866699
+Play areas;;;NorthviewCourt;;;55.97295769811544;;;-3.2518672943115234
+Play areas;;;PilrigPark;;;55.96841864495853;;;-3.180971145629883
+Play areas;;;PrestonfieldPark;;;55.93235148559219;;;-3.1590843200683594
+Play areas;;;PrimroseStreet;;;55.968135;;;-3.164582
+Play areas;;;WestPrincesStreetGardens;;;55.95011293327504;;;-3.204660415649414
+Play areas;;;Ballcourt;;;55.95568724251137;;;-3.256072998046875
+Play areas;;;RedbraesPark;;;55.968007;;;-3.187424
+Play areas;;;RoseburnPark;;;55.94405717072822;;;-3.2393360137939453
+Play areas;;;SandportStreet;;;55.97639165430069;;;-3.1725597381591797
+Play areas;;;SaughtonMainsTerrace;;;55.93208704528063;;;-3.2674241065979004
+Play areas;;;;;;55.935740969748814;;;-3.2481765747070312
+Play areas;;;Skateboardandbmxarea;;;55.92767062503263;;;-3.2851853384636343
+Play areas;;;St.MargaretsPark;;;55.93949069180008;;;-3.284740447998047
+Play areas;;;St.MarksPark;;;55.9688029240596;;;-3.193845748901367
+Play areas;;;StenhousePlayarea;;;55.932756;;;-3.257305
+Play areas;;;StewartTerrace;;;55.93667843429006;;;-3.235044479370117
+Play areas;;;TaylorGardens;;;55.974230458688666;;;-3.1771087646484375
+Play areas;;;Asmallplayunit;;;55.9743985560112;;;-3.170499801635742
+Play areas;;;UnionPark;;;55.935789045405365;;;-3.27667236328125
+Play areas;;;Afencedcourtforballgamesincludingfootballandbasketball.;;;55.97504692455578;;;-3.193502426147461
+Play areas;;;WestPiltonPark;;;55.9707722945514;;;-3.246030807495117
+Play areas;;;WesterDrylawDrive(Nos.138-140);;;55.964342;;;-3.257977
+Play areas;;;WestfieldCourt;;;55.93671449016553;;;-3.2410311698913574
+Play areas;;;WhitePark;;;55.93759183945819;;;-3.231750726699829
+Trees with a story;;;CamperdownElm;;;55.949483069925;;;-3.204898417170625
+Trees with a story;;;ComelyBankLondonPlanes;;;55.95955695082199;;;-3.2169166806852445
+Trees with a story;;;DunbarsCloseTulipTree;;;55.951934;;;-3.1788289
+Trees with a story;;;MonkeyPuzzlesofLauristonCastle;;;55.970851247369815;;;-3.277017653163057
+Trees with a story;;;OriginalElmtree;;;55.95232353124497;;;-3.192729949951172
+Trees with a story;;;Quercusilex;;;55.951563;;;-3.1939836
+Trees with a story;;;RobertLouisStevensonmemorialgrove;;;55.95000570401313;;;-3.2023664118605666
+Trees with a story;;;SaughtonParksWeepingAsh;;;55.933878;;;-3.248263
+Trees with a story;;;TheChineseBirchTree;;;55.95048718189612;;;-3.20279753243085
+Trees with a story;;;TheClermistonGroup;;;55.956002;;;-3.2764297
+Trees with a story;;;TheDawyckbeeches;;;55.95138;;;-3.1976679
+Trees with a story;;;TheEdinburghUrbanForestwoodland;;;55.94996966050941;;;-3.196991264994722
+Trees with a story;;;TheNorthernIrelandPeaceTree;;;55.950806;;;-3.1979318
+Trees with a story;;;TheUnitedNations40thAnniversaryTree;;;55.9506604884896;;;-3.198107063944917
+Trees with a story;;;TheWeepingash-EastprincesStreetGardens;;;55.9514945717971;;;-3.194575309753418
+Trees with a story;;;TheWeepingAshes-WestPrincesStreetGardens;;;55.950942823333364;;;-3.198257267649751
+Trees with a story;;;TheWorkersMemorialTree;;;55.95035322177703;;;-3.1977081298828125
+Trees with a story;;;Wheatleyelms;;;55.951542627901894;;;-3.198673725128174
+Community councils;;;Corstorphine;;;55.940278;;;-3.28385
+Community councils;;;Craigleith/Blackhall;;;55.95386086374298;;;-3.2258169652777724
+Community councils;;;Craiglockhart;;;55.925123;;;-3.233414
+Community councils;;;Craigmillar;;;55.950915;;;-3.178253
+Community councils;;;DrumBrae;;;55.954947;;;-3.28727
+Community councils;;;Drylaw/Telford;;;55.962236;;;-3.247681
+Community councils;;;Gorgie/Dalry;;;55.940115;;;-3.225356
+Community councils;;;Grange/Prestonfield;;;55.933016;;;-3.158499
+Community councils;;;Hutchison/Chesser;;;55.930235912563774;;;-3.240194320678711
+Community councils;;;Leith/HarbourandNewhaven;;;55.979026;;;-3.17919
+Community councils;;;LeithCentral;;;55.961363;;;-3.181153
+Community councils;;;LeithLinks;;;55.96966753808287;;;-3.1685686111450195
+Community councils;;;MarchmontandSciennes;;;55.935669;;;-3.190198
+Community councils;;;Merchiston;;;55.93345730734037;;;-3.2162046432495117
+Community councils;;;Morningside;;;55.925403;;;-3.209584
+Community councils;;;MuirhouseSalvesen;;;55.970094;;;-3.260676
+Community councils;;;Murrayfield;;;55.942038;;;-3.238403
+Community councils;;;NewTown/Broughton;;;55.960762;;;-3.189597
+Community councils;;;OldTown;;;55.949901;;;-3.190203
+Community councils;;;Stenhouse;;;55.931338;;;-3.26411
+Community councils;;;Stockbridge/Inverleith;;;55.959357;;;-3.207486
+Community councils;;;Tollcross;;;55.943083;;;-3.203544
+Community councils;;;Trinity;;;55.971606;;;-3.205347
+Community councils;;;WestEnd;;;55.949325;;;-3.215261
+Community councils;;;WestPilton/WestGranton;;;55.971343;;;-3.245028
+Carer support groups;;;CareforCarers;;;55.960931;;;-3.158647
+Carer support groups;;;CrossroadsCaringScotland(Edinburgh);;;55.9387;;;-3.2263
+Carer support groups;;;EdinburghCarerSupportTeam;;;55.93052440659673;;;-3.1989526748657227
+Carer support groups;;;EdinburghCarersCouncil;;;55.961987;;;-3.198598
+Carer support groups;;;EdinburghHeadwayGroup;;;55.9306658479765;;;-3.1988661290961318
+Carer support groups;;;EdinburghYoungCarersProject;;;55.95736;;;-3.170393
+Carer support groups;;;EricLiddellCa(i)reProgramme;;;55.933709;;;-3.209698
+Carer support groups;;;MECOPP;;;55.967584;;;-3.174692
+Carer support groups;;;NorthWestCarersCentre;;;55.972285;;;-3.253822
+Carer support groups;;;SupportinMind;;;55.93422655602859;;;-3.16680908203125
+Carer support groups;;;TheBroomhouseCentre;;;55.928746;;;-3.277614
+Carer support groups;;;VOCAL(VoiceofCarersAcrossLothian);;;55.94855102166327;;;-3.195819854736328
+Civil marriage and partnership venues;;;AbdenHouse;;;55.940702;;;-3.172587
+Civil marriage and partnership venues;;;ApexCityHotel;;;55.947447;;;-3.195717
+Civil marriage and partnership venues;;;ApexInternationalHotel;;;55.947226;;;-3.196502
+Civil marriage and partnership venues;;;ApexWaterlooPlaceHotel;;;55.953789;;;-3.187758
+Civil marriage and partnership venues;;;AssemblyRooms;;;55.953116;;;-3.198736
+Civil marriage and partnership venues;;;BalmoralHotel;;;55.952657;;;-3.189613
+Civil marriage and partnership venues;;;BarceloEdinburghCarltonHotel;;;55.950801;;;-3.187378
+Civil marriage and partnership venues;;;BestWesternBruntsfieldHotel;;;55.938338;;;-3.205824
+Civil marriage and partnership venues;;;CaledonianHiltonHotel;;;55.953744;;;-3.1899
+Civil marriage and partnership venues;;;CityChambers;;;55.949708043629194;;;-3.191622019512579
+Civil marriage and partnership venues;;;DunstaneHouseHotel;;;55.946176;;;-3.228341
+Civil marriage and partnership venues;;;DynamicEarth;;;55.95069;;;-3.174748
+Civil marriage and partnership venues;;;EasterRoadStadium;;;55.962035;;;-3.167145
+Civil marriage and partnership venues;;;EdinburghCapitalHotel;;;55.955922;;;-3.279839
+Civil marriage and partnership venues;;;EdinburghCastleGatehouseSuiteandQueenAnneBuilding;;;55.948484;;;-3.198899
+Civil marriage and partnership venues;;;EdinburghCornExchange;;;55.927413;;;-3.247494
+Civil marriage and partnership venues;;;EdinburghFestivalCentre(TheHub);;;55.94875;;;-3.195979
+Civil marriage and partnership venues;;;FestivalTheatre;;;55.946972;;;-3.185949
+Civil marriage and partnership venues;;;GlasshouseHotel;;;55.957032;;;-3.185022
+Civil marriage and partnership venues;;;GrandLodgeofScotland;;;55.952281;;;-3.202446
+Civil marriage and partnership venues;;;HiltonGrosvenorHotel;;;55.946741;;;-3.216685
+Civil marriage and partnership venues;;;HolidayInn;;;55.942757;;;-3.266931
+Civil marriage and partnership venues;;;HolidayInnNorth;;;55.95606;;;-3.24214
+Civil marriage and partnership venues;;;HowiesRestaurant;;;55.954105;;;-3.185766
+Civil marriage and partnership venues;;;LeMondeHotel;;;55.953368;;;-3.196025
+Civil marriage and partnership venues;;;LothianChambers;;;55.94916468018361;;;-3.192216932948213
+Civil marriage and partnership venues;;;MacdonaldHolyroodHotel;;;55.950478;;;-3.177904
+Civil marriage and partnership venues;;;MalmaisonHotel;;;55.978249;;;-3.16878
+Civil marriage and partnership venues;;;MarlinsWynd;;;55.949099;;;-3.187758
+Civil marriage and partnership venues;;;MintoHotel;;;55.935288;;;-3.175512
+Civil marriage and partnership venues;;;NationalMuseumofScotland;;;55.947929;;;-3.188876
+Civil marriage and partnership venues;;;No28CharlotteSquare;;;55.950994;;;-3.20721
+Civil marriage and partnership venues;;;PointHotelConferenceCentre;;;55.945786;;;-3.203349
+Civil marriage and partnership venues;;;RadissonSASHotel;;;55.950123;;;-3.187075
+Civil marriage and partnership venues;;;RoyalBotanicGarden;;;55.966691;;;-3.204874
+Civil marriage and partnership venues;;;RoyalCollegeofPhysicians;;;55.955216;;;-3.196453
+Civil marriage and partnership venues;;;RoyalCollegeofSurgeons;;;55.945455;;;-3.184711
+Civil marriage and partnership venues;;;RoyalOverseasLeague;;;55.951665;;;-3.200184
+Civil marriage and partnership venues;;;SignetLibrary;;;55.949294;;;-3.18991
+Civil marriage and partnership venues;;;SouthHallComplexPollockHalls;;;55.940702;;;-3.172587
+Civil marriage and partnership venues;;;StLeonardsHall;;;55.940702;;;-3.172587
+Civil marriage and partnership venues;;;TheAtrium;;;55.947483;;;-3.204282
+Civil marriage and partnership venues;;;TheBansheeLabyrinth;;;55.95013;;;-3.187173
+Civil marriage and partnership venues;;;TheCaves;;;55.949422;;;-3.186795
+Civil marriage and partnership venues;;;TheEdinburghAcademy;;;55.960798;;;-3.20444
+Civil marriage and partnership venues;;;TheGeorgeHotel;;;55.953542;;;-3.1976
+Civil marriage and partnership venues;;;TheGeorgianHouse;;;55.952539;;;-3.208219
+Civil marriage and partnership venues;;;TheGhillieDhu;;;55.949919;;;-3.207785
+Civil marriage and partnership venues;;;TheGrangeClub;;;55.959668;;;-3.214272
+Civil marriage and partnership venues;;;TheMansionHouse;;;55.945365;;;-3.271201
+Civil marriage and partnership venues;;;ThePrestonfield;;;55.935143;;;-3.160566
+Civil marriage and partnership venues;;;TheRoxburgheHotel;;;55.951667;;;-3.206486
+Civil marriage and partnership venues;;;TheRoyalBritishHotel;;;55.953184;;;-3.190825
+Civil marriage and partnership venues;;;TheRoyalScotsClub;;;55.956093;;;-3.197936
+Civil marriage and partnership venues;;;TheRoyalTerraceHotel;;;55.955973;;;-3.175492
+Civil marriage and partnership venues;;;TheScotchMaltWhiskySociety;;;55.954501;;;-3.199567
+Civil marriage and partnership venues;;;TheScotchMaltWhiskySociety(Leith);;;55.973238;;;-3.172314
+Civil marriage and partnership venues;;;TheScotsmanHotel;;;55.951864;;;-3.18841
+Civil marriage and partnership venues;;;TheSheratonGrandHotel;;;55.947073;;;-3.207616
+Civil marriage and partnership venues;;;UsherHall;;;55.948036;;;-3.206091
+Monuments;;;Sundial;;;55.970611;;;-3.279186
+Monuments;;;AdamBlackStatue;;;55.952473;;;-3.1927624
+Monuments;;;AlisonHayDunlopMemorialEastGatepiers;;;55.964332;;;-3.2132804
+Monuments;;;AllanRamsayStatue;;;55.951701;;;-3.1973349
+Monuments;;;CaltonHillCannon;;;55.954579;;;-3.1831055
+Monuments;;;CourtyardWell;;;55.96913;;;-3.2764134
+Monuments;;;DavidLivingstoneStatue;;;55.952179;;;-3.1944349
+Monuments;;;DevlinFountain;;;55.979822;;;-3.201361
+Monuments;;;DugaldStewart;;;55.954512;;;-3.1844648
+Monuments;;;DunlopDrinkingFountain;;;55.963418;;;-3.2175771
+Monuments;;;EdwardVIIStatue;;;55.975259;;;-3.191044
+Monuments;;;FloralClock;;;55.95172;;;-3.1972714
+Monuments;;;GeniusofArchitectureStatue;;;55.95099908983081;;;-3.198182165797334
+Monuments;;;GiantsandLadyFifesBrae;;;55.970199;;;-3.1667588
+Monuments;;;JamesYoungSimpsonStatue;;;55.950404;;;-3.2050618
+Monuments;;;JawboneArch;;;55.94046;;;-3.1946185
+Monuments;;;KinlochAndersonSundial;;;55.961962;;;-3.2148562
+Monuments;;;LochendCastleDovecot;;;55.962205;;;-3.1607513
+Monuments;;;MasonsPillars;;;55.942022;;;-3.2003024
+Monuments;;;MemorialtotheSpanishBrigade;;;55.950665;;;-3.1948848
+Monuments;;;MiddleMeadowWalkGatepiers;;;55.945264;;;-3.1912118
+Monuments;;;MineralWellintheglade.;;;55.971075;;;-3.2794577
+Monuments;;;NationalMonument;;;55.954744;;;-3.1818293
+Monuments;;;NelsonMonument;;;55.954359;;;-3.1826183
+Monuments;;;NelsonPillar;;;55.94040403065762;;;-3.1832456588745117
+Monuments;;;NorthArchway;;;55.965163;;;-3.2191699
+Monuments;;;NorwegianMemorialstone;;;55.950074;;;-3.2020249
+Monuments;;;PlayfairMonument;;;55.954795;;;-3.1830641
+Monuments;;;Presentationdrinkingfountain;;;55.974739;;;-3.1909799
+Monuments;;;ProfessorJohnWilsonStatue;;;55.952007;;;-3.1954706
+Monuments;;;RossFountain;;;55.950064;;;-3.2030495
+Monuments;;;RoyalScotsWarMemorial;;;55.951055;;;-3.1972509
+Monuments;;;ScottMonument;;;55.952379;;;-3.193272
+Monuments;;;Scottish-AmericanWarMemorial;;;55.951054;;;-3.2010303
+Monuments;;;SisterCathedralFountain;;;55.940694;;;-3.1945297
+Monuments;;;St.MargaretsWell;;;55.949687;;;-3.2012122
+Monuments;;;SundialB;;;55.970985;;;-3.2786696
+Monuments;;;Sundial;;;55.941775;;;-3.1988698
+Monuments;;;Sundial;;;55.934529;;;-3.2490223
+Monuments;;;Sundial;;;55.978641;;;-3.2008757
+Monuments;;;TheRoyalScotsGreysMonument;;;55.951366;;;-3.1994225
+Monuments;;;TheThomasGuthrieStatue;;;55.950814;;;-3.2026563
+Monuments;;;TwoPillars;;;55.968727;;;-3.2788996
+Monuments;;;WestGatepiers;;;55.962749;;;-3.2207119
+Mobile library stops;;;BraidwoodHouse;;;55.948529;;;-3.177829
+Mobile library stops;;;CameronTollShoppingCentre;;;55.92703328394463;;;-3.163798928108008
+Mobile library stops;;;CarrickvaleCommunityCentre;;;55.931338;;;-3.26411
+Mobile library stops;;;ClaremontRoad;;;55.968076;;;-3.155672
+Mobile library stops;;;ClarkRoad;;;55.97364411301219;;;-3.2066223618312506
+Mobile library stops;;;CraighallRoad;;;55.97492905856165;;;-3.1957279442212894
+Mobile library stops;;;FindlayAvenue;;;55.964506;;;-3.151096
+Mobile library stops;;;LochendCrescent;;;55.960382;;;-3.151998
+Mobile library stops;;;MagdaleneCourtShelteredHousing;;;55.951328;;;-3.195866
+Mobile library stops;;;MoatHouse;;;55.929747;;;-3.241175
+Mobile library stops;;;ParkgroveStreet;;;55.96006663662597;;;-3.289047360267432
+Mobile library stops;;;PrestonfieldAvenue;;;55.933386;;;-3.161042
+Mobile library stops;;;RoseburnCrescent;;;55.94396;;;-3.237829
+Mobile library stops;;;ZetlandPlace;;;55.975814;;;-3.208848
+Parks and gardens;;;;;;55.948106;;;-3.211252
+Parks and gardens;;;BalgreenPark;;;55.941868;;;-3.258011
+Parks and gardens;;;BellevueCrescentGardens;;;55.960558;;;-3.194004
+Parks and gardens;;;Nobookingrequiredforshortholegolfcourse.Justturnupandplay.;;;55.93977911692385;;;-3.2021713256835938
+Parks and gardens;;;CaltonHillisahillincentralEdinburgh;;;55.954709;;;-3.183294
+Parks and gardens;;;ClermistonPark;;;55.956600199425225;;;-3.2875728607177734
+Parks and gardens;;;ThisGeorgiancrescent;;;55.948666;;;-3.212451
+Parks and gardens;;;CorstorphineHillLocalNatureReserveisanaturalheritageparkwithlargeareasofmaturewoodlandandgrassland.Atitshighestpoint531feet(161metres)visitorsgetstunningviewsofthecity.OnacleardayyoucanseethesummitofBenLomondinthewest;;;55.957417037360365;;;-3.2759857177734375
+Parks and gardens;;;;;;55.97864877413752;;;-3.2898902893066406
+Parks and gardens;;;ThislittleparkwasformerlyknownasIonaStreetandwasfirstsetoutasarecreationareain1902.ItwasmaintainedbythegovernorsofTrinityHospitalwhopasseditintothecityssafekeepingin1922.;;;55.96411926232121;;;-3.172903060913086
+Parks and gardens;;;ThegroundwasacquiredforthecityfromDameMaryRamsay-Steel-Maitlandin1922.;;;55.96380699804833;;;-3.276844024658203
+Parks and gardens;;;thetreeislocatedtothelefthandsideofthemedicalcentreandhasastoneandplaqueinplaceatthesideofthetreetomarkthisevent.;;;55.945781;;;-3.182892
+Parks and gardens;;;Ahiddengem;;;55.95172283776367;;;-3.1792545318603516
+Parks and gardens;;;EastPiltonParkisaplaceforplayandhasbeendividedtoallowtoddlerstoplay;;;55.97408637468797;;;-3.227405548095703
+Parks and gardens;;;AsmallcommunityparklocatedonthenorthEdinburghcyclepath.Ithasamuchlovedplayareaandamountainbiketrack.;;;55.962750084889855;;;-3.2434558868408203
+Parks and gardens;;;GardnersCrescentisasmallneighbourhoodgreenspacewithcherry;;;55.944496;;;-3.209233
+Parks and gardens;;;GayfieldSquare;;;55.95866628556793;;;-3.1850051879882812
+Parks and gardens;;;;;;55.94655648908883;;;-3.197493553161621
+Parks and gardens;;;GlendevonPark;;;55.939201;;;-3.25524
+Parks and gardens;;;;;;55.940644379409086;;;-3.2222557067871094
+Parks and gardens;;;;;;55.947517722431606;;;-3.198566436767578
+Parks and gardens;;;GrantonCrescentPark;;;55.979753274144315;;;-3.2244014739990234
+Parks and gardens;;;HarrisonParkisapopularcommunityparkextendingsome7hectaresinsize.Inprovidesarangeofrecreationalfacilitiesincludingpitches;;;55.93386597260774;;;-3.2267189025878906
+Parks and gardens;;;ThisisasmallparksituatedoffGreatJunctionStreetandistheonlyformalparkinthearea.Theparkhasatoddlersplayareaandissurroundedwithmatureshrubplanting.;;;55.973531;;;-3.173605
+Parks and gardens;;;HillsideCrescentGardenswerecreatedbyWilliamPlayfairtoenrichtheNewTowncrescent.Therearedisplaysofhorsechestnut;;;55.957945570368686;;;-3.177967071533203
+Parks and gardens;;;withaminimumchargeof£1.00.Thechargesapplybetween08.30and17.30.TheRegulationsdonotapplyonSaturdays;;;55.949010790124575;;;-3.1593189295381308
+Parks and gardens;;;upgradingpathsandinstallinginterpretationpanels.;;;55.9611646610301;;;-3.1836318969726562
+Parks and gardens;;;Inchistheoldnameforanislandorapieceoflow-lyinglandnearariverorburn;;;55.92516287487901;;;-3.160886764526367
+Parks and gardens;;;InverleithParkisalargeparkofneatlymaintainedgrassparklandwithatreelinedperimeterandpaths.Therearegrandgatedentrancesandironrailingsaroundtheperimeter.Theparkiswell-lovedandwell-usedwithanextensiverangeoffacilitiesincludingsportspitchesandclubpavilions;;;55.96380699804833;;;-3.215475082397461
+Parks and gardens;;;ThisisasmallbutwellusedneighbourhoodparkwithafinesettingabovetheWaterofLeith.Awalkwayandcycletrackleaddowntowhathasbecomeapopularstrollingareadbesideatranquilsectionoftheriver.Thereisafencedoffplayareapopularwithlocalparentsandtheirchildren.;;;55.97437454215269;;;-3.181142807006836
+Parks and gardens;;;Apleasantparkofwindingpaths;;;55.96073226143287;;;-3.1972789764404297
+Parks and gardens;;;Thegroundsofthe16thCenturyLauristonCastleofferviewsacrosstheFirthofForthinawoodandparklandsetting.Therearemanicuredlawnsincontrastwithwoodlandwalksandarangeoftreesandplantsintheelegantgardensincludingazaleas;;;55.97009983784913;;;-3.278045654296875
+Parks and gardens;;;Originallydesignedasgolfcourse;;;55.970340002298805;;;-3.164491653442383
+Parks and gardens;;;;;;55.961500968488146;;;-3.1604576110839844
+Parks and gardens;;;;;;55.957272890741976;;;-3.1774520874023438
+Parks and gardens;;;Tennis:tennis@edinburghleisure.co.ukCricket:sportspitch@edinburghleisure.co.uk;;;55.94136541671504;;;-3.1915283203125
+Parks and gardens;;;MeadowspotPark;;;55.92559567177729;;;-3.2273197174072266
+Parks and gardens;;;Asmall;;;55.95933894097993;;;-3.1749629974365234
+Parks and gardens;;;Theseformeruniversityplayingfieldsweresoldoffinthe90’stohousingdevelopersbutwereneverbuiltonandbecameveryrundownandovergrown.Theywerethenreturnedtocouncilownershiparound2005andworkstoreinstatetheformerpitches;;;55.93314479569796;;;-3.152647018432617
+Parks and gardens;;;MuirhouseParkisacommunityparkthatprovidesaspacewherepeoplecanplay;;;55.97119;;;-3.261404
+Parks and gardens;;;MuriestonParkisasmallcommunityparkoffDalryRoadwithbenchesandplayarea.Theparkisregularlyusedforanumberofcommunityevents.;;;55.94040403065762;;;-3.2268905639648438
+Parks and gardens;;;;;;55.94593167462068;;;-3.1857776641845703
+Parks and gardens;;;withlaburnumtrees;;;55.9550145236391;;;-3.2358169555664062
+Parks and gardens;;;Thisparklandsettingprovidesspaceforlocalstowalkandplay;;;55.96817846858224;;;-3.181142807006836
+Parks and gardens;;;Asmallintimatepark;;;55.933386;;;-3.161042
+Parks and gardens;;;;;;55.95011293327504;;;-3.1990814208984375
+Parks and gardens;;;RavelstonParkisasmallneighbourhoodparkwithapavilion;;;55.95592749641833;;;-3.2553863525390625
+Parks and gardens;;;mice;;;55.95410152932807;;;-3.253755569458008
+Parks and gardens;;;RedbraesPark;;;55.96789025496281;;;-3.188009262084961
+Parks and gardens;;;RegentRoadParkisapeacefulgreenplaceattheheartofoldEdinburghonlyafewminutesfromPrincesStreet.Fromhere;;;55.95482231609982;;;-3.1743621826171875
+Parks and gardens;;;ThisattractivelittlepathisanunexpectedanddelightfulwoodlandgladefullofthesoundofbirdsandthemurmuringsoftheWaterofLeith.;;;55.96241378828613;;;-3.2076644897460938
+Parks and gardens;;;RoseburnParkisintheshadowoftheMurrayfieldRugbystadium.OneofitsattractivefeaturesistheWaterofLeithwhichrunsalongitsnorthedge.Thereisachildrensplayareaandfootballandcricketarebothplayedonthepark.;;;55.94458588614092;;;-3.240194320678711
+Parks and gardens;;;SaughtonParkisoneofEdinburghshiddenjewels.Notonlydoeshavealargetractofwell-managedopenspacewithplayingfieldsandathletictrack;;;55.935164057216745;;;-3.248262405395508
+Parks and gardens;;;Thislargeparkhasflatexpansesofgrasswhicharededicatedtofootball.TheparkisboundedbycommunitywoodlandsplantedatthestartofthenewMillennium.Thereisawellusedplayareaandskateboardfacilities.;;;55.926845946778435;;;-3.2866287231445312
+Parks and gardens;;;ThissmallrectangularparkoverlooksSilverknowesGolfCourseandhasspectacularpanoramaoftheFirthofForth.Theparkishometofootball;;;55.973942290150596;;;-3.266286849975586
+Parks and gardens;;;AlargeattractiveparkfoundinCorstorphineVillage.Therearearangeofthingstodothereincludingtennisandabrandnewplayareawhichwasre-openedin2013.TheparkhasbeenawardedaGreenFlagsince2011;;;55.939250335889696;;;-3.285512924194336
+Parks and gardens;;;Thislittlepark;;;55.968466680054874;;;-3.1923866271972656
+Parks and gardens;;;;;;55.94295165154051;;;-3.1838035583496094
+Parks and gardens;;;StarbankParkcommandsdramaticpanoramasovertheFirthofForthtoFife.Agreatplacetopwatchthepassingshipsandbrightlycolouredyachts.Withintheparkthereareannualbeds;oneshapedinasaeight-pointedstarandtwocrescents.ThesedepicttheStaroftheSeabelivedtobesymbolicofashipscompassandharkingbacktothedayswhenForthsailormennavigatedtheoceansbythestars.AtthebackoftheStarbankHouse;;;55.979609210714784;;;-3.2012271881103516
+Parks and gardens;;;StenhousePlaceEastPark;;;55.933304;;;-3.25998
+Parks and gardens;;;;;;55.974182430748066;;;-3.1771087646484375
+Parks and gardens;;;UnionParkispopularforsportandwithlocalpeopleforwalking.Theparkisrailedoffandborderedbyahawthornhedgeandlimetrees.Thereisalsoawell-usedchildrensplayarea.;;;55.93569289403262;;;-3.276500701904297
+Parks and gardens;;;11or14.;;;55.97504692455578;;;-3.192472457885742
+Parks and gardens;;;WestPiltonGardensisspiltovertwolevels.Thetoplevelshasplayareasfortoddlersandjuniors;;;55.970868358840484;;;-3.246288299560547
+Parks and gardens;;;WhinhillPark;;;55.9274229831745;;;-3.273324966430664
+Parks and gardens;;;WithinearshotofTynecastle;;;55.937421;;;-3.231345
+Parks and gardens;;;;;;55.948106;;;-3.211252
+Parks and gardens;;;BalgreenPark;;;55.941868;;;-3.258011
+Parks and gardens;;;BellevueCrescentGardens;;;55.960558;;;-3.194004
+Parks and gardens;;;Nobookingrequiredforshortholegolfcourse.Justturnupandplay.;;;55.93977911692385;;;-3.2021713256835938
+Parks and gardens;;;CaltonHillisahillincentralEdinburgh;;;55.954709;;;-3.183294
+Parks and gardens;;;ClermistonPark;;;55.956600199425225;;;-3.2875728607177734
+Parks and gardens;;;ThisGeorgiancrescent;;;55.948666;;;-3.212451
+Parks and gardens;;;CorstorphineHillLocalNatureReserveisanaturalheritageparkwithlargeareasofmaturewoodlandandgrassland.Atitshighestpoint531feet(161metres)visitorsgetstunningviewsofthecity.OnacleardayyoucanseethesummitofBenLomondinthewest;;;55.957417037360365;;;-3.2759857177734375
+Parks and gardens;;;;;;55.97864877413752;;;-3.2898902893066406
+Parks and gardens;;;ThislittleparkwasformerlyknownasIonaStreetandwasfirstsetoutasarecreationareain1902.ItwasmaintainedbythegovernorsofTrinityHospitalwhopasseditintothecityssafekeepingin1922.;;;55.96411926232121;;;-3.172903060913086
+Parks and gardens;;;ThegroundwasacquiredforthecityfromDameMaryRamsay-Steel-Maitlandin1922.;;;55.96380699804833;;;-3.276844024658203
+Parks and gardens;;;thetreeislocatedtothelefthandsideofthemedicalcentreandhasastoneandplaqueinplaceatthesideofthetreetomarkthisevent.;;;55.945781;;;-3.182892
+Parks and gardens;;;Ahiddengem;;;55.95172283776367;;;-3.1792545318603516
+Parks and gardens;;;EastPiltonParkisaplaceforplayandhasbeendividedtoallowtoddlerstoplay;;;55.97408637468797;;;-3.227405548095703
+Parks and gardens;;;AsmallcommunityparklocatedonthenorthEdinburghcyclepath.Ithasamuchlovedplayareaandamountainbiketrack.;;;55.962750084889855;;;-3.2434558868408203
+Parks and gardens;;;GardnersCrescentisasmallneighbourhoodgreenspacewithcherry;;;55.944496;;;-3.209233
+Parks and gardens;;;GayfieldSquare;;;55.95866628556793;;;-3.1850051879882812
+Parks and gardens;;;;;;55.94655648908883;;;-3.197493553161621
+Parks and gardens;;;GlendevonPark;;;55.939201;;;-3.25524
+Parks and gardens;;;;;;55.940644379409086;;;-3.2222557067871094
+Parks and gardens;;;;;;55.947517722431606;;;-3.198566436767578
+Parks and gardens;;;GrantonCrescentPark;;;55.979753274144315;;;-3.2244014739990234
+Parks and gardens;;;HarrisonParkisapopularcommunityparkextendingsome7hectaresinsize.Inprovidesarangeofrecreationalfacilitiesincludingpitches;;;55.93386597260774;;;-3.2267189025878906
+Parks and gardens;;;ThisisasmallparksituatedoffGreatJunctionStreetandistheonlyformalparkinthearea.Theparkhasatoddlersplayareaandissurroundedwithmatureshrubplanting.;;;55.973531;;;-3.173605
+Parks and gardens;;;HillsideCrescentGardenswerecreatedbyWilliamPlayfairtoenrichtheNewTowncrescent.Therearedisplaysofhorsechestnut;;;55.957945570368686;;;-3.177967071533203
+Parks and gardens;;;withaminimumchargeof£1.00.Thechargesapplybetween08.30and17.30.TheRegulationsdonotapplyonSaturdays;;;55.949010790124575;;;-3.1593189295381308
+Parks and gardens;;;upgradingpathsandinstallinginterpretationpanels.;;;55.9611646610301;;;-3.1836318969726562
+Parks and gardens;;;Inchistheoldnameforanislandorapieceoflow-lyinglandnearariverorburn;;;55.92516287487901;;;-3.160886764526367
+Parks and gardens;;;InverleithParkisalargeparkofneatlymaintainedgrassparklandwithatreelinedperimeterandpaths.Therearegrandgatedentrancesandironrailingsaroundtheperimeter.Theparkiswell-lovedandwell-usedwithanextensiverangeoffacilitiesincludingsportspitchesandclubpavilions;;;55.96380699804833;;;-3.215475082397461
+Parks and gardens;;;ThisisasmallbutwellusedneighbourhoodparkwithafinesettingabovetheWaterofLeith.Awalkwayandcycletrackleaddowntowhathasbecomeapopularstrollingareadbesideatranquilsectionoftheriver.Thereisafencedoffplayareapopularwithlocalparentsandtheirchildren.;;;55.97437454215269;;;-3.181142807006836
+Parks and gardens;;;Apleasantparkofwindingpaths;;;55.96073226143287;;;-3.1972789764404297
+Parks and gardens;;;Thegroundsofthe16thCenturyLauristonCastleofferviewsacrosstheFirthofForthinawoodandparklandsetting.Therearemanicuredlawnsincontrastwithwoodlandwalksandarangeoftreesandplantsintheelegantgardensincludingazaleas;;;55.97009983784913;;;-3.278045654296875
+Parks and gardens;;;Originallydesignedasgolfcourse;;;55.970340002298805;;;-3.164491653442383
+Parks and gardens;;;;;;55.961500968488146;;;-3.1604576110839844
+Parks and gardens;;;;;;55.957272890741976;;;-3.1774520874023438
+Parks and gardens;;;Tennis:tennis@edinburghleisure.co.ukCricket:sportspitch@edinburghleisure.co.uk;;;55.94136541671504;;;-3.1915283203125
+Parks and gardens;;;MeadowspotPark;;;55.92559567177729;;;-3.2273197174072266
+Parks and gardens;;;Asmall;;;55.95933894097993;;;-3.1749629974365234
+Parks and gardens;;;Theseformeruniversityplayingfieldsweresoldoffinthe90’stohousingdevelopersbutwereneverbuiltonandbecameveryrundownandovergrown.Theywerethenreturnedtocouncilownershiparound2005andworkstoreinstatetheformerpitches;;;55.93314479569796;;;-3.152647018432617
+Parks and gardens;;;MuirhouseParkisacommunityparkthatprovidesaspacewherepeoplecanplay;;;55.97119;;;-3.261404
+Parks and gardens;;;MuriestonParkisasmallcommunityparkoffDalryRoadwithbenchesandplayarea.Theparkisregularlyusedforanumberofcommunityevents.;;;55.94040403065762;;;-3.2268905639648438
+Parks and gardens;;;;;;55.94593167462068;;;-3.1857776641845703
+Parks and gardens;;;withlaburnumtrees;;;55.9550145236391;;;-3.2358169555664062
+Parks and gardens;;;Thisparklandsettingprovidesspaceforlocalstowalkandplay;;;55.96817846858224;;;-3.181142807006836
+Parks and gardens;;;Asmallintimatepark;;;55.933386;;;-3.161042
+Parks and gardens;;;;;;55.95011293327504;;;-3.1990814208984375
+Parks and gardens;;;RavelstonParkisasmallneighbourhoodparkwithapavilion;;;55.95592749641833;;;-3.2553863525390625
+Parks and gardens;;;mice;;;55.95410152932807;;;-3.253755569458008
+Parks and gardens;;;RedbraesPark;;;55.96789025496281;;;-3.188009262084961
+Parks and gardens;;;RegentRoadParkisapeacefulgreenplaceattheheartofoldEdinburghonlyafewminutesfromPrincesStreet.Fromhere;;;55.95482231609982;;;-3.1743621826171875
+Parks and gardens;;;ThisattractivelittlepathisanunexpectedanddelightfulwoodlandgladefullofthesoundofbirdsandthemurmuringsoftheWaterofLeith.;;;55.96241378828613;;;-3.2076644897460938
+Parks and gardens;;;RoseburnParkisintheshadowoftheMurrayfieldRugbystadium.OneofitsattractivefeaturesistheWaterofLeithwhichrunsalongitsnorthedge.Thereisachildrensplayareaandfootballandcricketarebothplayedonthepark.;;;55.94458588614092;;;-3.240194320678711
+Parks and gardens;;;SaughtonParkisoneofEdinburghshiddenjewels.Notonlydoeshavealargetractofwell-managedopenspacewithplayingfieldsandathletictrack;;;55.935164057216745;;;-3.248262405395508
+Parks and gardens;;;Thislargeparkhasflatexpansesofgrasswhicharededicatedtofootball.TheparkisboundedbycommunitywoodlandsplantedatthestartofthenewMillennium.Thereisawellusedplayareaandskateboardfacilities.;;;55.926845946778435;;;-3.2866287231445312
+Parks and gardens;;;ThissmallrectangularparkoverlooksSilverknowesGolfCourseandhasspectacularpanoramaoftheFirthofForth.Theparkishometofootball;;;55.973942290150596;;;-3.266286849975586
+Parks and gardens;;;AlargeattractiveparkfoundinCorstorphineVillage.Therearearangeofthingstodothereincludingtennisandabrandnewplayareawhichwasre-openedin2013.TheparkhasbeenawardedaGreenFlagsince2011;;;55.939250335889696;;;-3.285512924194336
+Parks and gardens;;;Thislittlepark;;;55.968466680054874;;;-3.1923866271972656
+Parks and gardens;;;;;;55.94295165154051;;;-3.1838035583496094
+Parks and gardens;;;StarbankParkcommandsdramaticpanoramasovertheFirthofForthtoFife.Agreatplacetopwatchthepassingshipsandbrightlycolouredyachts.Withintheparkthereareannualbeds;oneshapedinasaeight-pointedstarandtwocrescents.ThesedepicttheStaroftheSeabelivedtobesymbolicofashipscompassandharkingbacktothedayswhenForthsailormennavigatedtheoceansbythestars.AtthebackoftheStarbankHouse;;;55.979609210714784;;;-3.2012271881103516
+Parks and gardens;;;StenhousePlaceEastPark;;;55.933304;;;-3.25998
+Parks and gardens;;;;;;55.974182430748066;;;-3.1771087646484375
+Parks and gardens;;;UnionParkispopularforsportandwithlocalpeopleforwalking.Theparkisrailedoffandborderedbyahawthornhedgeandlimetrees.Thereisalsoawell-usedchildrensplayarea.;;;55.93569289403262;;;-3.276500701904297
+Parks and gardens;;;11or14.;;;55.97504692455578;;;-3.192472457885742
+Parks and gardens;;;WestPiltonGardensisspiltovertwolevels.Thetoplevelshasplayareasfortoddlersandjuniors;;;55.970868358840484;;;-3.246288299560547
+Parks and gardens;;;WhinhillPark;;;55.9274229831745;;;-3.273324966430664
+Parks and gardens;;;WithinearshotofTynecastle;;;55.937421;;;-3.231345
