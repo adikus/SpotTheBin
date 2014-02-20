@@ -65,9 +65,39 @@ class StaticPagesController < ApplicationController
 			@messages << "Node taken."
 			return
 		else
-			@messages << "game has not started yet"
+			@messages << "Game has not started yet"
 			return
 		end
+	end
+
+	def generate_output (p, g, t)
+		if t == 1
+			@o = "[][]"
+			@o = @o + @mesages.join(';;;') + "\#\#\#"
+			@o = @o + get_string_node_info(p,g) + "\#\#\#"
+		else
+			@o = "[][]F[][]" + @mesages.join(';;;') + "[][]"
+		end
+
+	end
+
+
+	def get_string_node_info(p,g)
+		data = []
+		nodes = Node.find_by(game_id: g.id)
+		nodes.each do |n|
+			if n.player_id == p.id
+				color = 1
+			else
+				if n.player_id.blank?
+					color = 0
+				else
+					color = 2
+				end
+			end
+			
+		end
+
 	end
 
 	def get_next_node(tolerance,x,y,possible)
