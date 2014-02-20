@@ -22,6 +22,7 @@ class StaticPagesController < ApplicationController
 		game = Game.find_by(name: gname)
 		if (game.nil? or (game.password != gpass))
 			@messages << "Player did not log into the game with right credentials."
+			generate_output(nil,nil,"F")
 			return
 		end
 
@@ -31,61 +32,94 @@ class StaticPagesController < ApplicationController
 			player = game.players.find_by(name: name)
 
 			if (player.nil?)
-				if ((time - game.start_time) < 12000)
+				if ((time - game.start_time) < 5000000000)
 					Player.create(name: name, password: pass, game_id: game.id)
 					player=Player.find_by(name: name)
-					new_node = get_next_node(360,x,y,Node.all)
+					new_node = get_next_node(360,x,y,Node.where(game_id: game.id))
 					if (new_node.nil?)
 						@messages << "Player cannot join - Map is full."
+						generate_output(player,game,"F")
 						return
 					end
 					set_owner(player,new_node)
 					@messages << "Player added."
+					generate_output(player,game,"S")
 					return
 				else
 					@messages << "It is too late to register."
+					generate_output(player,game,"T")
 					return
 				end
 			end
 
 			if (player.password != pass)
 				@messages << "Player did not log in with correct credentials."
+				generate_output(nil,nil,"F")
 				return
 			end
-
 			current = player.nodes.where(game: game).order(claimed_at: :desc).first
 			possible = current.get_next_nodes
 			tolerance = 30000
 			next_node = get_next_node(tolerance,x,y,possible)
 			if next_node.nil?
 				@messages << "No node was in reach."
+				generate_output(player,game,"O")
 				return
 			end
 			set_owner(player,next_node)
 			@messages << "Node taken."
+			generate_output(player,game,"S")
 			return
 		else
 			@messages << "Game has not started yet"
+			generate_output(player,game,"T")
 			return
 		end
 	end
 
 	def generate_output (p, g, t)
-		if t == 1
-			@o = "[][]"
-			@o = @o + @mesages.join(';;;') + "\#\#\#"
+		if t == "S"
+			@o = "[][]" + t + "[][]"
+			@o = @o + @messages.join(";;;") + "\#\#\#"
 			@o = @o + get_string_node_info(p,g) + "\#\#\#"
+			@o = @o + get_string_node_circles(p,g) + "\#\#\#"
+			@o = @o + get_string_connection_colors(p,g) + "\#\#\#"
 		else
-			@o = "[][]F[][]" + @mesages.join(';;;') + "[][]"
+			@o = "[][]" + t + "[][]" + @messages.join(";;;") + "[][]"
 		end
 
 	end
 
+	def get_string_connection_colors(p,g)
+		
+	end
+
+	def get_string_node_circles(p,g)
+		players = g.players
+		datas = []
+		players.each do |player|
+			data = []
+			node = player.nodes.order(claimed_at: :desc).first
+			if node.player_id == p.id
+				color = 1
+			else
+				if node.player_id.blank?
+					color = 0
+				else
+					color = 2
+				end
+			end
+			data << node.fx.to_s << node.fy.to_s << color.to_s
+			datas << data.join("&&&")
+		end
+		return datas.join(";;;")
+	end
 
 	def get_string_node_info(p,g)
-		data = []
-		nodes = Node.find_by(game_id: g.id)
+		datas = []
+		nodes = Node.where(game_id: g.id)
 		nodes.each do |n|
+			data = []
 			if n.player_id == p.id
 				color = 1
 			else
@@ -95,9 +129,10 @@ class StaticPagesController < ApplicationController
 					color = 2
 				end
 			end
-			
+			data << n.fx.to_s << n.fy.to_s << color.to_s
+			datas << data.join("&&&")
 		end
-
+		return datas.join(";;;")
 	end
 
 	def get_next_node(tolerance,x,y,possible)
