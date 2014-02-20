@@ -31,7 +31,7 @@ class StaticPagesController < ApplicationController
 			player = game.players.find_by(name: name)
 
 			if (player.nil?)
-				if ((time - game.start_time) < 120)
+				if ((time - game.start_time) < 12000)
 					Player.create(name: name, password: pass, game_id: game.id)
 					player=Player.find_by(name: name)
 					new_node = get_next_node(360,x,y,Node.all)
@@ -64,7 +64,6 @@ class StaticPagesController < ApplicationController
 			set_owner(player,next_node)
 			@messages << "Node taken."
 			return
-			error
 		else
 			@messages << "game has not started yet"
 			return

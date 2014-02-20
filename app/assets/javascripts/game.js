@@ -10,14 +10,14 @@ $(window).load(function(){
 
     game.ctx.drawImage(game.img,0,0,game.img.width, game.img.height,0,0,game.canvas[0].width,game.canvas[0].height);
 
-    for(var i in game.nodes){
-        var node = game.nodes[i];
-        drawNode(node);
-    }
-
     for(var i in game.connections){
         var conn = game.connections[i];
         drawConn(conn);
+    }
+    
+    for(var i in game.nodes){
+        var node = game.nodes[i];
+        drawNode(node);
     }
 
     function drawNode(node){

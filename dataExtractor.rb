@@ -1,3 +1,9 @@
+require 'iconv'
+
+def rna(old) 
+	return old.gsub(/[\x80-\xff]/,"")
+end
+
 def find_coords (ls)
 	puts "here"
 	possible = []
@@ -41,7 +47,7 @@ def read_file(num,file)
 				begin
 					line = line.gsub('"', "")
 					line = line.gsub('\'', "")
-					line = line.split.join("")
+					line = line.split.join(" ")
 					ls = line.split(',')
 					if ls.length >= (3 + num)
 						coords = find_coords(ls)
@@ -60,9 +66,37 @@ def read_file(num,file)
 
 end
 
+def remove_duplicates
+	text=File.open("DATA.TXT").read
+	text.delete!("^\u{0000}-\u{007F}")
+	unique = []
+	text.each_line do |line|
+		ls = line.split.join(" ").split(";;;")
+		put_in = true
+		unique.each do |u|
+			if ((u[2] == ls[2]) and (u[3] == ls[3]))
+				put_in = false
+			end
+		end
+		if put_in
+			unique << ls
+		end
+	end
+	return unique
+end
+
+def write_jsons(unique)
+	file = File.open("JSONS.TXT", "w")
+	unique.each do |u|
+		file.write("{name:\"" + rna(u[1].slice(0, 250)) + "\",y:" + u[2].to_s + ",x:" + u[3].to_s + ",category: \"" + rna(u[0]) + "\"},")
+	end
+	file.close unless file == nil
+end
+
 
 
 file = File.open("DATA.TXT", "w")
 read_file(1,file)
 read_file(2,file)
 file.close unless file == nil
+write_jsons(remove_duplicates)
