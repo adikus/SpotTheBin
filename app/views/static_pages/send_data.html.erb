@@ -1,4 +1,4 @@
-<div class="page-header text-center">
+<div class="page-header">
   <h1>Send Data</h1>
 </div>
 <div class="row-fluid">
@@ -11,7 +11,7 @@
         </ul>
       </div>
     <% end %>
-    <%= @o %>
+    <noframes><%= @o %></noframes>
 	<form method="GET">
 		Game Name: <input type="text" name="sgname"><br>
 		Game Pass: <input type="password" name="sgpass"><br>

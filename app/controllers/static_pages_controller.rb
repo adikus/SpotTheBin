@@ -3,6 +3,13 @@ class StaticPagesController < ApplicationController
 		@games = Game.all
 	end
 
+	def delete_database_content
+		Node.delete_all
+		Player.delete_all
+		Connection.delete_all
+		Game.delete_all
+	end
+
 	def how_to_play
 
 	end
@@ -12,6 +19,10 @@ class StaticPagesController < ApplicationController
 	end
 
 	def send_data
+
+		tolerance = 30000
+		delay = 60*5
+
 		@messages = []
 		gname = params[:sgname]
 		gpass = params[:sgpass]
@@ -19,6 +30,14 @@ class StaticPagesController < ApplicationController
 		pass = params[:spass]
 		x = params[:sx].to_f
 		y = params[:sy].to_f
+
+#		if name.blank?
+#			error
+#			@messages << "No username provided."
+#			generate_output(nil,nil,"F")
+#			return
+#		end
+
 		game = Game.find_by(name: gname)
 		if (game.nil? or (game.password != gpass))
 			@messages << "Player did not log into the game with right credentials."
@@ -37,41 +56,44 @@ class StaticPagesController < ApplicationController
 					player=game.players.find_by(name: name)
 					new_node = get_next_node(360,x,y,Node.where(game_id: game.id))
 					if (new_node.nil?)
-						@messages << "Player cannot join - Map is full."
+						@messages << "We are sorry, but the map is full. You can not join now."
 						generate_output(player,game,"F")
 						return
 					end
 					set_owner(player,new_node)
-					@messages << "Player added."
+					@messages << "Welcome to the game."
 					generate_output(player,game,"S")
 					return
 				else
-					@messages << "It is too late to register."
+					@messages << "Registration was only open for the first three minutes of the game. You can not register now."
 					generate_output(player,game,"T")
 					return
 				end
 			end
 
 			if (player.password != pass)
-				@messages << "Player did not log in with correct credentials."
+				@messages << "You either input the wrong credentials or a player with your name already exists."
 				generate_output(nil,nil,"F")
 				return
 			end
 			current = player.nodes.where(game: game).order(claimed_at: :desc).first
-			possible = current.get_next_nodes
-			tolerance = 30000
-			next_node = get_next_node(tolerance,x,y,possible)
-			if next_node.nil?
-				@messages << "No node was in reach."
-				generate_output(player,game,"O")
+			if (current.claimed_at + delay > time)
+				possible = current.get_next_nodes
+				next_node = get_next_node(tolerance,x,y,possible)
+				if next_node.nil?
+					@messages << "No node is within reach."
+					generate_output(player,game,"O")
+					return
+				end
+				set_owner(player,next_node)
+				@messages << "You just took a new node!"
+				generate_output(player,game,"S")
 				return
+			else
+				@messages << "You ran out of time! You have lost!"
 			end
-			set_owner(player,next_node)
-			@messages << "Node taken."
-			generate_output(player,game,"S")
-			return
 		else
-			@messages << "Game has not started yet"
+			@messages << "Game has not started yet. Please wait."
 			generate_output(player,game,"T")
 			return
 		end

@@ -4,6 +4,7 @@ SpotTheBin::Application.routes.draw do
   get 'how_to' => 'static_pages#how_to_play'
   get 'what_is' => 'static_pages#what_is_spot_the_bin'
   get 'send_data' => 'static_pages#send_data'
+  get 'reset' => 'static_pages#delete_database_content'
   resources :games
 
   # The priority is based upon order of creation: first created -> highest priority.

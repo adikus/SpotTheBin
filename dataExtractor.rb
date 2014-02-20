@@ -16,10 +16,10 @@ def find_coords (ls)
 	coords = [0,0]
 	possible.each do |c|
 		if ((55.925 < c) and (c < 55.98))
-			coords[1] = c
+			coords[1] = c.round(4)
 		end
 		if ((-3.29 < c) and (c < -3.15))
-			coords[0] = c
+			coords[0] = c.round(4)
 		end
 	end
 	unless (coords[0] == 0 or coords[1] == 0)

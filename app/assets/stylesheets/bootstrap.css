@@ -5,6 +5,10 @@
  */
 
 /*! normalize.css v3.0.0 | MIT License | git.io/normalize */
+
+
+
+
 html {
   font-family: sans-serif;
   -webkit-text-size-adjust: 100%;
@@ -13,6 +17,7 @@ html {
 body {
   margin: 0;
 }
+
 article,
 aside,
 details,
@@ -3785,10 +3790,21 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar-nav {
   margin: 7.5px -15px;
 }
+
+.container a {
+  color: #369;
+  font-weight: bold;
+}
+
+.container a :hover{
+  color: #47A;
+}
+
 .navbar-nav > li > a {
   padding-top: 10px;
   padding-bottom: 10px;
   line-height: 20px;
+  font-weight: normal;
 }
 @media (max-width: 767px) {
   .navbar-nav .open .dropdown-menu {
@@ -3847,6 +3863,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, .1), 0 1px 0 rgba(255, 255, 255, .1);
           box-shadow: inset 0 1px 0 rgba(255, 255, 255, .1), 0 1px 0 rgba(255, 255, 255, .1);
 }
+
+
 @media (min-width: 768px) {
   .navbar-form .form-group {
     display: inline-block;
@@ -4359,7 +4377,6 @@ a.badge:focus {
 a.list-group-item.active > .badge,
 .nav-pills > .active > a > .badge {
   color: #428bca;
-  background-color: #fff;
 }
 .nav-pills > li > a > .badge {
   margin-left: 3px;
@@ -4610,8 +4627,7 @@ a.thumbnail.active {
   display: block;
   padding: 10px 15px;
   margin-bottom: -1px;
-  background-color: #fff;
-  border: 1px solid #ddd;
+  border: 1px solid #000;
 }
 .list-group-item:first-child {
   border-top-left-radius: 4px;
@@ -4637,7 +4653,7 @@ a.list-group-item .list-group-item-heading {
 a.list-group-item:hover,
 a.list-group-item:focus {
   text-decoration: none;
-  background-color: #f5f5f5;
+  color: #000;
 }
 a.list-group-item.active,
 a.list-group-item.active:hover,
