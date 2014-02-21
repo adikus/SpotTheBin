@@ -21,7 +21,7 @@ class StaticPagesController < ApplicationController
 	def send_data
 
 		tolerance = 30000
-		delay = 60*30
+		delay = 60*120
 
 		@messages = []
 		gname = params[:sgname]
@@ -103,7 +103,7 @@ class StaticPagesController < ApplicationController
 		if t == "S"
 			@o = "[[]]" + t + "[[]]"
 			@o = @o + @messages.join(";;;") + "[\#\#\#]"
-			@o = @o + "No errors [\#\#\#]"
+			@o = @o + get_string_info(p,g) + "[\#\#\#]"
 			@o = @o + get_string_node_info(p,g) + "[\#\#\#]"
 			@o = @o + get_string_node_circles(p,g) + "[\#\#\#]"
 			@o = @o + get_string_connection_colors(p,g)
@@ -112,6 +112,10 @@ class StaticPagesController < ApplicationController
 			@o = "[[]]" + t + "[[]]" + @messages.join(";;;") + "[[]]"
 		end
 
+	end
+
+	def get_string_info (p,g)
+		return p.nodes.order(claimed_at: :desc).first.place.name
 	end
 
 	def get_string_connection_colors(p,g)
