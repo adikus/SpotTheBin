@@ -16,10 +16,10 @@ def find_coords (ls)
 	coords = [0,0]
 	possible.each do |c|
 		if ((55.925 < c) and (c < 55.98))
-			coords[1] = c.round(4)
+			coords[1] = c.round(6)
 		end
 		if ((-3.29 < c) and (c < -3.15))
-			coords[0] = c.round(4)
+			coords[0] = c.round(6)
 		end
 	end
 	unless (coords[0] == 0 or coords[1] == 0)
@@ -74,7 +74,8 @@ def remove_duplicates
 		ls = line.split.join(" ").split(";;;")
 		put_in = true
 		unique.each do |u|
-			if ((u[2] == ls[2]) and (u[3] == ls[3]))
+			#if ((u[2] == ls[2]) and (u[3] == ls[3]))
+			if (Connection.pytagoras(u[2], u[3], ls[2], ls[3]) < 0.002)
 				put_in = false
 			end
 		end

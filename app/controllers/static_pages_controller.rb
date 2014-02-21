@@ -115,22 +115,32 @@ class StaticPagesController < ApplicationController
 	end
 
 	def get_string_connection_colors(p,g)
+
 		cons = g.connections
 		datas = []
 		cons.each do |c|
 			data = []
-			if (c.node1.player_id == c.node2.player_id and (not c.node1.player_id.blank?))
-				if c.node1.player_id == p.id
-					color = 1
-				else
-					color = 2
-				end
-			else
-				color = 0
-			end
-			data << c.node1.fx.to_s << c.node1.fy.to_s << c.node2.fx.to_s << c.node2.fy.to_s << color.to_s
+			data << c.node1.fx.to_s << c.node1.fy.to_s << c.node2.fx.to_s << c.node2.fy.to_s << "0"
 			datas << data.join("[&&&]")
 		end
+
+		players = g.players
+		players.each do |player|
+			if player.id == p.id
+				color = 1
+			else
+				color = 2
+			end
+			nodes = player.nodes.order(claimed_at: :desc)
+			a = 1
+			while a < nodes.length
+				data = []
+				data << nodes[a-1].fx.to_s << nodes[a-1].fy.to_s << nodes[a].fx.to_s << nodes[a].fy.to_s << color.to_s
+				datas << data.join("[&&&]")
+				a = a + 1
+			end
+		end
+
 		return datas.join("[;;;]")
 	end
 
