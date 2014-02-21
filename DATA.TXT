@@ -1,628 +1,628 @@
-Cemeteries and crematoria;;;Buccleuch Churchyard;;;55.9416;;;-3.1835
-Cemeteries and crematoria;;;Canongate Churchyard;;;55.9514;;;-3.1798
-Cemeteries and crematoria;;;Comely Bank Cemetery;;;55.9584;;;-3.2279
-Cemeteries and crematoria;;;Corstorphine Churchyard;;;55.942;;;-3.2819
-Cemeteries and crematoria;;;Dalry Cemetery;;;55.9406;;;-3.2241
-Cemeteries and crematoria;;;East Preston Street Cemetery;;;55.9387;;;-3.1762
-Cemeteries and crematoria;;;Grange Cemetery;;;55.9341;;;-3.1902
-Cemeteries and crematoria;;;Greyfriars Chruchyard;;;55.9471;;;-3.1919
-Cemeteries and crematoria;;;Jewish Cemetery;;;55.9377;;;-3.182
-Cemeteries and crematoria;;;New Calton Burial Ground;;;55.9534;;;-3.1765
-Cemeteries and crematoria;;;Newington Cemetery;;;55.9328;;;-3.1655
-Cemeteries and crematoria;;;North Leith Churchyard;;;55.976;;;-3.1753
-Cemeteries and crematoria;;;North Merchiston Cemetery;;;55.9363;;;-3.2287
-Cemeteries and crematoria;;;Old Calton Burial Ground;;;55.9537;;;-3.1873
-Cemeteries and crematoria;;;Rosebank Cemetery;;;55.9678;;;-3.1848
-Cemeteries and crematoria;;;Saughton Cemetery;;;55.928;;;-3.2537
-Cemeteries and crematoria;;;South Leith Churchyard;;;55.9722;;;-3.1713
-Cemeteries and crematoria;;;St Cuthberts Churchyard;;;55.9497;;;-3.2069
-Cemeteries and crematoria;;;Warriston Cemetery;;;55.968;;;-3.1974
-Registered homecare providers;;;Action Group;;;55.9611;;;-3.1666
-Registered homecare providers;;;;;;55.9712;;;-3.187
-Registered homecare providers;;;Care UK;;;55.9309;;;-3.2536
-Registered homecare providers;;;Crossroads Caring Scotland Edinburgh;;;55.9386;;;-3.2288
-Registered homecare providers;;;Deaf Action;;;55.9575;;;-3.1895
-Registered homecare providers;;;Freespace;;;55.9384;;;-3.2435
-Registered homecare providers;;;Hanover Housing Association Limited;;;55.9649;;;-3.1869
-Registered homecare providers;;;Leonard Cheshire Disability;;;55.9458;;;-3.2386
-Registered homecare providers;;;Link Living;;;55.9269;;;-3.2497
-Registered homecare providers;;;Margarot Forrest;;;55.957;;;-3.2485
-Registered homecare providers;;;MEARS;;;55.9613;;;-3.1672
-Registered homecare providers;;;;;;55.9336;;;-3.167
-Housing support organizations;;;Access Point;;;55.9539;;;-3.1878
-Housing support organizations;;;Action Group;;;55.9613;;;-3.1665
-Housing support organizations;;;Barnardos 16+ Visiting Support Service;;;55.9499;;;-3.1909
-Housing support organizations;;;Barnardos Care Leavers ;;;55.9499;;;-3.1909
-Housing support organizations;;;Bethany Christian Trust;;;55.9715;;;-3.177
-Housing support organizations;;;Blackwood Care - Community Worker;;;55.9569;;;-3.1685
-Housing support organizations;;;Physical disability;;;55.9549;;;-3.1967
-Housing support organizations;;;;;;55.948;;;-3.1976
-Housing support organizations;;;The CHAI Substance Misuse Support Service deliver support to people with substance misuse problems resident in South West Edinburgh.;;;55.9301;;;-3.2554
-Housing support organizations;;;Changeworks;;;55.9698;;;-3.186
-Housing support organizations;;;City Youth Cafe ;;;55.9484;;;-3.194
-Housing support organizations;;;City Youth Cafe - Drop in Service;;;55.9484;;;-3.194
-Housing support organizations;;;Comely Green Service;;;55.9272;;;-3.2496
-Housing support organizations;;;Connected Learning and Employability;;;55.9649;;;-3.1962
-Housing support organizations;;;Cross Reach Cunningham House;;;55.9485;;;-3.1884
-Housing support organizations;;;Cross Reach Rankeillor ;;;55.9539;;;-3.2032
-Housing support organizations;;;Physical health;;;55.9342;;;-3.2386
-Housing support organizations;;;Cyrenians Homelessness Prevention Service;;;55.9613;;;-3.1665
-Housing support organizations;;;The holistic support gives security;;;55.9743;;;-3.1843
-Housing support organizations;;;Deaf Action;;;55.9573;;;-3.1896
-Housing support organizations;;;Dean and Cauvin Trust ;;;55.9508;;;-3.212
-Housing support organizations;;;Dunedin Harbour Hostel;;;55.9745;;;-3.1726
-Housing support organizations;;;Edinburgh Furniture Initiative;;;55.9653;;;-3.1961
-Housing support organizations;;;Edinburgh Housing Advice Partnership (EHAP) ;;;55.9303;;;-3.2552
-Housing support organizations;;;Edinburgh Mental Health Service;;;55.9271;;;-3.2495
-Housing support organizations;;;Edinburgh Womens Aid ;;;55.9583;;;-3.2132
-Housing support organizations;;;Edinburgh Young Persons Service;;;55.9273;;;-3.2494
-Housing support organizations;;;ESIST;;;55.9624;;;-3.1902
-Housing support organizations;;;Four Square ;;;55.9653;;;-3.1963
-Housing support organizations;;;Freespace;;;55.9416;;;-3.226
-Housing support organizations;;;Garvald;;;55.9382;;;-3.2132
-Housing support organizations;;;Gateway to Homes and Communities;;;55.9715;;;-3.177
-Housing support organizations;;;Gateway Visiting Support ;;;55.9715;;;-3.177
-Housing support organizations;;;Mental health;;;55.9515;;;-3.1789
-Housing support organizations;;;Gowrie Care Multiple Needs;;;55.9515;;;-3.1789
-Housing support organizations;;;Health in Mind ;;;55.9491;;;-3.21
-Housing support organizations;;;Home Scotland;;;55.9631;;;-3.2725
-Housing support organizations;;;Mental health problem;;;55.9463;;;-3.1892
-Housing support organizations;;;Key Moves;;;55.9508;;;-3.184
-Housing support organizations;;;LetFirst;;;55.9708;;;-3.1803
-Housing support organizations;;;Out of the Cold;;;55.9514;;;-3.183
-Housing support organizations;;;Penumbra;;;55.9613;;;-3.1665
-Housing support organizations;;;Prestonfield Neighbourhood Project;;;55.9334;;;-3.1592
-Housing support organizations;;;Reach Out;;;55.9625;;;-3.1904
-Housing support organizations;;;Richmond Fellowship Scotland;;;55.9424;;;-3.2253
-Housing support organizations;;;Rock Trust;;;55.9573;;;-3.1896
-Housing support organizations;;;Runaways Action Project;;;55.9622;;;-3.1904
-Housing support organizations;;;Saheliya ;;;55.9657;;;-3.1877
-Housing support organizations;;;Salvation Army;;;55.9465;;;-3.2042
-Housing support organizations;;;Scottish Veterans;;;55.9522;;;-3.1771
-Housing support organizations;;;Support for people under 25 years old is through the Rock Trust – Crisis Service. ;;;55.9492;;;-3.1817
-Housing support organizations;;;Streetwork - Tenancy Support;;;55.9515;;;-3.1829
-Housing support organizations;;;Streetwork - Womens Project;;;55.9621;;;-3.1904
-Housing support organizations;;;Turning Point - Midpoint;;;55.9732;;;-3.1642
-Housing support organizations;;;YMCA;;;55.9497;;;-3.2082
-Care homes;;;Ark Housing Association;;;55.93;;;-3.2025
-Care homes;;;Belgrave Lodge Nursing Home;;;55.9429;;;-3.2764
-Care homes;;;Belleville Lodge Nursing Home;;;55.9365;;;-3.1738
-Care homes;;;Bield Housing Association - Craighall Care Home;;;55.9733;;;-3.1947
-Care homes;;;Bield Housing Association - Stockbridge Care Home;;;55.9586;;;-3.2091
-Care homes;;;Braeburn Home;;;55.9628;;;-3.2086
-Care homes;;;Cairdeas House;;;55.9469;;;-3.222
-Care homes;;;Cameron Park Nursing Home;;;55.9322;;;-3.1541
-Care homes;;;Camilla House;;;55.9296;;;-3.1888
-Care homes;;;Chamberlain Nursing Home;;;55.9345;;;-3.2088
-Care homes;;;Cherryholme House;;;55.9315;;;-3.2192
-Care homes;;;Claremont Park Nursing Home;;;55.9697;;;-3.1574
-Care homes;;;Colinton Care Home;;;55.9312;;;-3.222
-Care homes;;;Eagle Lodge;;;55.9696;;;-3.2257
-Care homes;;;Eildon Nursing Home;;;55.9662;;;-3.2022
-Care homes;;;Ferrylee - City of Edinburgh Council;;;55.9769;;;-3.18
-Care homes;;;Fords Road - City of Edinburgh Council;;;55.933;;;-3.2497
-Care homes;;;Forthland Lodge;;;55.9653;;;-3.1583
-Care homes;;;Forward Vision;;;55.9303;;;-3.2023
-Care homes;;;Garvald Napier Road;;;55.9351;;;-3.2189
-Care homes;;;Glencairn Care Home;;;55.9369;;;-3.1908
-Care homes;;;Jubilee House;;;55.9321;;;-3.2253
-Care homes;;;LArche Creelha;;;55.9661;;;-3.169
-Care homes;;;LArche The Skein;;;55.97;;;-3.1536
-Care homes;;;Laverock House Residential Care;;;55.979;;;-3.2021
-Care homes;;;Lennox House;;;55.9779;;;-3.2086
-Care homes;;;Leonard Cheshire Alemoor Crescent;;;55.9646;;;-3.1571
+Cemeteries and crematoria;;;Buccleuch Churchyard;;;55.94163;;;-3.183462
+Cemeteries and crematoria;;;Canongate Churchyard;;;55.951403;;;-3.179765
+Cemeteries and crematoria;;;Comely Bank Cemetery;;;55.958445;;;-3.227928
+Cemeteries and crematoria;;;Corstorphine Churchyard;;;55.942038;;;-3.281908
+Cemeteries and crematoria;;;Dalry Cemetery;;;55.940602;;;-3.224066
+Cemeteries and crematoria;;;East Preston Street Cemetery;;;55.938722;;;-3.176165
+Cemeteries and crematoria;;;Grange Cemetery;;;55.934058;;;-3.190241
+Cemeteries and crematoria;;;Greyfriars Chruchyard;;;55.947127;;;-3.191861
+Cemeteries and crematoria;;;Jewish Cemetery;;;55.937673;;;-3.181991
+Cemeteries and crematoria;;;New Calton Burial Ground;;;55.953381;;;-3.176508
+Cemeteries and crematoria;;;Newington Cemetery;;;55.932773;;;-3.165515
+Cemeteries and crematoria;;;North Leith Churchyard;;;55.976023;;;-3.175263
+Cemeteries and crematoria;;;North Merchiston Cemetery;;;55.936266;;;-3.228695
+Cemeteries and crematoria;;;Old Calton Burial Ground;;;55.953683;;;-3.187256
+Cemeteries and crematoria;;;Rosebank Cemetery;;;55.967794;;;-3.184834
+Cemeteries and crematoria;;;Saughton Cemetery;;;55.927962;;;-3.253704
+Cemeteries and crematoria;;;South Leith Churchyard;;;55.972205;;;-3.171338
+Cemeteries and crematoria;;;St Cuthberts Churchyard;;;55.949669;;;-3.206882
+Cemeteries and crematoria;;;Warriston Cemetery;;;55.967986;;;-3.197365
+Registered homecare providers;;;Action Group;;;55.961141;;;-3.166552
+Registered homecare providers;;;;;;55.971229;;;-3.187022
+Registered homecare providers;;;Care UK;;;55.930885;;;-3.253584
+Registered homecare providers;;;Crossroads Caring Scotland Edinburgh;;;55.938649;;;-3.228779
+Registered homecare providers;;;Deaf Action;;;55.957489;;;-3.189511
+Registered homecare providers;;;Freespace;;;55.938433;;;-3.243542
+Registered homecare providers;;;Hanover Housing Association Limited;;;55.964888;;;-3.186893
+Registered homecare providers;;;Leonard Cheshire Disability;;;55.945763;;;-3.238564
+Registered homecare providers;;;Link Living;;;55.926897;;;-3.249705
+Registered homecare providers;;;Margarot Forrest;;;55.957009;;;-3.24852
+Registered homecare providers;;;MEARS;;;55.961261;;;-3.167152
+Registered homecare providers;;;;;;55.933602;;;-3.166981
+Housing support organizations;;;Access Point;;;55.953914;;;-3.187842
+Housing support organizations;;;Action Group;;;55.961252;;;-3.166522
+Housing support organizations;;;Barnardos 16+ Visiting Support Service;;;55.94994;;;-3.190859
+Housing support organizations;;;Barnardos Care Leavers ;;;55.94994;;;-3.190859
+Housing support organizations;;;Bethany Christian Trust;;;55.971477;;;-3.176956
+Housing support organizations;;;Blackwood Care - Community Worker;;;55.956864;;;-3.168526
+Housing support organizations;;;Physical disability;;;55.954871;;;-3.196712
+Housing support organizations;;;;;;55.947998;;;-3.197622
+Housing support organizations;;;The CHAI Substance Misuse Support Service deliver support to people with substance misuse problems resident in South West Edinburgh.;;;55.930116;;;-3.255429
+Housing support organizations;;;Changeworks;;;55.969836;;;-3.185992
+Housing support organizations;;;City Youth Cafe ;;;55.948427;;;-3.194031
+Housing support organizations;;;City Youth Cafe - Drop in Service;;;55.948427;;;-3.194031
+Housing support organizations;;;Comely Green Service;;;55.927159;;;-3.249636
+Housing support organizations;;;Connected Learning and Employability;;;55.964864;;;-3.196249
+Housing support organizations;;;Cross Reach Cunningham House;;;55.9485;;;-3.188381
+Housing support organizations;;;Cross Reach Rankeillor ;;;55.953855;;;-3.203231
+Housing support organizations;;;Physical health;;;55.93415;;;-3.238573
+Housing support organizations;;;Cyrenians Homelessness Prevention Service;;;55.961252;;;-3.166522
+Housing support organizations;;;The holistic support gives security;;;55.974327;;;-3.184276
+Housing support organizations;;;Deaf Action;;;55.957297;;;-3.189554
+Housing support organizations;;;Dean and Cauvin Trust ;;;55.950803;;;-3.212024
+Housing support organizations;;;Dunedin Harbour Hostel;;;55.974543;;;-3.172603
+Housing support organizations;;;Edinburgh Furniture Initiative;;;55.965296;;;-3.19612
+Housing support organizations;;;Edinburgh Housing Advice Partnership (EHAP) ;;;55.930281;;;-3.255231
+Housing support organizations;;;Edinburgh Mental Health Service;;;55.92711;;;-3.249464
+Housing support organizations;;;Edinburgh Womens Aid ;;;55.958306;;;-3.213243
+Housing support organizations;;;Edinburgh Young Persons Service;;;55.927285;;;-3.2494
+Housing support organizations;;;ESIST;;;55.96239;;;-3.190198
+Housing support organizations;;;Four Square ;;;55.965307;;;-3.196265
+Housing support organizations;;;Freespace;;;55.941608;;;-3.225971
+Housing support organizations;;;Garvald;;;55.938176;;;-3.213167
+Housing support organizations;;;Gateway to Homes and Communities;;;55.971477;;;-3.176956
+Housing support organizations;;;Gateway Visiting Support ;;;55.971477;;;-3.176956
+Housing support organizations;;;Mental health;;;55.951475;;;-3.178943
+Housing support organizations;;;Gowrie Care Multiple Needs;;;55.951475;;;-3.178943
+Housing support organizations;;;Health in Mind ;;;55.94914;;;-3.20996
+Housing support organizations;;;Home Scotland;;;55.963079;;;-3.272498
+Housing support organizations;;;Mental health problem;;;55.946265;;;-3.189227
+Housing support organizations;;;Key Moves;;;55.950815;;;-3.184032
+Housing support organizations;;;LetFirst;;;55.970796;;;-3.180285
+Housing support organizations;;;Out of the Cold;;;55.951435;;;-3.182988
+Housing support organizations;;;Penumbra;;;55.961252;;;-3.166522
+Housing support organizations;;;Prestonfield Neighbourhood Project;;;55.933442;;;-3.159216
+Housing support organizations;;;Reach Out;;;55.962462;;;-3.19037
+Housing support organizations;;;Richmond Fellowship Scotland;;;55.942375;;;-3.22526
+Housing support organizations;;;Rock Trust;;;55.957321;;;-3.189564
+Housing support organizations;;;Runaways Action Project;;;55.962222;;;-3.19037
+Housing support organizations;;;Saheliya ;;;55.965705;;;-3.187709
+Housing support organizations;;;Salvation Army;;;55.946499;;;-3.204176
+Housing support organizations;;;Scottish Veterans;;;55.95222;;;-3.17706
+Housing support organizations;;;Support for people under 25 years old is through the Rock Trust – Crisis Service. ;;;55.949175;;;-3.181719
+Housing support organizations;;;Streetwork - Tenancy Support;;;55.951531;;;-3.182902
+Housing support organizations;;;Streetwork - Womens Project;;;55.96215;;;-3.19037
+Housing support organizations;;;Turning Point - Midpoint;;;55.973162;;;-3.16422
+Housing support organizations;;;YMCA;;;55.949673;;;-3.208226
+Care homes;;;Ark Housing Association;;;55.929971;;;-3.202472
+Care homes;;;Belgrave Lodge Nursing Home;;;55.942929;;;-3.2764
+Care homes;;;Belleville Lodge Nursing Home;;;55.936546;;;-3.173751
+Care homes;;;Bield Housing Association - Craighall Care Home;;;55.973328;;;-3.194702
+Care homes;;;Bield Housing Association - Stockbridge Care Home;;;55.95864;;;-3.209146
+Care homes;;;Braeburn Home;;;55.96276;;;-3.208618
+Care homes;;;Cairdeas House;;;55.946917;;;-3.221955
+Care homes;;;Cameron Park Nursing Home;;;55.932176;;;-3.154075
+Care homes;;;Camilla House;;;55.929608;;;-3.188778
+Care homes;;;Chamberlain Nursing Home;;;55.934526;;;-3.208795
+Care homes;;;Cherryholme House;;;55.931531;;;-3.219154
+Care homes;;;Claremont Park Nursing Home;;;55.969722;;;-3.157355
+Care homes;;;Colinton Care Home;;;55.931224;;;-3.221993
+Care homes;;;Eagle Lodge;;;55.969552;;;-3.225707
+Care homes;;;Eildon Nursing Home;;;55.966193;;;-3.20222
+Care homes;;;Ferrylee - City of Edinburgh Council;;;55.976938;;;-3.180006
+Care homes;;;Fords Road - City of Edinburgh Council;;;55.932977;;;-3.249693
+Care homes;;;Forthland Lodge;;;55.965265;;;-3.158344
+Care homes;;;Forward Vision;;;55.930332;;;-3.2023
+Care homes;;;Garvald Napier Road;;;55.935089;;;-3.218908
+Care homes;;;Glencairn Care Home;;;55.936943;;;-3.190799
+Care homes;;;Jubilee House;;;55.932126;;;-3.225319
+Care homes;;;LArche Creelha;;;55.966065;;;-3.168955
+Care homes;;;LArche The Skein;;;55.969956;;;-3.153634
+Care homes;;;Laverock House Residential Care;;;55.978989;;;-3.202104
+Care homes;;;Lennox House;;;55.977937;;;-3.208642
+Care homes;;;Leonard Cheshire Alemoor Crescent;;;55.964552;;;-3.15711
 Care homes;;;Leonard Cheshire Argyle Street;;;55.978;;;-3.1814
-Care homes;;;Leonard Cheshire Blackadder Place;;;55.9757;;;-3.2277
-Care homes;;;Leonard Cheshire Newhaven Road;;;55.976;;;-3.1931
-Care homes;;;Leonard Cheshire Wardieburn Road;;;55.9781;;;-3.2255
-Care homes;;;Letham Park;;;55.9734;;;-3.1907
-Care homes;;;Marian House;;;55.9297;;;-3.1895
-Care homes;;;Marionville Court - City of Edinburgh Council;;;55.9592;;;-3.1575
-Care homes;;;Morlich House;;;55.9325;;;-3.2075
-Care homes;;;Murrayfield House;;;55.9479;;;-3.2391
-Care homes;;;North Merchiston Care Home;;;55.9381;;;-3.221
-Care homes;;;Oaklands - City of Edinburgh Council;;;55.9299;;;-3.2025
-Care homes;;;Parkview - City of Edinburgh Council;;;55.9322;;;-3.1541
-Care homes;;;Porthaven - City of Edinburgh Council;;;55.9714;;;-3.1694
-Care homes;;;Richmond Fellowship Nichollfield;;;55.9789;;;-3.1883
-Care homes;;;Richmond Fellowship St. Clair Street;;;55.9648;;;-3.1682
-Care homes;;;Silverlea - City of Edinburgh Council;;;55.9741;;;-3.262
-Care homes;;;Sir James McKay House;;;55.9521;;;-3.2292
-Care homes;;;St Margarets Care Home;;;55.9297;;;-3.1687
-Care homes;;;St. Josephs House;;;55.9415;;;-3.2063
-Care homes;;;St. Raphaels Nursing Home;;;55.9292;;;-3.1908
-Care homes;;;Strachan House;;;55.9549;;;-3.2651
-Care homes;;;Struan Lodge Nursing Home;;;55.9421;;;-3.2599
-Care homes;;;The Elms;;;55.9322;;;-3.2008
-Care homes;;;Tor Christian Nursing Home;;;55.9457;;;-3.2457
-Care homes;;;Trinity Lodge;;;55.9734;;;-3.1959
-Care homes;;;Victoria Manor Nursing Home;;;55.9624;;;-3.1748
-Museums and galleries;;;City Art Centre;;;55.9509;;;-3.1914
-Museums and galleries;;;Lauriston Castle;;;55.9679;;;-3.2778
-Museums and galleries;;;Or by appointment;;;55.9578;;;-3.1927
-Museums and galleries;;;Sun;;;55.9504;;;-3.1855
-Museums and galleries;;;Sun;;;55.9515;;;-3.1795
-Museums and galleries;;;;;;55.9548;;;-3.1841
-Museums and galleries;;;Sun;;;55.9514;;;-3.1798
-Museums and galleries;;;Sun;;;55.9501;;;-3.203
-Museums and galleries;;;Sun;;;55.9496;;;-3.1934
-Sports and recreational facilities;;;Table tennis;;;55.972;;;-3.2304
-Sports and recreational facilities;;;Sun;;;55.9409;;;-3.2549
-Sports and recreational facilities;;;Toilets;;;55.9397;;;-3.2022
-Sports and recreational facilities;;;Weekend - Member £15.75 Non Member £21;;;55.9392;;;-3.2552
-Sports and recreational facilities;;;Football;;;55.9648;;;-3.1734
-Sports and recreational facilities;;;Swimming times for women only;;;55.9427;;;-3.2181
-Sports and recreational facilities;;;Swimming times for women only;;;55.9617;;;-3.2045
-Sports and recreational facilities;;;Tennis;;;55.9639;;;-3.2166
-Sports and recreational facilities;;;Sun;;;55.9723;;;-3.1684
-Sports and recreational facilities;;;Swimming;;;55.9716;;;-3.1747
-Sports and recreational facilities;;;Football;;;55.9592;;;-3.1771
-Sports and recreational facilities;;;Morgan Playing Fields;;;55.9309;;;-3.1555
-Sports and recreational facilities;;;Sun;;;55.9653;;;-3.1901
-Sports and recreational facilities;;;Football;;;55.9561;;;-3.2603
-Sports and recreational facilities;;;Football;;;55.9435;;;-3.246
-Sports and recreational facilities;;;Monday - Sunday: 9am - 6pm;;;55.9356;;;-3.1698
-Sports and recreational facilities;;;Skateboarding;;;55.9377;;;-3.2479
-Sports and recreational facilities;;;Skateboarding;;;55.9377;;;-3.2479
-Sports and recreational facilities;;;Rugby;;;55.9338;;;-3.2568
-Sports and recreational facilities;;;Skateboard park;;;55.9274;;;-3.2832
-Sports and recreational facilities;;;Weekend - Member £15.75 Non Member £21;;;55.9723;;;-3.2686
-Sports and recreational facilities;;;Tennis;;;55.9405;;;-3.2849
-Sports and recreational facilities;;;Tennis;;;55.9399;;;-3.1919
-Sports and recreational facilities;;;Union Park;;;55.9366;;;-3.2787
-Sports and recreational facilities;;;Football;;;55.9743;;;-3.1898
-Sports and recreational facilities;;;Swimming times for adults only;;;55.9356;;;-3.1983
-Sports and recreational facilities;;;West Pilton Park;;;55.9694;;;-3.2458
-Community centres;;;3Ms Youth Project;;;55.9341;;;-3.2103
-Community centres;;;Broomhouse CLD Base;;;55.9282;;;-3.2739
-Community centres;;;Broughton CLD Base;;;55.9612;;;-3.2218
-Community centres;;;Cameron House Community Centre;;;55.9308;;;-3.1599
-Community centres;;;Carrickvale Community Centre;;;55.9312;;;-3.2645
-Community centres;;;Duncan Place Community Centre;;;55.9697;;;-3.1684
-Community centres;;;Fet-Lor Youth Centre;;;55.9663;;;-3.2345
-Community centres;;;Fort Community Centre;;;55.9767;;;-3.186
-Community centres;;;Gorgie War Memorial Hall;;;55.9353;;;-3.2426
-Community centres;;;Leith Community Centre;;;55.9716;;;-3.1713
-Community centres;;;Nelson Hall Community Centre;;;55.9418;;;-3.1789
-Community centres;;;Rannoch Community Centre;;;55.9549;;;-3.2868
-Community centres;;;Riddles Court Community Centre;;;55.9491;;;-3.1936
-Community centres;;;Royston/Wardieburn Community Centre;;;55.9771;;;-3.2308
-Community centres;;;South Bridge Resource Centre;;;55.9481;;;-3.1853
-Community centres;;;Southside Community Centre;;;55.944;;;-3.1838
-Community centres;;;St Brides Community Centre;;;55.9426;;;-3.2206
-Community centres;;;The Number Shop;;;55.948;;;-3.1857
-Community centres;;;Tollcross Community Centre ALP;;;55.9433;;;-3.2063
-Community centres;;;West CLD Base;;;55.932;;;-3.2871
-Community centres;;;West Pilton Neighbourhood Centre;;;55.9717;;;-3.2452
-Tenant Organizations;;;Birnies Court Tenants Association;;;55.9729;;;-3.263
-Tenant Organizations;;;Broomhouse Tenants & Residents Association;;;55.9299;;;-3.2832
-Tenant Organizations;;;Coatfield Lane & Giles Street Residents Association;;;55.9613;;;-3.1665
-Tenant Organizations;;;Crewe Excluded Residents;;;55.9734;;;-3.2393
-Tenant Organizations;;;Easter Drylaw Residents Association;;;55.9648;;;-3.2477
-Tenant Organizations;;;Edinburgh Tenants Federation;;;55.9613;;;-3.1665
-Tenant Organizations;;;Gordon Street and Manderson Street Residents Association;;;55.9687;;;-3.1704
-Tenant Organizations;;;Granton Royston and Wardieburn Residents Association;;;55.9795;;;-3.2298
-Tenant Organizations;;;Hamilton & Canon Wynd Residents Association;;;55.9782;;;-3.1836
-Tenant Organizations;;;;;;55.9519;;;-3.1835
-Tenant Organizations;;;Maidencraig Court Residents Association;;;55.9571;;;-3.2456
-Tenant Organizations;;;Muirhouse High Rise Action Group;;;55.9729;;;-3.263
-Tenant Organizations;;;New Pleasance Residents Association;;;55.9465;;;-3.1814
-Tenant Organizations;;;Prestonfield Tenants & Residents Association;;;55.9315;;;-3.1627
-Tenant Organizations;;;Redbraes Residents Association;;;55.9687;;;-3.1888
-Tenant Organizations;;;Restalrig 4 Streets Residents Association;;;55.9646;;;-3.153
-Tenant Organizations;;;Tenants and Residents in Pilton;;;55.9702;;;-3.244
-Tenant Organizations;;;Westfield Court Residents Association;;;55.9372;;;-3.2423
-Neighbourhood offices;;;Fri;;;55.9508;;;-3.1912
-Neighbourhood offices;;;Fri;;;55.9754;;;-3.18
-Neighbourhood offices;;;Fri;;;55.9699;;;-3.248
-Neighbourhood offices;;;Fri;;;55.9558;;;-3.2863
-Day services and lunch clubs;;;Alzheimer Scotland Saturday Cafe;;;55.9474;;;-3.1823
-Day services and lunch clubs;;;Alzheimers Scotland - Edinburgh and West Lothian Services;;;55.9756;;;-3.244
-Day services and lunch clubs;;;Autism Initiatives - Number 6 One Stop Shop;;;55.9535;;;-3.2022
-Day services and lunch clubs;;;Beacon Club;;;55.9273;;;-3.277
-Day services and lunch clubs;;;Broomhouse Befriending Service;;;55.9271;;;-3.2771
-Day services and lunch clubs;;;Broomhouse Centre;;;55.9276;;;-3.2772
-Day services and lunch clubs;;;Calton Welfare Service;;;55.9581;;;-3.1719
-Day services and lunch clubs;;;Capability Scotland - E2;;;55.9467;;;-3.2475
-Day services and lunch clubs;;;Columcille Centre;;;55.9313;;;-3.2083
-Day services and lunch clubs;;;Corstorphine Dementia Project;;;55.935;;;-3.2777
-Day services and lunch clubs;;;Craighall Centre - City of Edinburgh Council;;;55.9738;;;-3.1938
-Day services and lunch clubs;;;Crossroads;;;55.9389;;;-3.2279
-Day services and lunch clubs;;;Deaf Action;;;55.9575;;;-3.1896
-Day services and lunch clubs;;;Deanbank Centre - City of Edinburgh Council;;;55.9284;;;-3.2015
-Day services and lunch clubs;;;Drumbrae and Granton Support Service;;;55.9556;;;-3.2872
-Day services and lunch clubs;;;Drylaw Rainbow Club;;;55.9663;;;-3.2501
-Day services and lunch clubs;;;Edinburgh Elderly Chinese Support;;;55.943;;;-3.2034
-Day services and lunch clubs;;;Edinburgh Synagogue Lunch Club;;;55.9381;;;-3.1745
-Day services and lunch clubs;;;Epilepsy Scotland - Lighthouse Support Service;;;55.9562;;;-3.2236
-Day services and lunch clubs;;;Epilepsy Scotland - Lighthouse Youth Project;;;55.9554;;;-3.2235
-Day services and lunch clubs;;;Eric Liddell Centre;;;55.9339;;;-3.2097
-Day services and lunch clubs;;;Forever Young;;;55.9313;;;-3.2641
-Day services and lunch clubs;;;Garvald Edinburgh;;;55.9389;;;-3.2131
-Day services and lunch clubs;;;Holyrood Abbey - Wednesday Centre;;;55.9566;;;-3.1637
-Day services and lunch clubs;;;Inclusion Alliance;;;55.9612;;;-3.1702
-Day services and lunch clubs;;;Lifecare - Dean Club;;;55.9581;;;-3.2129
-Day services and lunch clubs;;;Lifecare - Outreach;;;55.9582;;;-3.2126
-Day services and lunch clubs;;;Lifecare - St Bernards Club;;;55.9583;;;-3.2127
-Day services and lunch clubs;;;Lochend and North East District;;;55.9598;;;-3.1568
-Day services and lunch clubs;;;MECOPP;;;55.9676;;;-3.1747
-Day services and lunch clubs;;;Milan;;;55.9633;;;-3.1646
-Day services and lunch clubs;;;Murrayfield Dementia Project;;;55.9466;;;-3.2409
-Day services and lunch clubs;;;Nari Kallyan Shango ( NKS );;;55.941;;;-3.2071
-Day services and lunch clubs;;;North Merchiston;;;55.938;;;-3.2226
-Day services and lunch clubs;;;North West Carers;;;55.9712;;;-3.2545
-Day services and lunch clubs;;;Oaklands;;;55.9297;;;-3.202
-Day services and lunch clubs;;;Open Door;;;55.9256;;;-3.2096
-Day services and lunch clubs;;;Pilton Equalities Project (PEP);;;55.972;;;-3.2436
-Day services and lunch clubs;;;Places for People - Pleasance Day Centre;;;55.9472;;;-3.1833
-Day services and lunch clubs;;;Portlee - City of Edinburgh Council;;;55.9633;;;-3.1646
-Day services and lunch clubs;;;Prestonfield Neighbourhood Project;;;55.9332;;;-3.1592
-Day services and lunch clubs;;;Ripple Project;;;55.9634;;;-3.1538
-Day services and lunch clubs;;;RNIB;;;55.9582;;;-3.1793
-Day services and lunch clubs;;;Silverlea;;;55.9297;;;-3.202
-Day services and lunch clubs;;;Visualise Scotland;;;55.9613;;;-3.1666
-Play areas;;;Admirality Street;;;55.9762;;;-3.1789
-Play areas;;;Balgreen Park;;;55.9417;;;-3.2571
-Play areas;;;Barony Playarea ;;;55.9585;;;-3.1909
-Play areas;;;Blackford Pond;;;55.9256;;;-3.1939
-Play areas;;;Boswall/Royston Mains Gardens;;;55.9762;;;-3.2319
-Play areas;;;Broomhouse Centre;;;55.9285;;;-3.2786
-Play areas;;;Broomhouse Grove;;;55.9281;;;-3.2787
-Play areas;;;Broughton Road;;;55.9642;;;-3.1941
-Play areas;;;Brown Street;;;55.9454;;;-3.1801
-Play areas;;;Clermiston Park;;;55.957;;;-3.2873
-Play areas;;;Seating area for teenagers;;;55.964;;;-3.1726
-Play areas;;;Davidson Mains Park;;;55.964;;;-3.2788
-Play areas;;;Dumbiedykes;;;55.9477;;;-3.1778
-Play areas;;;East Pilton Park;;;55.9737;;;-3.2271
-Play areas;;;Easter Drylaw Park;;;55.9627;;;-3.2435
-Play areas;;;Falcon Road/Park;;;55.9288;;;-3.2053
-Play areas;;;Glendevon Park;;;55.9395;;;-3.2538
-Play areas;;;Gorgie/Dalry Community Park;;;55.9408;;;-3.222
-Play areas;;;Granton Crescent;;;55.9796;;;-3.2244
-Play areas;;;Granton Mains East;;;55.9761;;;-3.2421
-Play areas;;;Harrison Park East;;;55.9364;;;-3.2239
-Play areas;;;Harrison Park West;;;55.9342;;;-3.2263
-Play areas;;;A fenced court for ball games including football and basketball.;;;55.973;;;-3.1735
-Play areas;;;Tennis courts.;;;55.9627;;;-3.2128
-Play areas;;;Keddie Gardens;;;55.9745;;;-3.1811
-Play areas;;;King George V Park (Eyre Place) ;;;55.9609;;;-3.1971
-Play areas;;;Leith Links ;;;55.971;;;-3.1657
-Play areas;;;Lochend Park;;;55.9617;;;-3.1605
-Play areas;;;Magnet Playarea (East Meadows);;;55.9408;;;-3.1847
-Play areas;;;Meadows (West);;;55.9409;;;-3.1997
-Play areas;;;Meggateland Wynd;;;55.927;;;-3.2371
-Play areas;;;Moat House;;;55.9336;;;-3.2392
-Play areas;;;Basket ball hoops and goal ends;;;55.9596;;;-3.1756
-Play areas;;;Ball court;;;55.9705;;;-3.2629
-Play areas;;;Muirhouse View;;;55.9728;;;-3.262
-Play areas;;;Murieston Park;;;55.9404;;;-3.2265
-Play areas;;;Northview Court;;;55.973;;;-3.2519
-Play areas;;;Pilrig Park ;;;55.9684;;;-3.181
-Play areas;;;Prestonfield Park;;;55.9324;;;-3.1591
-Play areas;;;Primrose Street;;;55.9681;;;-3.1646
-Play areas;;;West Princes Street Gardens;;;55.9501;;;-3.2047
-Play areas;;;Ballcourt ;;;55.9557;;;-3.2561
-Play areas;;;Redbraes Park;;;55.968;;;-3.1874
-Play areas;;;Roseburn Park;;;55.9441;;;-3.2393
-Play areas;;;Sandport Street;;;55.9764;;;-3.1726
-Play areas;;;Saughton Mains Terrace;;;55.9321;;;-3.2674
-Play areas;;;;;;55.9357;;;-3.2482
-Play areas;;;Skateboard and bmx area ;;;55.9277;;;-3.2852
-Play areas;;;St. Margarets Park;;;55.9395;;;-3.2847
-Play areas;;;St. Marks Park;;;55.9688;;;-3.1938
-Play areas;;;Stenhouse Playarea ;;;55.9328;;;-3.2573
-Play areas;;;Stewart Terrace;;;55.9367;;;-3.235
-Play areas;;;Taylor Gardens;;;55.9742;;;-3.1771
-Play areas;;;A small play unit;;;55.9744;;;-3.1705
-Play areas;;;Union Park;;;55.9358;;;-3.2767
-Play areas;;;A fenced court for ball games including football and basketball.;;;55.975;;;-3.1935
-Play areas;;;West Pilton Park;;;55.9708;;;-3.246
-Play areas;;;Wester Drylaw Drive (Nos. 138-140);;;55.9643;;;-3.258
-Play areas;;;Westfield Court;;;55.9367;;;-3.241
-Play areas;;;White Park;;;55.9376;;;-3.2318
-Trees with a story;;;Camperdown Elm;;;55.9495;;;-3.2049
-Trees with a story;;;Comely Bank London Planes;;;55.9596;;;-3.2169
-Trees with a story;;;Dunbars Close Tulip Tree;;;55.9519;;;-3.1788
-Trees with a story;;;Monkey Puzzles of Lauriston Castle;;;55.9709;;;-3.277
-Trees with a story;;;Original Elm tree;;;55.9523;;;-3.1927
-Trees with a story;;;Quercus ilex;;;55.9516;;;-3.194
-Trees with a story;;;Robert Louis Stevenson memorial grove;;;55.95;;;-3.2024
-Trees with a story;;;Saughton Parks Weeping Ash;;;55.9339;;;-3.2483
-Trees with a story;;;The Chinese Birch Tree;;;55.9505;;;-3.2028
-Trees with a story;;;The Clermiston Group;;;55.956;;;-3.2764
-Trees with a story;;;The Dawyck beeches;;;55.9514;;;-3.1977
-Trees with a story;;;The Edinburgh Urban Forest woodland;;;55.95;;;-3.197
-Trees with a story;;;The Northern Ireland Peace Tree;;;55.9508;;;-3.1979
-Trees with a story;;;The United Nations 40th Anniversary Tree;;;55.9507;;;-3.1981
-Trees with a story;;;The Weeping ash - East princes Street Gardens;;;55.9515;;;-3.1946
-Trees with a story;;;The Weeping Ashes - West Princes Street Gardens;;;55.9509;;;-3.1983
-Trees with a story;;;The Workers Memorial Tree;;;55.9504;;;-3.1977
-Trees with a story;;;Wheatley elms;;;55.9515;;;-3.1987
-Community councils;;;Corstorphine;;;55.9403;;;-3.2839
-Community councils;;;Craigleith / Blackhall;;;55.9539;;;-3.2258
-Community councils;;;Craiglockhart;;;55.9251;;;-3.2334
-Community councils;;;Craigmillar;;;55.9509;;;-3.1783
-Community councils;;;Drum Brae;;;55.9549;;;-3.2873
-Community councils;;;Drylaw / Telford;;;55.9622;;;-3.2477
-Community councils;;;Gorgie / Dalry;;;55.9401;;;-3.2254
-Community councils;;;Grange / Prestonfield;;;55.933;;;-3.1585
-Community councils;;;Hutchison / Chesser;;;55.9302;;;-3.2402
-Community councils;;;Leith / Harbour and Newhaven;;;55.979;;;-3.1792
-Community councils;;;Leith Central;;;55.9614;;;-3.1812
-Community councils;;;Leith Links;;;55.9697;;;-3.1686
-Community councils;;;Marchmont and Sciennes;;;55.9357;;;-3.1902
-Community councils;;;Merchiston;;;55.9335;;;-3.2162
-Community councils;;;Morningside;;;55.9254;;;-3.2096
-Community councils;;;Muirhouse Salvesen;;;55.9701;;;-3.2607
-Community councils;;;Murrayfield;;;55.942;;;-3.2384
-Community councils;;;New Town / Broughton;;;55.9608;;;-3.1896
-Community councils;;;Old Town;;;55.9499;;;-3.1902
-Community councils;;;Stenhouse;;;55.9313;;;-3.2641
-Community councils;;;Stockbridge / Inverleith;;;55.9594;;;-3.2075
-Community councils;;;Tollcross;;;55.9431;;;-3.2035
-Community councils;;;Trinity;;;55.9716;;;-3.2053
-Community councils;;;West End;;;55.9493;;;-3.2153
-Community councils;;;West Pilton / West Granton;;;55.9713;;;-3.245
-Carer support groups;;;Care for Carers;;;55.9609;;;-3.1586
+Care homes;;;Leonard Cheshire Blackadder Place;;;55.975719;;;-3.227749
+Care homes;;;Leonard Cheshire Newhaven Road;;;55.975983;;;-3.193073
+Care homes;;;Leonard Cheshire Wardieburn Road;;;55.978118;;;-3.225517
+Care homes;;;Letham Park;;;55.973403;;;-3.19065
+Care homes;;;Marian House;;;55.929673;;;-3.189533
+Care homes;;;Marionville Court - City of Edinburgh Council;;;55.959163;;;-3.157505
+Care homes;;;Morlich House;;;55.932544;;;-3.207484
+Care homes;;;Murrayfield House;;;55.947901;;;-3.23914
+Care homes;;;North Merchiston Care Home;;;55.938099;;;-3.220988
+Care homes;;;Oaklands - City of Edinburgh Council;;;55.929925;;;-3.202473
+Care homes;;;Parkview - City of Edinburgh Council;;;55.932176;;;-3.154075
+Care homes;;;Porthaven - City of Edinburgh Council;;;55.971352;;;-3.169389
+Care homes;;;Richmond Fellowship Nichollfield;;;55.978937;;;-3.188267
+Care homes;;;Richmond Fellowship St. Clair Street;;;55.964816;;;-3.168182
+Care homes;;;Silverlea - City of Edinburgh Council;;;55.974086;;;-3.261979
+Care homes;;;Sir James McKay House;;;55.952062;;;-3.229152
+Care homes;;;St Margarets Care Home;;;55.929731;;;-3.168654
+Care homes;;;St. Josephs House;;;55.94151;;;-3.206347
+Care homes;;;St. Raphaels Nursing Home;;;55.929202;;;-3.190799
+Care homes;;;Strachan House;;;55.954852;;;-3.265116
+Care homes;;;Struan Lodge Nursing Home;;;55.942056;;;-3.25988
+Care homes;;;The Elms;;;55.932161;;;-3.200766
+Care homes;;;Tor Christian Nursing Home;;;55.945741;;;-3.245668
+Care homes;;;Trinity Lodge;;;55.97338;;;-3.195857
+Care homes;;;Victoria Manor Nursing Home;;;55.962351;;;-3.174804
+Museums and galleries;;;City Art Centre;;;55.950879;;;-3.191408
+Museums and galleries;;;Lauriston Castle;;;55.967873;;;-3.277828
+Museums and galleries;;;Or by appointment;;;55.957758;;;-3.192653
+Museums and galleries;;;Sun;;;55.950435;;;-3.185504
+Museums and galleries;;;Sun;;;55.95148;;;-3.179538
+Museums and galleries;;;;;;55.954804;;;-3.184121
+Museums and galleries;;;Sun;;;55.951424;;;-3.179787
+Museums and galleries;;;Sun;;;55.95005;;;-3.202994
+Museums and galleries;;;Sun;;;55.949584;;;-3.193362
+Sports and recreational facilities;;;Table tennis;;;55.972016;;;-3.230409
+Sports and recreational facilities;;;Sun;;;55.940858;;;-3.254942
+Sports and recreational facilities;;;Toilets;;;55.939683;;;-3.202171
+Sports and recreational facilities;;;Weekend - Member £15.75 Non Member £21;;;55.939201;;;-3.25524
+Sports and recreational facilities;;;Football;;;55.964817;;;-3.173433
+Sports and recreational facilities;;;Swimming times for women only;;;55.942665;;;-3.218126
+Sports and recreational facilities;;;Swimming times for women only;;;55.961714;;;-3.204484
+Sports and recreational facilities;;;Tennis;;;55.96392;;;-3.216589
+Sports and recreational facilities;;;Sun;;;55.972304;;;-3.168408
+Sports and recreational facilities;;;Swimming;;;55.971598;;;-3.174684
+Sports and recreational facilities;;;Football;;;55.959184;;;-3.177111
+Sports and recreational facilities;;;Morgan Playing Fields;;;55.930861;;;-3.155479
+Sports and recreational facilities;;;Sun;;;55.965321;;;-3.190072
+Sports and recreational facilities;;;Football;;;55.956087;;;-3.26032
+Sports and recreational facilities;;;Football;;;55.943537;;;-3.245982
+Sports and recreational facilities;;;Monday - Sunday: 9am - 6pm;;;55.935613;;;-3.169769
+Sports and recreational facilities;;;Skateboarding;;;55.937721;;;-3.247924
+Sports and recreational facilities;;;Skateboarding;;;55.937721;;;-3.247924
+Sports and recreational facilities;;;Rugby;;;55.93383;;;-3.256828
+Sports and recreational facilities;;;Skateboard park;;;55.927412;;;-3.283188
+Sports and recreational facilities;;;Weekend - Member £15.75 Non Member £21;;;55.972338;;;-3.268571
+Sports and recreational facilities;;;Tennis;;;55.940549;;;-3.284855
+Sports and recreational facilities;;;Tennis;;;55.939945;;;-3.191865
+Sports and recreational facilities;;;Union Park;;;55.936614;;;-3.278738
+Sports and recreational facilities;;;Football;;;55.974292;;;-3.18978
+Sports and recreational facilities;;;Swimming times for adults only;;;55.935599;;;-3.198279
+Sports and recreational facilities;;;West Pilton Park;;;55.969426;;;-3.245773
+Community centres;;;3Ms Youth Project;;;55.934072;;;-3.210307
+Community centres;;;Broomhouse CLD Base;;;55.928173;;;-3.273914
+Community centres;;;Broughton CLD Base;;;55.961205;;;-3.221822
+Community centres;;;Cameron House Community Centre;;;55.930842;;;-3.159903
+Community centres;;;Carrickvale Community Centre;;;55.931192;;;-3.264498
+Community centres;;;Duncan Place Community Centre;;;55.969651;;;-3.168442
+Community centres;;;Fet-Lor Youth Centre;;;55.966293;;;-3.234534
+Community centres;;;Fort Community Centre;;;55.976672;;;-3.185957
+Community centres;;;Gorgie War Memorial Hall;;;55.9353;;;-3.242626
+Community centres;;;Leith Community Centre;;;55.971567;;;-3.171302
+Community centres;;;Nelson Hall Community Centre;;;55.941752;;;-3.178888
+Community centres;;;Rannoch Community Centre;;;55.954875;;;-3.286818
+Community centres;;;Riddles Court Community Centre;;;55.949087;;;-3.193571
+Community centres;;;Royston/Wardieburn Community Centre;;;55.977097;;;-3.230783
+Community centres;;;South Bridge Resource Centre;;;55.948098;;;-3.185278
+Community centres;;;Southside Community Centre;;;55.944032;;;-3.183809
+Community centres;;;St Brides Community Centre;;;55.942639;;;-3.220582
+Community centres;;;The Number Shop;;;55.947958;;;-3.185728
+Community centres;;;Tollcross Community Centre ALP;;;55.943327;;;-3.206346
+Community centres;;;West CLD Base;;;55.932035;;;-3.287064
+Community centres;;;West Pilton Neighbourhood Centre;;;55.971661;;;-3.245215
+Tenant Organizations;;;Birnies Court Tenants Association;;;55.972898;;;-3.263046
+Tenant Organizations;;;Broomhouse Tenants & Residents Association;;;55.929927;;;-3.283223
+Tenant Organizations;;;Coatfield Lane & Giles Street Residents Association;;;55.961252;;;-3.166522
+Tenant Organizations;;;Crewe Excluded Residents;;;55.9734;;;-3.239266
+Tenant Organizations;;;Easter Drylaw Residents Association;;;55.964751;;;-3.247721
+Tenant Organizations;;;Edinburgh Tenants Federation;;;55.961252;;;-3.166522
+Tenant Organizations;;;Gordon Street and Manderson Street Residents Association;;;55.968709;;;-3.170399
+Tenant Organizations;;;Granton Royston and Wardieburn Residents Association;;;55.979452;;;-3.229764
+Tenant Organizations;;;Hamilton & Canon Wynd Residents Association;;;55.978224;;;-3.183635
+Tenant Organizations;;;;;;55.951871;;;-3.183471
+Tenant Organizations;;;Maidencraig Court Residents Association;;;55.957127;;;-3.245554
+Tenant Organizations;;;Muirhouse High Rise Action Group;;;55.972898;;;-3.263046
+Tenant Organizations;;;New Pleasance Residents Association;;;55.946482;;;-3.181353
+Tenant Organizations;;;Prestonfield Tenants & Residents Association;;;55.931546;;;-3.162731
+Tenant Organizations;;;Redbraes Residents Association;;;55.968712;;;-3.188792
+Tenant Organizations;;;Restalrig 4 Streets Residents Association;;;55.964622;;;-3.153038
+Tenant Organizations;;;Tenants and Residents in Pilton;;;55.970171;;;-3.244002
+Tenant Organizations;;;Westfield Court Residents Association;;;55.937194;;;-3.242256
+Neighbourhood offices;;;Fri;;;55.950786;;;-3.191185
+Neighbourhood offices;;;Fri;;;55.975431;;;-3.180027
+Neighbourhood offices;;;Fri;;;55.969908;;;-3.248005
+Neighbourhood offices;;;Fri;;;55.955831;;;-3.286328
+Day services and lunch clubs;;;Alzheimer Scotland Saturday Cafe;;;55.947422;;;-3.182302
+Day services and lunch clubs;;;Alzheimers Scotland - Edinburgh and West Lothian Services;;;55.975599;;;-3.243971
+Day services and lunch clubs;;;Autism Initiatives - Number 6 One Stop Shop;;;55.953543;;;-3.202193
+Day services and lunch clubs;;;Beacon Club;;;55.927279;;;-3.277016
+Day services and lunch clubs;;;Broomhouse Befriending Service;;;55.927086;;;-3.277059
+Day services and lunch clubs;;;Broomhouse Centre;;;55.927591;;;-3.27723
+Day services and lunch clubs;;;Calton Welfare Service;;;55.95809;;;-3.171916
+Day services and lunch clubs;;;Capability Scotland - E2;;;55.946701;;;-3.247533
+Day services and lunch clubs;;;Columcille Centre;;;55.93127;;;-3.208265
+Day services and lunch clubs;;;Corstorphine Dementia Project;;;55.93502;;;-3.277659
+Day services and lunch clubs;;;Craighall Centre - City of Edinburgh Council;;;55.973822;;;-3.193803
+Day services and lunch clubs;;;Crossroads;;;55.93889;;;-3.227921
+Day services and lunch clubs;;;Deaf Action;;;55.957513;;;-3.189597
+Day services and lunch clubs;;;Deanbank Centre - City of Edinburgh Council;;;55.928397;;;-3.201452
+Day services and lunch clubs;;;Drumbrae and Granton Support Service;;;55.955591;;;-3.287187
+Day services and lunch clubs;;;Drylaw Rainbow Club;;;55.966281;;;-3.250065
+Day services and lunch clubs;;;Edinburgh Elderly Chinese Support;;;55.943;;;-3.203373
+Day services and lunch clubs;;;Edinburgh Synagogue Lunch Club;;;55.938145;;;-3.174491
+Day services and lunch clubs;;;Epilepsy Scotland - Lighthouse Support Service;;;55.956192;;;-3.223586
+Day services and lunch clubs;;;Epilepsy Scotland - Lighthouse Youth Project;;;55.955375;;;-3.223457
+Day services and lunch clubs;;;Eric Liddell Centre;;;55.93389;;;-3.209682
+Day services and lunch clubs;;;Forever Young;;;55.931264;;;-3.264109
+Day services and lunch clubs;;;Garvald Edinburgh;;;55.93889;;;-3.213115
+Day services and lunch clubs;;;Holyrood Abbey - Wednesday Centre;;;55.9566;;;-3.163676
+Day services and lunch clubs;;;Inclusion Alliance;;;55.961237;;;-3.170156
+Day services and lunch clubs;;;Lifecare - Dean Club;;;55.958138;;;-3.212857
+Day services and lunch clubs;;;Lifecare - Outreach;;;55.95821;;;-3.212643
+Day services and lunch clubs;;;Lifecare - St Bernards Club;;;55.958258;;;-3.212729
+Day services and lunch clubs;;;Lochend and North East District;;;55.959819;;;-3.15681
+Day services and lunch clubs;;;MECOPP;;;55.967578;;;-3.174663
+Day services and lunch clubs;;;Milan;;;55.963303;;;-3.164577
+Day services and lunch clubs;;;Murrayfield Dementia Project;;;55.946581;;;-3.240924
+Day services and lunch clubs;;;Nari Kallyan Shango ( NKS );;;55.941005;;;-3.207107
+Day services and lunch clubs;;;North Merchiston;;;55.937952;;;-3.222642
+Day services and lunch clubs;;;North West Carers;;;55.971193;;;-3.25455
+Day services and lunch clubs;;;Oaklands;;;55.929659;;;-3.202043
+Day services and lunch clubs;;;Open Door;;;55.925596;;;-3.209596
+Day services and lunch clubs;;;Pilton Equalities Project (PEP);;;55.972033;;;-3.243606
+Day services and lunch clubs;;;Places for People - Pleasance Day Centre;;;55.947181;;;-3.183331
+Day services and lunch clubs;;;Portlee - City of Edinburgh Council;;;55.963327;;;-3.16462
+Day services and lunch clubs;;;Prestonfield Neighbourhood Project;;;55.933241;;;-3.15917
+Day services and lunch clubs;;;Ripple Project;;;55.963423;;;-3.153763
+Day services and lunch clubs;;;RNIB;;;55.958237;;;-3.179255
+Day services and lunch clubs;;;Silverlea;;;55.929659;;;-3.202043
+Day services and lunch clubs;;;Visualise Scotland;;;55.961309;;;-3.166552
+Play areas;;;Admirality Street;;;55.976152;;;-3.178911
+Play areas;;;Balgreen Park;;;55.94175;;;-3.257103
+Play areas;;;Barony Playarea ;;;55.958522;;;-3.190928
+Play areas;;;Blackford Pond;;;55.925644;;;-3.193932
+Play areas;;;Boswall/Royston Mains Gardens;;;55.976224;;;-3.231857
+Play areas;;;Broomhouse Centre;;;55.928529;;;-3.278646
+Play areas;;;Broomhouse Grove;;;55.928133;;;-3.278682
+Play areas;;;Broughton Road;;;55.964191;;;-3.194103
+Play areas;;;Brown Street;;;55.945403;;;-3.180113
+Play areas;;;Clermiston Park;;;55.956985;;;-3.287315
+Play areas;;;Seating area for teenagers;;;55.964045;;;-3.172564
+Play areas;;;Davidson Mains Park;;;55.963951;;;-3.278818
+Play areas;;;Dumbiedykes;;;55.947694;;;-3.177803
+Play areas;;;East Pilton Park;;;55.973702;;;-3.227148
+Play areas;;;Easter Drylaw Park;;;55.962702;;;-3.243542
+Play areas;;;Falcon Road/Park;;;55.928817;;;-3.205347
+Play areas;;;Glendevon Park;;;55.939512;;;-3.253842
+Play areas;;;Gorgie/Dalry Community Park;;;55.940789;;;-3.221998
+Play areas;;;Granton Crescent;;;55.979609;;;-3.224401
+Play areas;;;Granton Mains East;;;55.976128;;;-3.242083
+Play areas;;;Harrison Park East;;;55.936414;;;-3.223886
+Play areas;;;Harrison Park West;;;55.934203;;;-3.22629
+Play areas;;;A fenced court for ball games including football and basketball.;;;55.972982;;;-3.173547
+Play areas;;;Tennis courts.;;;55.962702;;;-3.212814
+Play areas;;;Keddie Gardens;;;55.974519;;;-3.181143
+Play areas;;;King George V Park (Eyre Place) ;;;55.960882;;;-3.197086
+Play areas;;;Leith Links ;;;55.970952;;;-3.165736
+Play areas;;;Lochend Park;;;55.961693;;;-3.160458
+Play areas;;;Magnet Playarea (East Meadows);;;55.940813;;;-3.184662
+Play areas;;;Meadows (West);;;55.940888;;;-3.199682
+Play areas;;;Meggateland Wynd;;;55.92699;;;-3.237104
+Play areas;;;Moat House;;;55.93365;;;-3.239207
+Play areas;;;Basket ball hoops and goal ends;;;55.959615;;;-3.17565
+Play areas;;;Ball court;;;55.97046;;;-3.262897
+Play areas;;;Muirhouse View;;;55.972802;;;-3.261953
+Play areas;;;Murieston Park;;;55.940428;;;-3.226504
+Play areas;;;Northview Court;;;55.972958;;;-3.251867
+Play areas;;;Pilrig Park ;;;55.968419;;;-3.180971
+Play areas;;;Prestonfield Park;;;55.932351;;;-3.159084
+Play areas;;;Primrose Street;;;55.968135;;;-3.164582
+Play areas;;;West Princes Street Gardens;;;55.950113;;;-3.20466
+Play areas;;;Ballcourt ;;;55.955687;;;-3.256073
+Play areas;;;Redbraes Park;;;55.968007;;;-3.187424
+Play areas;;;Roseburn Park;;;55.944057;;;-3.239336
+Play areas;;;Sandport Street;;;55.976392;;;-3.17256
+Play areas;;;Saughton Mains Terrace;;;55.932087;;;-3.267424
+Play areas;;;;;;55.935741;;;-3.248177
+Play areas;;;Skateboard and bmx area ;;;55.927671;;;-3.285185
+Play areas;;;St. Margarets Park;;;55.939491;;;-3.28474
+Play areas;;;St. Marks Park;;;55.968803;;;-3.193846
+Play areas;;;Stenhouse Playarea ;;;55.932756;;;-3.257305
+Play areas;;;Stewart Terrace;;;55.936678;;;-3.235044
+Play areas;;;Taylor Gardens;;;55.97423;;;-3.177109
+Play areas;;;A small play unit;;;55.974399;;;-3.1705
+Play areas;;;Union Park;;;55.935789;;;-3.276672
+Play areas;;;A fenced court for ball games including football and basketball.;;;55.975047;;;-3.193502
+Play areas;;;West Pilton Park;;;55.970772;;;-3.246031
+Play areas;;;Wester Drylaw Drive (Nos. 138-140);;;55.964342;;;-3.257977
+Play areas;;;Westfield Court;;;55.936714;;;-3.241031
+Play areas;;;White Park;;;55.937592;;;-3.231751
+Trees with a story;;;Camperdown Elm;;;55.949483;;;-3.204898
+Trees with a story;;;Comely Bank London Planes;;;55.959557;;;-3.216917
+Trees with a story;;;Dunbars Close Tulip Tree;;;55.951934;;;-3.178829
+Trees with a story;;;Monkey Puzzles of Lauriston Castle;;;55.970851;;;-3.277018
+Trees with a story;;;Original Elm tree;;;55.952324;;;-3.19273
+Trees with a story;;;Quercus ilex;;;55.951563;;;-3.193984
+Trees with a story;;;Robert Louis Stevenson memorial grove;;;55.950006;;;-3.202366
+Trees with a story;;;Saughton Parks Weeping Ash;;;55.933878;;;-3.248263
+Trees with a story;;;The Chinese Birch Tree;;;55.950487;;;-3.202798
+Trees with a story;;;The Clermiston Group;;;55.956002;;;-3.27643
+Trees with a story;;;The Dawyck beeches;;;55.95138;;;-3.197668
+Trees with a story;;;The Edinburgh Urban Forest woodland;;;55.94997;;;-3.196991
+Trees with a story;;;The Northern Ireland Peace Tree;;;55.950806;;;-3.197932
+Trees with a story;;;The United Nations 40th Anniversary Tree;;;55.95066;;;-3.198107
+Trees with a story;;;The Weeping ash - East princes Street Gardens;;;55.951495;;;-3.194575
+Trees with a story;;;The Weeping Ashes - West Princes Street Gardens;;;55.950943;;;-3.198257
+Trees with a story;;;The Workers Memorial Tree;;;55.950353;;;-3.197708
+Trees with a story;;;Wheatley elms;;;55.951543;;;-3.198674
+Community councils;;;Corstorphine;;;55.940278;;;-3.28385
+Community councils;;;Craigleith / Blackhall;;;55.953861;;;-3.225817
+Community councils;;;Craiglockhart;;;55.925123;;;-3.233414
+Community councils;;;Craigmillar;;;55.950915;;;-3.178253
+Community councils;;;Drum Brae;;;55.954947;;;-3.28727
+Community councils;;;Drylaw / Telford;;;55.962236;;;-3.247681
+Community councils;;;Gorgie / Dalry;;;55.940115;;;-3.225356
+Community councils;;;Grange / Prestonfield;;;55.933016;;;-3.158499
+Community councils;;;Hutchison / Chesser;;;55.930236;;;-3.240194
+Community councils;;;Leith / Harbour and Newhaven;;;55.979026;;;-3.17919
+Community councils;;;Leith Central;;;55.961363;;;-3.181153
+Community councils;;;Leith Links;;;55.969668;;;-3.168569
+Community councils;;;Marchmont and Sciennes;;;55.935669;;;-3.190198
+Community councils;;;Merchiston;;;55.933457;;;-3.216205
+Community councils;;;Morningside;;;55.925403;;;-3.209584
+Community councils;;;Muirhouse Salvesen;;;55.970094;;;-3.260676
+Community councils;;;Murrayfield;;;55.942038;;;-3.238403
+Community councils;;;New Town / Broughton;;;55.960762;;;-3.189597
+Community councils;;;Old Town;;;55.949901;;;-3.190203
+Community councils;;;Stenhouse;;;55.931338;;;-3.26411
+Community councils;;;Stockbridge / Inverleith;;;55.959357;;;-3.207486
+Community councils;;;Tollcross;;;55.943083;;;-3.203544
+Community councils;;;Trinity;;;55.971606;;;-3.205347
+Community councils;;;West End;;;55.949325;;;-3.215261
+Community councils;;;West Pilton / West Granton;;;55.971343;;;-3.245028
+Carer support groups;;;Care for Carers;;;55.960931;;;-3.158647
 Carer support groups;;;Crossroads Caring Scotland (Edinburgh);;;55.9387;;;-3.2263
-Carer support groups;;;Edinburgh Carer Support Team;;;55.9305;;;-3.199
-Carer support groups;;;Edinburgh Carers Council;;;55.962;;;-3.1986
-Carer support groups;;;Edinburgh Headway Group;;;55.9307;;;-3.1989
-Carer support groups;;;Edinburgh Young Carers Project;;;55.9574;;;-3.1704
-Carer support groups;;;Eric Liddell Ca(i)re Programme;;;55.9337;;;-3.2097
-Carer support groups;;;MECOPP;;;55.9676;;;-3.1747
-Carer support groups;;;North West Carers Centre;;;55.9723;;;-3.2538
-Carer support groups;;;Support in Mind;;;55.9342;;;-3.1668
-Carer support groups;;;The Broomhouse Centre;;;55.9287;;;-3.2776
-Carer support groups;;;VOCAL (Voice of Carers Across Lothian);;;55.9486;;;-3.1958
-Civil marriage and partnership venues;;;Abden House;;;55.9407;;;-3.1726
-Civil marriage and partnership venues;;;Apex City Hotel;;;55.9474;;;-3.1957
-Civil marriage and partnership venues;;;Apex International Hotel;;;55.9472;;;-3.1965
-Civil marriage and partnership venues;;;Apex Waterloo Place Hotel;;;55.9538;;;-3.1878
-Civil marriage and partnership venues;;;Assembly Rooms;;;55.9531;;;-3.1987
-Civil marriage and partnership venues;;;Balmoral Hotel;;;55.9527;;;-3.1896
-Civil marriage and partnership venues;;;Barcelo Edinburgh Carlton Hotel;;;55.9508;;;-3.1874
-Civil marriage and partnership venues;;;Best Western Bruntsfield Hotel;;;55.9383;;;-3.2058
-Civil marriage and partnership venues;;;Caledonian Hilton Hotel;;;55.9537;;;-3.1899
-Civil marriage and partnership venues;;;City Chambers;;;55.9497;;;-3.1916
-Civil marriage and partnership venues;;;Dunstane House Hotel;;;55.9462;;;-3.2283
-Civil marriage and partnership venues;;;Dynamic Earth;;;55.9507;;;-3.1747
-Civil marriage and partnership venues;;;Easter Road Stadium;;;55.962;;;-3.1671
-Civil marriage and partnership venues;;;Edinburgh Capital Hotel;;;55.9559;;;-3.2798
-Civil marriage and partnership venues;;;Edinburgh Castle Gatehouse Suite and Queen Anne Building;;;55.9485;;;-3.1989
-Civil marriage and partnership venues;;;Edinburgh Corn Exchange;;;55.9274;;;-3.2475
-Civil marriage and partnership venues;;;Edinburgh Festival Centre (The Hub);;;55.9488;;;-3.196
-Civil marriage and partnership venues;;;Festival Theatre;;;55.947;;;-3.1859
-Civil marriage and partnership venues;;;Glasshouse Hotel;;;55.957;;;-3.185
-Civil marriage and partnership venues;;;Grand Lodge of Scotland;;;55.9523;;;-3.2024
-Civil marriage and partnership venues;;;Hilton Grosvenor Hotel;;;55.9467;;;-3.2167
-Civil marriage and partnership venues;;;Holiday Inn;;;55.9428;;;-3.2669
-Civil marriage and partnership venues;;;Holiday Inn North;;;55.9561;;;-3.2421
-Civil marriage and partnership venues;;;Howies Restaurant;;;55.9541;;;-3.1858
-Civil marriage and partnership venues;;;Le Monde Hotel;;;55.9534;;;-3.196
-Civil marriage and partnership venues;;;Lothian Chambers;;;55.9492;;;-3.1922
-Civil marriage and partnership venues;;;Macdonald Holyrood Hotel;;;55.9505;;;-3.1779
-Civil marriage and partnership venues;;;Malmaison Hotel;;;55.9782;;;-3.1688
-Civil marriage and partnership venues;;;Marlins Wynd;;;55.9491;;;-3.1878
-Civil marriage and partnership venues;;;Minto Hotel;;;55.9353;;;-3.1755
-Civil marriage and partnership venues;;;National Museum of Scotland;;;55.9479;;;-3.1889
-Civil marriage and partnership venues;;;No 28 Charlotte Square;;;55.951;;;-3.2072
-Civil marriage and partnership venues;;;Point Hotel Conference Centre;;;55.9458;;;-3.2033
-Civil marriage and partnership venues;;;Radisson SAS Hotel;;;55.9501;;;-3.1871
-Civil marriage and partnership venues;;;Royal Botanic Garden;;;55.9667;;;-3.2049
-Civil marriage and partnership venues;;;Royal College of Physicians;;;55.9552;;;-3.1965
-Civil marriage and partnership venues;;;Royal College of Surgeons;;;55.9455;;;-3.1847
-Civil marriage and partnership venues;;;Royal Overseas League;;;55.9517;;;-3.2002
-Civil marriage and partnership venues;;;Signet Library;;;55.9493;;;-3.1899
-Civil marriage and partnership venues;;;South Hall Complex Pollock Halls ;;;55.9407;;;-3.1726
-Civil marriage and partnership venues;;;St Leonards Hall;;;55.9407;;;-3.1726
-Civil marriage and partnership venues;;;The Atrium;;;55.9475;;;-3.2043
-Civil marriage and partnership venues;;;The Banshee Labyrinth;;;55.9501;;;-3.1872
-Civil marriage and partnership venues;;;The Caves;;;55.9494;;;-3.1868
-Civil marriage and partnership venues;;;The Edinburgh Academy;;;55.9608;;;-3.2044
-Civil marriage and partnership venues;;;The George Hotel;;;55.9535;;;-3.1976
-Civil marriage and partnership venues;;;The Georgian House;;;55.9525;;;-3.2082
-Civil marriage and partnership venues;;;The Ghillie Dhu;;;55.9499;;;-3.2078
-Civil marriage and partnership venues;;;The Grange Club;;;55.9597;;;-3.2143
-Civil marriage and partnership venues;;;The Mansion House;;;55.9454;;;-3.2712
-Civil marriage and partnership venues;;;The Prestonfield;;;55.9351;;;-3.1606
-Civil marriage and partnership venues;;;The Roxburghe Hotel;;;55.9517;;;-3.2065
-Civil marriage and partnership venues;;;The Royal British Hotel;;;55.9532;;;-3.1908
-Civil marriage and partnership venues;;;The Royal Scots Club;;;55.9561;;;-3.1979
-Civil marriage and partnership venues;;;The Royal Terrace Hotel;;;55.956;;;-3.1755
-Civil marriage and partnership venues;;;The Scotch Malt Whisky Society;;;55.9545;;;-3.1996
-Civil marriage and partnership venues;;;The Scotch Malt Whisky Society (Leith);;;55.9732;;;-3.1723
-Civil marriage and partnership venues;;;The Scotsman Hotel;;;55.9519;;;-3.1884
-Civil marriage and partnership venues;;;The Sheraton Grand Hotel;;;55.9471;;;-3.2076
-Civil marriage and partnership venues;;;Usher Hall;;;55.948;;;-3.2061
-Monuments;;;Sundial;;;55.9706;;;-3.2792
-Monuments;;;Adam Black Statue;;;55.9525;;;-3.1928
-Monuments;;;Alison Hay Dunlop Memorial East Gate piers;;;55.9643;;;-3.2133
-Monuments;;;Allan Ramsay Statue;;;55.9517;;;-3.1973
-Monuments;;;Calton Hill Cannon;;;55.9546;;;-3.1831
-Monuments;;;Courtyard Well;;;55.9691;;;-3.2764
-Monuments;;;David Livingstone Statue;;;55.9522;;;-3.1944
-Monuments;;;Devlin Fountain;;;55.9798;;;-3.2014
-Monuments;;;Dugald Stewart;;;55.9545;;;-3.1845
-Monuments;;;Dunlop Drinking Fountain;;;55.9634;;;-3.2176
-Monuments;;;Edward VII Statue;;;55.9753;;;-3.191
-Monuments;;;Floral Clock;;;55.9517;;;-3.1973
-Monuments;;;Genius of Architecture Statue;;;55.951;;;-3.1982
-Monuments;;;Giants and Lady Fifes Brae;;;55.9702;;;-3.1668
-Monuments;;;James Young Simpson Statue;;;55.9504;;;-3.2051
-Monuments;;;Jawbone Arch;;;55.9405;;;-3.1946
-Monuments;;;Kinloch Anderson Sundial;;;55.962;;;-3.2149
-Monuments;;;Lochend Castle Dovecot;;;55.9622;;;-3.1608
-Monuments;;;Masons Pillars;;;55.942;;;-3.2003
-Monuments;;;Memorial to the Spanish Brigade;;;55.9507;;;-3.1949
-Monuments;;;Middle Meadow Walk Gatepiers;;;55.9453;;;-3.1912
-Monuments;;;Mineral Well in the glade.;;;55.9711;;;-3.2795
-Monuments;;;National Monument;;;55.9547;;;-3.1818
-Monuments;;;Nelson Monument;;;55.9544;;;-3.1826
-Monuments;;;Nelson Pillar;;;55.9404;;;-3.1832
-Monuments;;;North Archway;;;55.9652;;;-3.2192
-Monuments;;;Norwegian Memorial stone;;;55.9501;;;-3.202
-Monuments;;;Playfair Monument;;;55.9548;;;-3.1831
-Monuments;;;Presentation drinking fountain;;;55.9747;;;-3.191
-Monuments;;;Professor John Wilson Statue;;;55.952;;;-3.1955
-Monuments;;;Ross Fountain;;;55.9501;;;-3.203
-Monuments;;;Royal Scots War Memorial;;;55.9511;;;-3.1973
-Monuments;;;Scott Monument;;;55.9524;;;-3.1933
-Monuments;;;Scottish-American War Memorial;;;55.9511;;;-3.201
-Monuments;;;Sister Cathedral Fountain;;;55.9407;;;-3.1945
-Monuments;;;St. Margarets Well;;;55.9497;;;-3.2012
-Monuments;;;Sundial B;;;55.971;;;-3.2787
-Monuments;;;Sundial;;;55.9418;;;-3.1989
-Monuments;;;Sundial;;;55.9345;;;-3.249
-Monuments;;;Sundial;;;55.9786;;;-3.2009
-Monuments;;;The Royal Scots Greys Monument;;;55.9514;;;-3.1994
-Monuments;;;The Thomas Guthrie Statue;;;55.9508;;;-3.2027
-Monuments;;;Two Pillars;;;55.9687;;;-3.2789
-Monuments;;;West Gate piers;;;55.9627;;;-3.2207
-Mobile library stops;;;Braidwood House;;;55.9485;;;-3.1778
-Mobile library stops;;;Cameron Toll Shopping Centre;;;55.927;;;-3.1638
-Mobile library stops;;;Carrickvale Community Centre;;;55.9313;;;-3.2641
-Mobile library stops;;;Claremont Road;;;55.9681;;;-3.1557
-Mobile library stops;;;Clark Road;;;55.9736;;;-3.2066
-Mobile library stops;;;Craighall Road;;;55.9749;;;-3.1957
-Mobile library stops;;;Findlay Avenue;;;55.9645;;;-3.1511
-Mobile library stops;;;Lochend Crescent;;;55.9604;;;-3.152
-Mobile library stops;;;Magdalene Court Sheltered Housing;;;55.9513;;;-3.1959
-Mobile library stops;;;Moat House;;;55.9297;;;-3.2412
-Mobile library stops;;;Parkgrove Street;;;55.9601;;;-3.289
-Mobile library stops;;;Prestonfield Avenue;;;55.9334;;;-3.161
-Mobile library stops;;;Roseburn Crescent;;;55.944;;;-3.2378
-Mobile library stops;;;Zetland Place;;;55.9758;;;-3.2088
-Parks and gardens;;;;;;55.9481;;;-3.2113
-Parks and gardens;;;Balgreen Park;;;55.9419;;;-3.258
-Parks and gardens;;;Bellevue Crescent Gardens;;;55.9606;;;-3.194
-Parks and gardens;;;No booking required for short hole golf course. Just turn up and play.;;;55.9398;;;-3.2022
-Parks and gardens;;;Calton Hill is a hill in central Edinburgh;;;55.9547;;;-3.1833
-Parks and gardens;;;Clermiston Park;;;55.9566;;;-3.2876
-Parks and gardens;;;This Georgian crescent;;;55.9487;;;-3.2125
-Parks and gardens;;;Corstorphine Hill Local Nature Reserve is a natural heritage park with large areas of mature woodland and grassland. At its highest point 531 feet (161 metres) visitors get stunning views of the city. On a clear day you can see the summit of Ben Lomond in the west;;;55.9574;;;-3.276
-Parks and gardens;;;;;;55.9786;;;-3.2899
-Parks and gardens;;;This little park was formerly known as Iona Street and was first set out as a recreation area in 1902. It was maintained by the governors of Trinity Hospital who passed it into the citys safekeeping in 1922.;;;55.9641;;;-3.1729
-Parks and gardens;;;The ground was acquired for the city from Dame Mary Ramsay-Steel-Maitland in 1922.;;;55.9638;;;-3.2768
-Parks and gardens;;; the tree is located to the left hand side of the medical centre and has a stone and plaque in place at the side of the tree to mark this event.;;;55.9458;;;-3.1829
-Parks and gardens;;;A hidden gem;;;55.9517;;;-3.1793
-Parks and gardens;;;East Pilton Park is a place for play and has been divided to allow toddlers to play;;;55.9741;;;-3.2274
-Parks and gardens;;;A small community park located on the north Edinburgh cyclepath. It has a much loved play area and a mountain bike track.;;;55.9628;;;-3.2435
-Parks and gardens;;;Gardners Crescent is a small neighbourhood greenspace with cherry;;;55.9445;;;-3.2092
-Parks and gardens;;;Gayfield Square;;;55.9587;;;-3.185
-Parks and gardens;;;;;;55.9466;;;-3.1975
-Parks and gardens;;;Glendevon Park;;;55.9392;;;-3.2552
-Parks and gardens;;;;;;55.9406;;;-3.2223
-Parks and gardens;;;;;;55.9475;;;-3.1986
-Parks and gardens;;;Granton Crescent Park;;;55.9798;;;-3.2244
-Parks and gardens;;;Harrison Park is a popular community park extending some 7 hectares in size. In provides a range of recreational facilities including pitches;;;55.9339;;;-3.2267
-Parks and gardens;;;This is a small park situated off Great Junction Street and is the only formal park in the area. The park has a toddlers play area and is surrounded with mature shrub planting.;;;55.9735;;;-3.1736
-Parks and gardens;;;Hillside Crescent Gardens were created by William Playfair to enrich the New Town crescent. There are displays of horse chestnut;;;55.9579;;;-3.178
-Parks and gardens;;; with a minimum charge of £1.00. The charges apply between 08.30 and 17.30. The Regulations do not apply on Saturdays;;;55.949;;;-3.1593
-Parks and gardens;;; upgrading paths and installing interpretation panels.;;;55.9612;;;-3.1836
-Parks and gardens;;;Inch is the old name for an island or a piece of low-lying land near a river or burn;;;55.9252;;;-3.1609
-Parks and gardens;;;Inverleith Park is a large park of neatly maintained grass parkland with a tree lined perimeter and paths. There are grand gated entrances and iron railings around the perimeter. The park is well-loved and well-used with an extensive range of facilities including sports pitches and club pavilions;;;55.9638;;;-3.2155
-Parks and gardens;;;This is a small but well used neighbourhood park with a fine setting above the Water of Leith. A walkway and cycle track lead down to what has become a popular strolling aread beside a tranquil section of the river. There is a fenced off play area popular with local parents and their children.;;;55.9744;;;-3.1811
-Parks and gardens;;;A pleasant park of winding paths;;;55.9607;;;-3.1973
-Parks and gardens;;;The grounds of the 16th Century Lauriston Castle offer views across the Firth of Forth in a wood and parkland setting. There are manicured lawns in contrast with woodland walks and a range of trees and plants in the elegant gardens including azaleas;;;55.9701;;;-3.278
-Parks and gardens;;;Originally designed as golf course;;;55.9703;;;-3.1645
-Parks and gardens;;;;;;55.9615;;;-3.1605
-Parks and gardens;;;;;;55.9573;;;-3.1775
-Parks and gardens;;;Tennis: tennis@edinburghleisure.co.uk Cricket: sportspitch@edinburghleisure.co.uk;;;55.9414;;;-3.1915
-Parks and gardens;;;Meadowspot Park;;;55.9256;;;-3.2273
-Parks and gardens;;;A small;;;55.9593;;;-3.175
-Parks and gardens;;;These former university playing fields were sold off in the 90’s to housing developers but were never built on and became very rundown and overgrown. They were then returned to council ownership around 2005 and works to reinstate the former pitches;;;55.9331;;;-3.1526
-Parks and gardens;;;Muirhouse Park is a community park that provides a space where people can play;;;55.9712;;;-3.2614
-Parks and gardens;;;Murieston Park is a small community park off Dalry Road with benches and play area. The park is regularly used for a number of community events. ;;;55.9404;;;-3.2269
-Parks and gardens;;;;;;55.9459;;;-3.1858
-Parks and gardens;;; with laburnum trees;;;55.955;;;-3.2358
-Parks and gardens;;;This parkland setting provides space for locals to walk and play;;;55.9682;;;-3.1811
-Parks and gardens;;;A small intimate park;;;55.9334;;;-3.161
-Parks and gardens;;;;;;55.9501;;;-3.1991
-Parks and gardens;;;Ravelston Park is a small neighbourhood park with a pavilion;;;55.9559;;;-3.2554
-Parks and gardens;;; mice;;;55.9541;;;-3.2538
-Parks and gardens;;;Redbraes Park;;;55.9679;;;-3.188
-Parks and gardens;;;Regent Road Park is a peaceful green place at the heart of old Edinburgh only a few minutes from Princes Street. From here;;;55.9548;;;-3.1744
-Parks and gardens;;;This attractive little path is an unexpected and delightful woodland glade full of the sound of birds and the murmurings of the Water of Leith.;;;55.9624;;;-3.2077
-Parks and gardens;;;Roseburn Park is in the shadow of the Murrayfield Rugby stadium. One of its attractive features is the Water of Leith which runs along its north edge. There is a childrens play area and football and cricket are both played on the park.;;;55.9446;;;-3.2402
-Parks and gardens;;;Saughton Park is one of Edinburghs hidden jewels. Not only does have a large tract of well-managed open space with playing fields and athletic track;;;55.9352;;;-3.2483
-Parks and gardens;;;This large park has flat expanses of grass which are dedicated to football. The park is bounded by community woodlands planted at the start of the new Millennium. There is a well used play area and skateboard facilities.;;;55.9268;;;-3.2866
-Parks and gardens;;;This small rectangular park overlooks Silverknowes Golf Course and has spectacular panorama of the Firth of Forth. The park is home to football;;;55.9739;;;-3.2663
-Parks and gardens;;;A large attractive park found in Corstorphine Village. There are a range of things to do there including tennis and a brand new play area which was re-opened in 2013. The park has been awarded a Green Flag since 2011;;;55.9393;;;-3.2855
-Parks and gardens;;;This little park;;;55.9685;;;-3.1924
-Parks and gardens;;;;;;55.943;;;-3.1838
-Parks and gardens;;;Starbank Park commands dramatic panoramas over the Firth of Forth to Fife. A great place top watch the passing ships and brightly coloured yachts. Within the park there are annual beds; one shaped in as a eight-pointed star and two crescents.These depict the Star of the Sea belived to be symbolic of a ships compass and harking back to the days when Forth sailormen navigated the oceans by the stars. At the back of the Starbank House;;;55.9796;;;-3.2012
-Parks and gardens;;;Stenhouse Place East Park;;;55.9333;;;-3.26
-Parks and gardens;;;;;;55.9742;;;-3.1771
-Parks and gardens;;;Union Park is popular for sport and with local people for walking. The park is railed off and bordered by a hawthorn hedge and lime trees. There is also a well-used childrens play area.;;;55.9357;;;-3.2765
-Parks and gardens;;;11 or 14.;;;55.975;;;-3.1925
-Parks and gardens;;;West Pilton Gardens is spilt over two levels. The top levels has play areas for toddlers and juniors;;;55.9709;;;-3.2463
-Parks and gardens;;;Whinhill Park;;;55.9274;;;-3.2733
-Parks and gardens;;;Within earshot of Tynecastle;;;55.9374;;;-3.2313
-Parks and gardens;;;;;;55.9481;;;-3.2113
-Parks and gardens;;;Balgreen Park;;;55.9419;;;-3.258
-Parks and gardens;;;Bellevue Crescent Gardens;;;55.9606;;;-3.194
-Parks and gardens;;;No booking required for short hole golf course. Just turn up and play.;;;55.9398;;;-3.2022
-Parks and gardens;;;Calton Hill is a hill in central Edinburgh;;;55.9547;;;-3.1833
-Parks and gardens;;;Clermiston Park;;;55.9566;;;-3.2876
-Parks and gardens;;;This Georgian crescent;;;55.9487;;;-3.2125
-Parks and gardens;;;Corstorphine Hill Local Nature Reserve is a natural heritage park with large areas of mature woodland and grassland. At its highest point 531 feet (161 metres) visitors get stunning views of the city. On a clear day you can see the summit of Ben Lomond in the west;;;55.9574;;;-3.276
-Parks and gardens;;;;;;55.9786;;;-3.2899
-Parks and gardens;;;This little park was formerly known as Iona Street and was first set out as a recreation area in 1902. It was maintained by the governors of Trinity Hospital who passed it into the citys safekeeping in 1922.;;;55.9641;;;-3.1729
-Parks and gardens;;;The ground was acquired for the city from Dame Mary Ramsay-Steel-Maitland in 1922.;;;55.9638;;;-3.2768
-Parks and gardens;;; the tree is located to the left hand side of the medical centre and has a stone and plaque in place at the side of the tree to mark this event.;;;55.9458;;;-3.1829
-Parks and gardens;;;A hidden gem;;;55.9517;;;-3.1793
-Parks and gardens;;;East Pilton Park is a place for play and has been divided to allow toddlers to play;;;55.9741;;;-3.2274
-Parks and gardens;;;A small community park located on the north Edinburgh cyclepath. It has a much loved play area and a mountain bike track.;;;55.9628;;;-3.2435
-Parks and gardens;;;Gardners Crescent is a small neighbourhood greenspace with cherry;;;55.9445;;;-3.2092
-Parks and gardens;;;Gayfield Square;;;55.9587;;;-3.185
-Parks and gardens;;;;;;55.9466;;;-3.1975
-Parks and gardens;;;Glendevon Park;;;55.9392;;;-3.2552
-Parks and gardens;;;;;;55.9406;;;-3.2223
-Parks and gardens;;;;;;55.9475;;;-3.1986
-Parks and gardens;;;Granton Crescent Park;;;55.9798;;;-3.2244
-Parks and gardens;;;Harrison Park is a popular community park extending some 7 hectares in size. In provides a range of recreational facilities including pitches;;;55.9339;;;-3.2267
-Parks and gardens;;;This is a small park situated off Great Junction Street and is the only formal park in the area. The park has a toddlers play area and is surrounded with mature shrub planting.;;;55.9735;;;-3.1736
-Parks and gardens;;;Hillside Crescent Gardens were created by William Playfair to enrich the New Town crescent. There are displays of horse chestnut;;;55.9579;;;-3.178
-Parks and gardens;;; with a minimum charge of £1.00. The charges apply between 08.30 and 17.30. The Regulations do not apply on Saturdays;;;55.949;;;-3.1593
-Parks and gardens;;; upgrading paths and installing interpretation panels.;;;55.9612;;;-3.1836
-Parks and gardens;;;Inch is the old name for an island or a piece of low-lying land near a river or burn;;;55.9252;;;-3.1609
-Parks and gardens;;;Inverleith Park is a large park of neatly maintained grass parkland with a tree lined perimeter and paths. There are grand gated entrances and iron railings around the perimeter. The park is well-loved and well-used with an extensive range of facilities including sports pitches and club pavilions;;;55.9638;;;-3.2155
-Parks and gardens;;;This is a small but well used neighbourhood park with a fine setting above the Water of Leith. A walkway and cycle track lead down to what has become a popular strolling aread beside a tranquil section of the river. There is a fenced off play area popular with local parents and their children.;;;55.9744;;;-3.1811
-Parks and gardens;;;A pleasant park of winding paths;;;55.9607;;;-3.1973
-Parks and gardens;;;The grounds of the 16th Century Lauriston Castle offer views across the Firth of Forth in a wood and parkland setting. There are manicured lawns in contrast with woodland walks and a range of trees and plants in the elegant gardens including azaleas;;;55.9701;;;-3.278
-Parks and gardens;;;Originally designed as golf course;;;55.9703;;;-3.1645
-Parks and gardens;;;;;;55.9615;;;-3.1605
-Parks and gardens;;;;;;55.9573;;;-3.1775
-Parks and gardens;;;Tennis: tennis@edinburghleisure.co.uk Cricket: sportspitch@edinburghleisure.co.uk;;;55.9414;;;-3.1915
-Parks and gardens;;;Meadowspot Park;;;55.9256;;;-3.2273
-Parks and gardens;;;A small;;;55.9593;;;-3.175
-Parks and gardens;;;These former university playing fields were sold off in the 90’s to housing developers but were never built on and became very rundown and overgrown. They were then returned to council ownership around 2005 and works to reinstate the former pitches;;;55.9331;;;-3.1526
-Parks and gardens;;;Muirhouse Park is a community park that provides a space where people can play;;;55.9712;;;-3.2614
-Parks and gardens;;;Murieston Park is a small community park off Dalry Road with benches and play area. The park is regularly used for a number of community events. ;;;55.9404;;;-3.2269
-Parks and gardens;;;;;;55.9459;;;-3.1858
-Parks and gardens;;; with laburnum trees;;;55.955;;;-3.2358
-Parks and gardens;;;This parkland setting provides space for locals to walk and play;;;55.9682;;;-3.1811
-Parks and gardens;;;A small intimate park;;;55.9334;;;-3.161
-Parks and gardens;;;;;;55.9501;;;-3.1991
-Parks and gardens;;;Ravelston Park is a small neighbourhood park with a pavilion;;;55.9559;;;-3.2554
-Parks and gardens;;; mice;;;55.9541;;;-3.2538
-Parks and gardens;;;Redbraes Park;;;55.9679;;;-3.188
-Parks and gardens;;;Regent Road Park is a peaceful green place at the heart of old Edinburgh only a few minutes from Princes Street. From here;;;55.9548;;;-3.1744
-Parks and gardens;;;This attractive little path is an unexpected and delightful woodland glade full of the sound of birds and the murmurings of the Water of Leith.;;;55.9624;;;-3.2077
-Parks and gardens;;;Roseburn Park is in the shadow of the Murrayfield Rugby stadium. One of its attractive features is the Water of Leith which runs along its north edge. There is a childrens play area and football and cricket are both played on the park.;;;55.9446;;;-3.2402
-Parks and gardens;;;Saughton Park is one of Edinburghs hidden jewels. Not only does have a large tract of well-managed open space with playing fields and athletic track;;;55.9352;;;-3.2483
-Parks and gardens;;;This large park has flat expanses of grass which are dedicated to football. The park is bounded by community woodlands planted at the start of the new Millennium. There is a well used play area and skateboard facilities.;;;55.9268;;;-3.2866
-Parks and gardens;;;This small rectangular park overlooks Silverknowes Golf Course and has spectacular panorama of the Firth of Forth. The park is home to football;;;55.9739;;;-3.2663
-Parks and gardens;;;A large attractive park found in Corstorphine Village. There are a range of things to do there including tennis and a brand new play area which was re-opened in 2013. The park has been awarded a Green Flag since 2011;;;55.9393;;;-3.2855
-Parks and gardens;;;This little park;;;55.9685;;;-3.1924
-Parks and gardens;;;;;;55.943;;;-3.1838
-Parks and gardens;;;Starbank Park commands dramatic panoramas over the Firth of Forth to Fife. A great place top watch the passing ships and brightly coloured yachts. Within the park there are annual beds; one shaped in as a eight-pointed star and two crescents.These depict the Star of the Sea belived to be symbolic of a ships compass and harking back to the days when Forth sailormen navigated the oceans by the stars. At the back of the Starbank House;;;55.9796;;;-3.2012
-Parks and gardens;;;Stenhouse Place East Park;;;55.9333;;;-3.26
-Parks and gardens;;;;;;55.9742;;;-3.1771
-Parks and gardens;;;Union Park is popular for sport and with local people for walking. The park is railed off and bordered by a hawthorn hedge and lime trees. There is also a well-used childrens play area.;;;55.9357;;;-3.2765
-Parks and gardens;;;11 or 14.;;;55.975;;;-3.1925
-Parks and gardens;;;West Pilton Gardens is spilt over two levels. The top levels has play areas for toddlers and juniors;;;55.9709;;;-3.2463
-Parks and gardens;;;Whinhill Park;;;55.9274;;;-3.2733
-Parks and gardens;;;Within earshot of Tynecastle;;;55.9374;;;-3.2313
+Carer support groups;;;Edinburgh Carer Support Team;;;55.930524;;;-3.198953
+Carer support groups;;;Edinburgh Carers Council;;;55.961987;;;-3.198598
+Carer support groups;;;Edinburgh Headway Group;;;55.930666;;;-3.198866
+Carer support groups;;;Edinburgh Young Carers Project;;;55.95736;;;-3.170393
+Carer support groups;;;Eric Liddell Ca(i)re Programme;;;55.933709;;;-3.209698
+Carer support groups;;;MECOPP;;;55.967584;;;-3.174692
+Carer support groups;;;North West Carers Centre;;;55.972285;;;-3.253822
+Carer support groups;;;Support in Mind;;;55.934227;;;-3.166809
+Carer support groups;;;The Broomhouse Centre;;;55.928746;;;-3.277614
+Carer support groups;;;VOCAL (Voice of Carers Across Lothian);;;55.948551;;;-3.19582
+Civil marriage and partnership venues;;;Abden House;;;55.940702;;;-3.172587
+Civil marriage and partnership venues;;;Apex City Hotel;;;55.947447;;;-3.195717
+Civil marriage and partnership venues;;;Apex International Hotel;;;55.947226;;;-3.196502
+Civil marriage and partnership venues;;;Apex Waterloo Place Hotel;;;55.953789;;;-3.187758
+Civil marriage and partnership venues;;;Assembly Rooms;;;55.953116;;;-3.198736
+Civil marriage and partnership venues;;;Balmoral Hotel;;;55.952657;;;-3.189613
+Civil marriage and partnership venues;;;Barcelo Edinburgh Carlton Hotel;;;55.950801;;;-3.187378
+Civil marriage and partnership venues;;;Best Western Bruntsfield Hotel;;;55.938338;;;-3.205824
+Civil marriage and partnership venues;;;Caledonian Hilton Hotel;;;55.953744;;;-3.1899
+Civil marriage and partnership venues;;;City Chambers;;;55.949708;;;-3.191622
+Civil marriage and partnership venues;;;Dunstane House Hotel;;;55.946176;;;-3.228341
+Civil marriage and partnership venues;;;Dynamic Earth;;;55.95069;;;-3.174748
+Civil marriage and partnership venues;;;Easter Road Stadium;;;55.962035;;;-3.167145
+Civil marriage and partnership venues;;;Edinburgh Capital Hotel;;;55.955922;;;-3.279839
+Civil marriage and partnership venues;;;Edinburgh Castle Gatehouse Suite and Queen Anne Building;;;55.948484;;;-3.198899
+Civil marriage and partnership venues;;;Edinburgh Corn Exchange;;;55.927413;;;-3.247494
+Civil marriage and partnership venues;;;Edinburgh Festival Centre (The Hub);;;55.94875;;;-3.195979
+Civil marriage and partnership venues;;;Festival Theatre;;;55.946972;;;-3.185949
+Civil marriage and partnership venues;;;Glasshouse Hotel;;;55.957032;;;-3.185022
+Civil marriage and partnership venues;;;Grand Lodge of Scotland;;;55.952281;;;-3.202446
+Civil marriage and partnership venues;;;Hilton Grosvenor Hotel;;;55.946741;;;-3.216685
+Civil marriage and partnership venues;;;Holiday Inn;;;55.942757;;;-3.266931
+Civil marriage and partnership venues;;;Holiday Inn North;;;55.95606;;;-3.24214
+Civil marriage and partnership venues;;;Howies Restaurant;;;55.954105;;;-3.185766
+Civil marriage and partnership venues;;;Le Monde Hotel;;;55.953368;;;-3.196025
+Civil marriage and partnership venues;;;Lothian Chambers;;;55.949165;;;-3.192217
+Civil marriage and partnership venues;;;Macdonald Holyrood Hotel;;;55.950478;;;-3.177904
+Civil marriage and partnership venues;;;Malmaison Hotel;;;55.978249;;;-3.16878
+Civil marriage and partnership venues;;;Marlins Wynd;;;55.949099;;;-3.187758
+Civil marriage and partnership venues;;;Minto Hotel;;;55.935288;;;-3.175512
+Civil marriage and partnership venues;;;National Museum of Scotland;;;55.947929;;;-3.188876
+Civil marriage and partnership venues;;;No 28 Charlotte Square;;;55.950994;;;-3.20721
+Civil marriage and partnership venues;;;Point Hotel Conference Centre;;;55.945786;;;-3.203349
+Civil marriage and partnership venues;;;Radisson SAS Hotel;;;55.950123;;;-3.187075
+Civil marriage and partnership venues;;;Royal Botanic Garden;;;55.966691;;;-3.204874
+Civil marriage and partnership venues;;;Royal College of Physicians;;;55.955216;;;-3.196453
+Civil marriage and partnership venues;;;Royal College of Surgeons;;;55.945455;;;-3.184711
+Civil marriage and partnership venues;;;Royal Overseas League;;;55.951665;;;-3.200184
+Civil marriage and partnership venues;;;Signet Library;;;55.949294;;;-3.18991
+Civil marriage and partnership venues;;;South Hall Complex Pollock Halls ;;;55.940702;;;-3.172587
+Civil marriage and partnership venues;;;St Leonards Hall;;;55.940702;;;-3.172587
+Civil marriage and partnership venues;;;The Atrium;;;55.947483;;;-3.204282
+Civil marriage and partnership venues;;;The Banshee Labyrinth;;;55.95013;;;-3.187173
+Civil marriage and partnership venues;;;The Caves;;;55.949422;;;-3.186795
+Civil marriage and partnership venues;;;The Edinburgh Academy;;;55.960798;;;-3.20444
+Civil marriage and partnership venues;;;The George Hotel;;;55.953542;;;-3.1976
+Civil marriage and partnership venues;;;The Georgian House;;;55.952539;;;-3.208219
+Civil marriage and partnership venues;;;The Ghillie Dhu;;;55.949919;;;-3.207785
+Civil marriage and partnership venues;;;The Grange Club;;;55.959668;;;-3.214272
+Civil marriage and partnership venues;;;The Mansion House;;;55.945365;;;-3.271201
+Civil marriage and partnership venues;;;The Prestonfield;;;55.935143;;;-3.160566
+Civil marriage and partnership venues;;;The Roxburghe Hotel;;;55.951667;;;-3.206486
+Civil marriage and partnership venues;;;The Royal British Hotel;;;55.953184;;;-3.190825
+Civil marriage and partnership venues;;;The Royal Scots Club;;;55.956093;;;-3.197936
+Civil marriage and partnership venues;;;The Royal Terrace Hotel;;;55.955973;;;-3.175492
+Civil marriage and partnership venues;;;The Scotch Malt Whisky Society;;;55.954501;;;-3.199567
+Civil marriage and partnership venues;;;The Scotch Malt Whisky Society (Leith);;;55.973238;;;-3.172314
+Civil marriage and partnership venues;;;The Scotsman Hotel;;;55.951864;;;-3.18841
+Civil marriage and partnership venues;;;The Sheraton Grand Hotel;;;55.947073;;;-3.207616
+Civil marriage and partnership venues;;;Usher Hall;;;55.948036;;;-3.206091
+Monuments;;;Sundial;;;55.970611;;;-3.279186
+Monuments;;;Adam Black Statue;;;55.952473;;;-3.192762
+Monuments;;;Alison Hay Dunlop Memorial East Gate piers;;;55.964332;;;-3.21328
+Monuments;;;Allan Ramsay Statue;;;55.951701;;;-3.197335
+Monuments;;;Calton Hill Cannon;;;55.954579;;;-3.183106
+Monuments;;;Courtyard Well;;;55.96913;;;-3.276413
+Monuments;;;David Livingstone Statue;;;55.952179;;;-3.194435
+Monuments;;;Devlin Fountain;;;55.979822;;;-3.201361
+Monuments;;;Dugald Stewart;;;55.954512;;;-3.184465
+Monuments;;;Dunlop Drinking Fountain;;;55.963418;;;-3.217577
+Monuments;;;Edward VII Statue;;;55.975259;;;-3.191044
+Monuments;;;Floral Clock;;;55.95172;;;-3.197271
+Monuments;;;Genius of Architecture Statue;;;55.950999;;;-3.198182
+Monuments;;;Giants and Lady Fifes Brae;;;55.970199;;;-3.166759
+Monuments;;;James Young Simpson Statue;;;55.950404;;;-3.205062
+Monuments;;;Jawbone Arch;;;55.94046;;;-3.194619
+Monuments;;;Kinloch Anderson Sundial;;;55.961962;;;-3.214856
+Monuments;;;Lochend Castle Dovecot;;;55.962205;;;-3.160751
+Monuments;;;Masons Pillars;;;55.942022;;;-3.200302
+Monuments;;;Memorial to the Spanish Brigade;;;55.950665;;;-3.194885
+Monuments;;;Middle Meadow Walk Gatepiers;;;55.945264;;;-3.191212
+Monuments;;;Mineral Well in the glade.;;;55.971075;;;-3.279458
+Monuments;;;National Monument;;;55.954744;;;-3.181829
+Monuments;;;Nelson Monument;;;55.954359;;;-3.182618
+Monuments;;;Nelson Pillar;;;55.940404;;;-3.183246
+Monuments;;;North Archway;;;55.965163;;;-3.21917
+Monuments;;;Norwegian Memorial stone;;;55.950074;;;-3.202025
+Monuments;;;Playfair Monument;;;55.954795;;;-3.183064
+Monuments;;;Presentation drinking fountain;;;55.974739;;;-3.19098
+Monuments;;;Professor John Wilson Statue;;;55.952007;;;-3.195471
+Monuments;;;Ross Fountain;;;55.950064;;;-3.20305
+Monuments;;;Royal Scots War Memorial;;;55.951055;;;-3.197251
+Monuments;;;Scott Monument;;;55.952379;;;-3.193272
+Monuments;;;Scottish-American War Memorial;;;55.951054;;;-3.20103
+Monuments;;;Sister Cathedral Fountain;;;55.940694;;;-3.19453
+Monuments;;;St. Margarets Well;;;55.949687;;;-3.201212
+Monuments;;;Sundial B;;;55.970985;;;-3.27867
+Monuments;;;Sundial;;;55.941775;;;-3.19887
+Monuments;;;Sundial;;;55.934529;;;-3.249022
+Monuments;;;Sundial;;;55.978641;;;-3.200876
+Monuments;;;The Royal Scots Greys Monument;;;55.951366;;;-3.199423
+Monuments;;;The Thomas Guthrie Statue;;;55.950814;;;-3.202656
+Monuments;;;Two Pillars;;;55.968727;;;-3.2789
+Monuments;;;West Gate piers;;;55.962749;;;-3.220712
+Mobile library stops;;;Braidwood House;;;55.948529;;;-3.177829
+Mobile library stops;;;Cameron Toll Shopping Centre;;;55.927033;;;-3.163799
+Mobile library stops;;;Carrickvale Community Centre;;;55.931338;;;-3.26411
+Mobile library stops;;;Claremont Road;;;55.968076;;;-3.155672
+Mobile library stops;;;Clark Road;;;55.973644;;;-3.206622
+Mobile library stops;;;Craighall Road;;;55.974929;;;-3.195728
+Mobile library stops;;;Findlay Avenue;;;55.964506;;;-3.151096
+Mobile library stops;;;Lochend Crescent;;;55.960382;;;-3.151998
+Mobile library stops;;;Magdalene Court Sheltered Housing;;;55.951328;;;-3.195866
+Mobile library stops;;;Moat House;;;55.929747;;;-3.241175
+Mobile library stops;;;Parkgrove Street;;;55.960067;;;-3.289047
+Mobile library stops;;;Prestonfield Avenue;;;55.933386;;;-3.161042
+Mobile library stops;;;Roseburn Crescent;;;55.94396;;;-3.237829
+Mobile library stops;;;Zetland Place;;;55.975814;;;-3.208848
+Parks and gardens;;;;;;55.948106;;;-3.211252
+Parks and gardens;;;Balgreen Park;;;55.941868;;;-3.258011
+Parks and gardens;;;Bellevue Crescent Gardens;;;55.960558;;;-3.194004
+Parks and gardens;;;No booking required for short hole golf course. Just turn up and play.;;;55.939779;;;-3.202171
+Parks and gardens;;;Calton Hill is a hill in central Edinburgh;;;55.954709;;;-3.183294
+Parks and gardens;;;Clermiston Park;;;55.9566;;;-3.287573
+Parks and gardens;;;This Georgian crescent;;;55.948666;;;-3.212451
+Parks and gardens;;;Corstorphine Hill Local Nature Reserve is a natural heritage park with large areas of mature woodland and grassland. At its highest point 531 feet (161 metres) visitors get stunning views of the city. On a clear day you can see the summit of Ben Lomond in the west;;;55.957417;;;-3.275986
+Parks and gardens;;;;;;55.978649;;;-3.28989
+Parks and gardens;;;This little park was formerly known as Iona Street and was first set out as a recreation area in 1902. It was maintained by the governors of Trinity Hospital who passed it into the citys safekeeping in 1922.;;;55.964119;;;-3.172903
+Parks and gardens;;;The ground was acquired for the city from Dame Mary Ramsay-Steel-Maitland in 1922.;;;55.963807;;;-3.276844
+Parks and gardens;;; the tree is located to the left hand side of the medical centre and has a stone and plaque in place at the side of the tree to mark this event.;;;55.945781;;;-3.182892
+Parks and gardens;;;A hidden gem;;;55.951723;;;-3.179255
+Parks and gardens;;;East Pilton Park is a place for play and has been divided to allow toddlers to play;;;55.974086;;;-3.227406
+Parks and gardens;;;A small community park located on the north Edinburgh cyclepath. It has a much loved play area and a mountain bike track.;;;55.96275;;;-3.243456
+Parks and gardens;;;Gardners Crescent is a small neighbourhood greenspace with cherry;;;55.944496;;;-3.209233
+Parks and gardens;;;Gayfield Square;;;55.958666;;;-3.185005
+Parks and gardens;;;;;;55.946556;;;-3.197494
+Parks and gardens;;;Glendevon Park;;;55.939201;;;-3.25524
+Parks and gardens;;;;;;55.940644;;;-3.222256
+Parks and gardens;;;;;;55.947518;;;-3.198566
+Parks and gardens;;;Granton Crescent Park;;;55.979753;;;-3.224401
+Parks and gardens;;;Harrison Park is a popular community park extending some 7 hectares in size. In provides a range of recreational facilities including pitches;;;55.933866;;;-3.226719
+Parks and gardens;;;This is a small park situated off Great Junction Street and is the only formal park in the area. The park has a toddlers play area and is surrounded with mature shrub planting.;;;55.973531;;;-3.173605
+Parks and gardens;;;Hillside Crescent Gardens were created by William Playfair to enrich the New Town crescent. There are displays of horse chestnut;;;55.957946;;;-3.177967
+Parks and gardens;;; with a minimum charge of £1.00. The charges apply between 08.30 and 17.30. The Regulations do not apply on Saturdays;;;55.949011;;;-3.159319
+Parks and gardens;;; upgrading paths and installing interpretation panels.;;;55.961165;;;-3.183632
+Parks and gardens;;;Inch is the old name for an island or a piece of low-lying land near a river or burn;;;55.925163;;;-3.160887
+Parks and gardens;;;Inverleith Park is a large park of neatly maintained grass parkland with a tree lined perimeter and paths. There are grand gated entrances and iron railings around the perimeter. The park is well-loved and well-used with an extensive range of facilities including sports pitches and club pavilions;;;55.963807;;;-3.215475
+Parks and gardens;;;This is a small but well used neighbourhood park with a fine setting above the Water of Leith. A walkway and cycle track lead down to what has become a popular strolling aread beside a tranquil section of the river. There is a fenced off play area popular with local parents and their children.;;;55.974375;;;-3.181143
+Parks and gardens;;;A pleasant park of winding paths;;;55.960732;;;-3.197279
+Parks and gardens;;;The grounds of the 16th Century Lauriston Castle offer views across the Firth of Forth in a wood and parkland setting. There are manicured lawns in contrast with woodland walks and a range of trees and plants in the elegant gardens including azaleas;;;55.9701;;;-3.278046
+Parks and gardens;;;Originally designed as golf course;;;55.97034;;;-3.164492
+Parks and gardens;;;;;;55.961501;;;-3.160458
+Parks and gardens;;;;;;55.957273;;;-3.177452
+Parks and gardens;;;Tennis: tennis@edinburghleisure.co.uk Cricket: sportspitch@edinburghleisure.co.uk;;;55.941365;;;-3.191528
+Parks and gardens;;;Meadowspot Park;;;55.925596;;;-3.22732
+Parks and gardens;;;A small;;;55.959339;;;-3.174963
+Parks and gardens;;;These former university playing fields were sold off in the 90’s to housing developers but were never built on and became very rundown and overgrown. They were then returned to council ownership around 2005 and works to reinstate the former pitches;;;55.933145;;;-3.152647
+Parks and gardens;;;Muirhouse Park is a community park that provides a space where people can play;;;55.97119;;;-3.261404
+Parks and gardens;;;Murieston Park is a small community park off Dalry Road with benches and play area. The park is regularly used for a number of community events. ;;;55.940404;;;-3.226891
+Parks and gardens;;;;;;55.945932;;;-3.185778
+Parks and gardens;;; with laburnum trees;;;55.955015;;;-3.235817
+Parks and gardens;;;This parkland setting provides space for locals to walk and play;;;55.968178;;;-3.181143
+Parks and gardens;;;A small intimate park;;;55.933386;;;-3.161042
+Parks and gardens;;;;;;55.950113;;;-3.199081
+Parks and gardens;;;Ravelston Park is a small neighbourhood park with a pavilion;;;55.955927;;;-3.255386
+Parks and gardens;;; mice;;;55.954102;;;-3.253756
+Parks and gardens;;;Redbraes Park;;;55.96789;;;-3.188009
+Parks and gardens;;;Regent Road Park is a peaceful green place at the heart of old Edinburgh only a few minutes from Princes Street. From here;;;55.954822;;;-3.174362
+Parks and gardens;;;This attractive little path is an unexpected and delightful woodland glade full of the sound of birds and the murmurings of the Water of Leith.;;;55.962414;;;-3.207664
+Parks and gardens;;;Roseburn Park is in the shadow of the Murrayfield Rugby stadium. One of its attractive features is the Water of Leith which runs along its north edge. There is a childrens play area and football and cricket are both played on the park.;;;55.944586;;;-3.240194
+Parks and gardens;;;Saughton Park is one of Edinburghs hidden jewels. Not only does have a large tract of well-managed open space with playing fields and athletic track;;;55.935164;;;-3.248262
+Parks and gardens;;;This large park has flat expanses of grass which are dedicated to football. The park is bounded by community woodlands planted at the start of the new Millennium. There is a well used play area and skateboard facilities.;;;55.926846;;;-3.286629
+Parks and gardens;;;This small rectangular park overlooks Silverknowes Golf Course and has spectacular panorama of the Firth of Forth. The park is home to football;;;55.973942;;;-3.266287
+Parks and gardens;;;A large attractive park found in Corstorphine Village. There are a range of things to do there including tennis and a brand new play area which was re-opened in 2013. The park has been awarded a Green Flag since 2011;;;55.93925;;;-3.285513
+Parks and gardens;;;This little park;;;55.968467;;;-3.192387
+Parks and gardens;;;;;;55.942952;;;-3.183804
+Parks and gardens;;;Starbank Park commands dramatic panoramas over the Firth of Forth to Fife. A great place top watch the passing ships and brightly coloured yachts. Within the park there are annual beds; one shaped in as a eight-pointed star and two crescents.These depict the Star of the Sea belived to be symbolic of a ships compass and harking back to the days when Forth sailormen navigated the oceans by the stars. At the back of the Starbank House;;;55.979609;;;-3.201227
+Parks and gardens;;;Stenhouse Place East Park;;;55.933304;;;-3.25998
+Parks and gardens;;;;;;55.974182;;;-3.177109
+Parks and gardens;;;Union Park is popular for sport and with local people for walking. The park is railed off and bordered by a hawthorn hedge and lime trees. There is also a well-used childrens play area.;;;55.935693;;;-3.276501
+Parks and gardens;;;11 or 14.;;;55.975047;;;-3.192472
+Parks and gardens;;;West Pilton Gardens is spilt over two levels. The top levels has play areas for toddlers and juniors;;;55.970868;;;-3.246288
+Parks and gardens;;;Whinhill Park;;;55.927423;;;-3.273325
+Parks and gardens;;;Within earshot of Tynecastle;;;55.937421;;;-3.231345
+Parks and gardens;;;;;;55.948106;;;-3.211252
+Parks and gardens;;;Balgreen Park;;;55.941868;;;-3.258011
+Parks and gardens;;;Bellevue Crescent Gardens;;;55.960558;;;-3.194004
+Parks and gardens;;;No booking required for short hole golf course. Just turn up and play.;;;55.939779;;;-3.202171
+Parks and gardens;;;Calton Hill is a hill in central Edinburgh;;;55.954709;;;-3.183294
+Parks and gardens;;;Clermiston Park;;;55.9566;;;-3.287573
+Parks and gardens;;;This Georgian crescent;;;55.948666;;;-3.212451
+Parks and gardens;;;Corstorphine Hill Local Nature Reserve is a natural heritage park with large areas of mature woodland and grassland. At its highest point 531 feet (161 metres) visitors get stunning views of the city. On a clear day you can see the summit of Ben Lomond in the west;;;55.957417;;;-3.275986
+Parks and gardens;;;;;;55.978649;;;-3.28989
+Parks and gardens;;;This little park was formerly known as Iona Street and was first set out as a recreation area in 1902. It was maintained by the governors of Trinity Hospital who passed it into the citys safekeeping in 1922.;;;55.964119;;;-3.172903
+Parks and gardens;;;The ground was acquired for the city from Dame Mary Ramsay-Steel-Maitland in 1922.;;;55.963807;;;-3.276844
+Parks and gardens;;; the tree is located to the left hand side of the medical centre and has a stone and plaque in place at the side of the tree to mark this event.;;;55.945781;;;-3.182892
+Parks and gardens;;;A hidden gem;;;55.951723;;;-3.179255
+Parks and gardens;;;East Pilton Park is a place for play and has been divided to allow toddlers to play;;;55.974086;;;-3.227406
+Parks and gardens;;;A small community park located on the north Edinburgh cyclepath. It has a much loved play area and a mountain bike track.;;;55.96275;;;-3.243456
+Parks and gardens;;;Gardners Crescent is a small neighbourhood greenspace with cherry;;;55.944496;;;-3.209233
+Parks and gardens;;;Gayfield Square;;;55.958666;;;-3.185005
+Parks and gardens;;;;;;55.946556;;;-3.197494
+Parks and gardens;;;Glendevon Park;;;55.939201;;;-3.25524
+Parks and gardens;;;;;;55.940644;;;-3.222256
+Parks and gardens;;;;;;55.947518;;;-3.198566
+Parks and gardens;;;Granton Crescent Park;;;55.979753;;;-3.224401
+Parks and gardens;;;Harrison Park is a popular community park extending some 7 hectares in size. In provides a range of recreational facilities including pitches;;;55.933866;;;-3.226719
+Parks and gardens;;;This is a small park situated off Great Junction Street and is the only formal park in the area. The park has a toddlers play area and is surrounded with mature shrub planting.;;;55.973531;;;-3.173605
+Parks and gardens;;;Hillside Crescent Gardens were created by William Playfair to enrich the New Town crescent. There are displays of horse chestnut;;;55.957946;;;-3.177967
+Parks and gardens;;; with a minimum charge of £1.00. The charges apply between 08.30 and 17.30. The Regulations do not apply on Saturdays;;;55.949011;;;-3.159319
+Parks and gardens;;; upgrading paths and installing interpretation panels.;;;55.961165;;;-3.183632
+Parks and gardens;;;Inch is the old name for an island or a piece of low-lying land near a river or burn;;;55.925163;;;-3.160887
+Parks and gardens;;;Inverleith Park is a large park of neatly maintained grass parkland with a tree lined perimeter and paths. There are grand gated entrances and iron railings around the perimeter. The park is well-loved and well-used with an extensive range of facilities including sports pitches and club pavilions;;;55.963807;;;-3.215475
+Parks and gardens;;;This is a small but well used neighbourhood park with a fine setting above the Water of Leith. A walkway and cycle track lead down to what has become a popular strolling aread beside a tranquil section of the river. There is a fenced off play area popular with local parents and their children.;;;55.974375;;;-3.181143
+Parks and gardens;;;A pleasant park of winding paths;;;55.960732;;;-3.197279
+Parks and gardens;;;The grounds of the 16th Century Lauriston Castle offer views across the Firth of Forth in a wood and parkland setting. There are manicured lawns in contrast with woodland walks and a range of trees and plants in the elegant gardens including azaleas;;;55.9701;;;-3.278046
+Parks and gardens;;;Originally designed as golf course;;;55.97034;;;-3.164492
+Parks and gardens;;;;;;55.961501;;;-3.160458
+Parks and gardens;;;;;;55.957273;;;-3.177452
+Parks and gardens;;;Tennis: tennis@edinburghleisure.co.uk Cricket: sportspitch@edinburghleisure.co.uk;;;55.941365;;;-3.191528
+Parks and gardens;;;Meadowspot Park;;;55.925596;;;-3.22732
+Parks and gardens;;;A small;;;55.959339;;;-3.174963
+Parks and gardens;;;These former university playing fields were sold off in the 90’s to housing developers but were never built on and became very rundown and overgrown. They were then returned to council ownership around 2005 and works to reinstate the former pitches;;;55.933145;;;-3.152647
+Parks and gardens;;;Muirhouse Park is a community park that provides a space where people can play;;;55.97119;;;-3.261404
+Parks and gardens;;;Murieston Park is a small community park off Dalry Road with benches and play area. The park is regularly used for a number of community events. ;;;55.940404;;;-3.226891
+Parks and gardens;;;;;;55.945932;;;-3.185778
+Parks and gardens;;; with laburnum trees;;;55.955015;;;-3.235817
+Parks and gardens;;;This parkland setting provides space for locals to walk and play;;;55.968178;;;-3.181143
+Parks and gardens;;;A small intimate park;;;55.933386;;;-3.161042
+Parks and gardens;;;;;;55.950113;;;-3.199081
+Parks and gardens;;;Ravelston Park is a small neighbourhood park with a pavilion;;;55.955927;;;-3.255386
+Parks and gardens;;; mice;;;55.954102;;;-3.253756
+Parks and gardens;;;Redbraes Park;;;55.96789;;;-3.188009
+Parks and gardens;;;Regent Road Park is a peaceful green place at the heart of old Edinburgh only a few minutes from Princes Street. From here;;;55.954822;;;-3.174362
+Parks and gardens;;;This attractive little path is an unexpected and delightful woodland glade full of the sound of birds and the murmurings of the Water of Leith.;;;55.962414;;;-3.207664
+Parks and gardens;;;Roseburn Park is in the shadow of the Murrayfield Rugby stadium. One of its attractive features is the Water of Leith which runs along its north edge. There is a childrens play area and football and cricket are both played on the park.;;;55.944586;;;-3.240194
+Parks and gardens;;;Saughton Park is one of Edinburghs hidden jewels. Not only does have a large tract of well-managed open space with playing fields and athletic track;;;55.935164;;;-3.248262
+Parks and gardens;;;This large park has flat expanses of grass which are dedicated to football. The park is bounded by community woodlands planted at the start of the new Millennium. There is a well used play area and skateboard facilities.;;;55.926846;;;-3.286629
+Parks and gardens;;;This small rectangular park overlooks Silverknowes Golf Course and has spectacular panorama of the Firth of Forth. The park is home to football;;;55.973942;;;-3.266287
+Parks and gardens;;;A large attractive park found in Corstorphine Village. There are a range of things to do there including tennis and a brand new play area which was re-opened in 2013. The park has been awarded a Green Flag since 2011;;;55.93925;;;-3.285513
+Parks and gardens;;;This little park;;;55.968467;;;-3.192387
+Parks and gardens;;;;;;55.942952;;;-3.183804
+Parks and gardens;;;Starbank Park commands dramatic panoramas over the Firth of Forth to Fife. A great place top watch the passing ships and brightly coloured yachts. Within the park there are annual beds; one shaped in as a eight-pointed star and two crescents.These depict the Star of the Sea belived to be symbolic of a ships compass and harking back to the days when Forth sailormen navigated the oceans by the stars. At the back of the Starbank House;;;55.979609;;;-3.201227
+Parks and gardens;;;Stenhouse Place East Park;;;55.933304;;;-3.25998
+Parks and gardens;;;;;;55.974182;;;-3.177109
+Parks and gardens;;;Union Park is popular for sport and with local people for walking. The park is railed off and bordered by a hawthorn hedge and lime trees. There is also a well-used childrens play area.;;;55.935693;;;-3.276501
+Parks and gardens;;;11 or 14.;;;55.975047;;;-3.192472
+Parks and gardens;;;West Pilton Gardens is spilt over two levels. The top levels has play areas for toddlers and juniors;;;55.970868;;;-3.246288
+Parks and gardens;;;Whinhill Park;;;55.927423;;;-3.273325
+Parks and gardens;;;Within earshot of Tynecastle;;;55.937421;;;-3.231345

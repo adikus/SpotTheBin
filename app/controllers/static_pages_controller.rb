@@ -21,7 +21,7 @@ class StaticPagesController < ApplicationController
 	def send_data
 
 		tolerance = 30000
-		delay = 60*5
+		delay = 60*30
 
 		@messages = []
 		gname = params[:sgname]

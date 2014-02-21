@@ -1,5 +1,10 @@
 require 'iconv'
 
+
+def pytagoras(x1,y1,x2,y2)
+	return Math.sqrt(((x1-x2)**2) + ((y1-y2)**2))
+end
+
 def rna(old) 
 	return old.gsub(/[\x80-\xff]/,"")
 end
@@ -75,7 +80,7 @@ def remove_duplicates
 		put_in = true
 		unique.each do |u|
 			#if ((u[2] == ls[2]) and (u[3] == ls[3]))
-			if (Connection.pytagoras(u[2], u[3], ls[2], ls[3]) < 0.002)
+			if (pytagoras(u[2].to_f, u[3].to_f, ls[2].to_f, ls[3].to_f) < 0.002)
 				put_in = false
 			end
 		end
@@ -93,8 +98,6 @@ def write_jsons(unique)
 	end
 	file.close unless file == nil
 end
-
-
 
 file = File.open("DATA.TXT", "w")
 read_file(1,file)

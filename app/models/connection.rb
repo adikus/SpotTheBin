@@ -59,23 +59,32 @@ class Connection < ActiveRecord::Base
     false
   end
 
+  def matrix_det(a)
+    return (a[0][0]*a[1][1]) - (a[1][0]*a[1][0])
+  end
+
   def has_intersection(edge)
-    a0=NVector[self.node1.fx,self.node1.fy.to_f]
-    a1=NVector[self.node2.fx,self.node2.fy.to_f]
-    a2=NVector[edge.node1.fx,edge.node1.fy.to_f]
-    a3=NVector[edge.node2.fx,edge.node2.fy.to_f]
+    begin
+      a0=NVector[self.node1.fx,self.node1.fy.to_f]
+      a1=NVector[self.node2.fx,self.node2.fy.to_f]
+      a2=NVector[edge.node1.fx,edge.node1.fy.to_f]
+      a3=NVector[edge.node2.fx,edge.node2.fy.to_f]
 
-    v1=a1-a0
-    v2=a3-a2
+      v1=a1-a0
+      v2=a3-a2
 
-    a=NMatrix[[v1[0],-v2[0]],[v1[1],-v2[1]]]
-    b=NMatrix[[-a0[0]+a2[0]],[-a0[1]+a2[1]]]
-    x=a.lu.solve(b)
+      a=NMatrix[[v1[0],-v2[0]],[v1[1],-v2[1]]]
+      b=NMatrix[[-a0[0]+a2[0]],[-a0[1]+a2[1]]]
 
-    if x[0]<1.0 and x[1]<1.0 and x[1]>0.0 and x[0]>0.0
-      return true
+      x=a.lu.solve(b)
+      if x[0]<1.0 and x[1]<1.0 and x[1]>0.0 and x[0]>0.0
+        return true
+      end
+
+      false
+    rescue
+      return false
     end
-    false
   end
 
   def self.pytagoras(x1,y1,x2,y2)
