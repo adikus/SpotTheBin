@@ -91,6 +91,7 @@ class StaticPagesController < ApplicationController
 				return
 			else
 				@messages << "You ran out of time! You have lost!"
+				generate_output(nil,nil,"L")
 			end
 		else
 			@messages << "Game has not started yet. Please wait."
